@@ -1,80 +1,80 @@
-ho—ˆ”ëCŒn“_Ih
-h¿o—ˆ”ëCŒn“_‘ålh
-(“H “H “H “H)
-ŠïˆÙ“I“d—¬º‹¿‹NC‘R@
-Œn“_oŒ»—¹
-Œn“_ hœk‚‹»ˆ×”I•–±h
-Œn“_ h”IDC—–z
-        ”‡Ÿ—LY–›õHh
-Œn“_ h”IDCàó—˜ˆŸ
-        ù—vY›õ›ñ•›õHh
-hæ¨‰äŠÅŠÅh
-h‰ä‰ŠY–â±Y›õæch
-System hŒ»İ¥”IdŠlV¶“IŠ÷‰ï
-        ‘z—v‰ÁÚ“ß˜¢‘¶ƒæcHh
-Œn“_ h”IŠÒù—vY›õ›ñ•›õHh
-hD—¹C”I‰ÂˆÈ—£ŠJ—¹
- ‹Š…”t’ƒˆ½Ò•ú¼•ú¼”ëh
-Œn“_ h—–zC”I^¥˜¢—Lï“I—ì°
-        ”@‰ÊŠÒù—vY›õ›ñ•“I˜bCŒÄŠ«‰ä
-        •sù—v‹qŸƒh
-h\•ªŠ´Ó
- ‰ä˜ì”V@ŠÒ‰ïˆË—Š”I“I›ñ•h
-Œn“_ hD“ICÄ‰ïh
-Œn“_ h”I‘z—v”cs‘–‘¬“xİ’u
-        “Y›õ‹‰•ÊæcHh
-“Pç÷C‰ü
-s‘–‘¬“xİ’uˆ× [
+hSystemmmmmmm GO!!h
+hPlease come out, System-san.h
+(Beep beep beep beep)
+Strange electronic sounds reverberated from somewhere and
+the System God appeared.
+System hThank you very much for using my services.h
+System hHello, Rance-san.
+        Whatfs your business today?h
+System hHello, Maria-san.
+        What is you need?h
+hLetfs see.h
+hWhat should I ask?h
+System hNowfs your chance to redo your life.
+        Which number should I load?h
+System hIs there anything else youfd like?h
+hAlright, you can leave.
+ Go take a break and drink some tea or something.h
+System hYoufre an interesting person, Rance-san.
+        Well, if you need something else, donft hesitate
+        to call me.h
+hThank you very much.
+ Wefll be counting on you again next time.h
+System hWell then, farewell.h
+System hHow fast would you like to set your walking
+        speed?h
+Did not change.
+Movement speed set to [
 ].
-Œn“_ h”I‘z—vŠÖ•ÂŒn“‰¹Á›õh
-“Pç÷C‰ü
-Œn“‰¹Áİ’uˆ× [
+System hWould you like to turn sound effects on or off?h
+Did not change.
+Sound effects set to [
 ].
-Œn“_ hù—v”d•ú”I“IH‰ñ‘z›õHh
-Œn“_ h–¾”’—¹C—–z
-        Ú‰º—ˆŠJn”d•úH‰ñ‘zh
-‰ñ‘zŒ‹‘©
-[‹¾”Váê•Ğ]
-[äÉ—˜z]
-[–éİ]
-[ —– ]
-[äˆ—í¼ˆŸ]
-[‰ë“T›P2†]
-[åQf]
-[åNä»ãN & –¨Š¹]
-[u—¥]
-[ŠLŠî]
-[ ¬‹Ê ]
-[h¼ˆŸ]
-[àó—˜ˆŸ]
-[”~ä»›G]
-[ŠL¢]
-[‰Á“Ş”ü]
-[éä»‰ë]
-[Šó˜I]
-[ –ƒˆß ]
-[ ¬‡ ]
-[ ˆÉ‰œ ]
-[F“ßŸ½‰ë]
+System hShould I replay your memories?h
+System hUnderstood.
+        Then Ifll replay your memories, Rance-san.h
+Memory replay will end.
+[Mirror Fragments]
+[Feliss]
+[Yocchan]
+[ Ran ]
+[Alicia]
+[Athena 2.0]
+[Leila]
+[Willis & Mikan]
+[Shizuka]
+[Becky]
+[ Tama ]
+[Cynthia]
+[Maria]
+[Merim]
+[Bell]
+[Kanami]
+[Julia]
+[Sill]
+[ Mai ]
+[ Purple ]
+[ Io ]
+[Sanakia]
 [ Canson ]
-[ –I— ]
-[ ŠC–¡–º ]
-[ R’¿–º ]
-[ ‘o¶–º ]
-[ ™\™\ ]
-[ f˜D‰¾ ]
-[ ‰ÈŠw–º ]
-[ •ÇŒÕ–º ]
-[ ’µ’µ ]
-[ ’Zˆß ]
-[ …è ]
-[ •Œìm–º ]
-[ —Jˆè–º ]
-[ •ÄŠi–º ]
-[ –‚–@å™–º ]
-[ –‚–@–º ]
-[ æÎ”™\™\ ]
-[ —³— ]
+[ Bee Girl ]
+[ Seafood ]
+[ Mountainfood ]
+[ Humming ]
+[ KyanKyan ]
+[ Ralga ]
+[ Science ]
+[ Geckon ]
+[ Jumper ]
+[ Blazer ]
+[ Sailor ]
+[ Black Nurse ]
+[ Sour ]
+[ MiG ]
+[ Magisco ]
+[ Magician ]
+[ Mecha KyanKyan ]
+[ Dragon Girl ]
 [ Goldfish Tamer ]
 [ Lantern ]
 [ Cake Girl ]

@@ -1,39 +1,39 @@
-‰ΑΪ
-•Ϋ‘¶
-ν“lέ’u
-Ϊ“®έ’u
-Ί‰Ήέ’u
-H‰ρ‘z
-‹‘©
-‹‘©
-Ω“G‰υ
-‰υ
-•’Κ
-–
-‹T‘¬
-‘ΕJ
-Φ•Β
-—›wq‰φ•¨
-σI
-“™‹‰_
-–ƒί
-Ι‰
-¬‡
-–ιέ
-F“ί½‰λ
-ιδ»‰λ
-‰Α“ή”ό
-”~δ»›G
-ΰσ—
-LΆ
-δΙ—z
-u—¥
-—–
-δ—νΌ
-hΌ
-¬‹Κ
-Lξ
-εQf
-‰λ“T›P2†
-‹Ύ”Vακ•Π
-‹‘©
+Load
+Save
+Battle Settings
+Movement Speed
+Sound Effects
+H Memories
+End
+End
+Super Fast
+Fast
+Normal
+Slow
+Super Slow
+On
+Off
+Gal Monsters
+Sill
+Level Gods
+Mai
+Io
+Purple
+Yocchan
+Sanakia
+Julia
+Kanami
+Merim
+Maria
+Bell
+Feliss
+Shizuka
+Ran
+Alicia
+Cynthia
+Tama
+Becky
+Leila
+Athena 2.0
+Mirror Fragments
+End
