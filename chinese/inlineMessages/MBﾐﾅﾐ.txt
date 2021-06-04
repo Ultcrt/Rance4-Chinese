@@ -1,0 +1,600 @@
+   [
+Passageway
+Room
+Octoman Room
+Waterside
+]
+(Room Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+Therefs a big lake blocking our progress, so it looks
+like we wonft be able to continue southward.
+hRance-sama, the lake looks really deep. It doesnft look
+ like wefll be able to cross it.h
+hWe could if we had a boat.
+ Itfs too bad.h
+The door wonft open.
+The door wonft open.
+Itfs locked from the other side, so it wonft open.
+The door wonft open.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+hTherefs a transport device, Rance-sama.
+ Should we use it?h
+hLetfs see??h
+hAlright, letfs go!h
+hYes.h
+We stood in the center of the magic circle on the ground.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hRance, therefs something in the wall.h
+h.......h
+hIt looks like a picture.h
+Obtained (Famous Picture 7).
+hBut I wonder why there was a picture lying around
+ here??h
+hfCause itfs trash, I guess.h
+h*Squeak*..!h
+hKyaaa, a mouse!!h
+A mouse jumped out onto the path in front of us.
+hWhatfs with this guy?h
+hLookinf for a good deal, mister?h
+hItfs the Pervert Mouse...h
+hYou know him, Kanami?h
+hYeah, he was living in Leazas Castle about a year ago.h
+hHefs a terrible mouse who steals girlsf panties and
+ stuff.h
+hTsk, tsk, thatfs all in the past now, isnft it?h
+hYeah, right!
+ Ifll exterminate you!h
+I held Kanami back before she could jump on the mouse.
+hWait a minute.
+ He sounds kinda interesting.
+ Letfs hear what he has to say.h
+hGood idea.h
+hWhat the heck are you?h
+hI am called Pervert Mouse.
+ Ifm just a mouse with certain... interests.h
+hI see. So what do you want with me?h
+hIfve got something I think you might be interested in
+ buying.h
+hSomething Ifd buy?h
+hI dunno what it is, but I donft like spending money.
+ Gimme it for free.h
+hIfm afraid Ifll have to decline.. *squeak*.h
+hFine, whatever.
+ What is it anyway?h
+hIfve taken an interest in pictures lately.
+ And this one Ifve got is pretty interesting.h
+h.....h
+hThe thing is..
+ Ifve acquired a rather embarrassing picture of one of
+ your companions, mister.h
+hYou what?!h
+hEhhh, no way!h
+hHey, it better not be me!h
+hIs it me...??h
+hTake a picture of Julia!!h
+hSo I thought maybe youfd be interested in buying it,
+ mister.h
+hReally?h
+hItfs a pretty nice picture.
+ You wonft regret it.h
+h.....h
+hIf youfre interested in purchasing it, meet me back here
+ tomorrow.
+ Well then.. *squeak*.h
+The Pervert Mouse ran off swiftly.
+hRance-sama, we should exterminate a terrible Pervert
+ Mouse like that, donft you think?h
+hA sexy picture..h
+hRance-sama..!h
+hA sexy, perverted picture..h
+h..........h
+hKya!h
+h*Squeak*.h
+The Pervert Mouse jumped out onto the path.
+hHello, mister.h
+hYo.h
+hThat picture from yesterday.h
+h*Squeak*.h
+hYou brought it, right?h
+The Pervert Mouse took what appeared to be the picture
+from its side and waved it about.
+hItfs top notch stuff.h
+hThe pricefll be 
+ gold.
+ I wonft negotiate.h
+hW-WHAT!!?h
+hItfs high, itfs too high!h
+hWell itfs not like you have to buy it...
+ So whatfll it be?h
+Hmmmm, I want the dirty picture, but...
+hI got it, Ifll buy.h
+hNegotiations are complete then.h
+I bought the dirty picture from the Pervert Mouse for
+ gold.
+hWell then, Ifll be seeing you.
+ *Squeak*.h
+The Pervert Mouse disappeared in the blink of an eye.
+hRance-sama.. the picture..?h
+hRight, right, the sexy picture..!h
+I took out the picture.
+hOh.. Itfs me. No..!h
+hHow careless, Sill.
+ Whatfs all this about?h
+hEh..?h
+hDonft show your body to any other men than me, you
+ idiot!
+ Itfs my right and only my right to appreciate your body
+ from head to toe!h
+hEh.. ah, yes.h
+hHmph. Be careful when you change from now on.h
+hWhofd buy anything at that ridiculous price, moron?h
+hAh, I see.. Thatfs too bad.
+ Well then, *squeak*.h
+The Pervert Mouse disappeared from sight.
+hI want the picture.h
+hThen please pay.h
+hBut Ifm not gonna pay.h
+hThen Ifm afraid we canft negotiate.h
+hRight, I donft intend to negiotiate.
+ Ifm gonna kill you.h
+h*Squeak*!h
+(Stab)
+I consigned the Pervert Mouse to oblivion with one
+thrust.
+hRance-sama, itfs the Helman group!h
+h.........h
+hThe door still wonft open, huh?
+ How frustrating.h
+h........h
+hRance-sama, what should we do?h
+h....Letfs ignore them for now.h
+...We should avoid fighting them for now since theyfve
+got that Dio guy with them.
+I decided to leave them be.
+hRance-sama, someonefs there!h
+hItfs the Helman guys...h
+h.......h
+hAargh, what is this!?
+ This stupid door still wonft open!?h
+hHubert, hurry up and do it.
+ Youfre such a useless man.h
+hIf youfre so great, then why donft you do it?h
+hY-yeah.h
+hMy orders are the orders of the Emperor!
+ Youfll be court-martialed if you disobey them!h
+h......h
+hThatfs right! Dio, my supreme guard doll!
+ Destroy this door!h
+hI have no interest in anything other than killing.
+ Ifm a being created to fight after all.h
+hAll of you are useless!
+ Why are all of my subordinates so incompetent when Ifm
+ so accomplished?h
+hWhat the heck are they up to?h
+hIt looks like theyfre trying to get that door open.h
+hLooks like theyfre having trouble.
+ Itfs always pleasant to see your enemies struggling.h
+hShit, wefve gotta get those keys before that damn Leazas
+ group.
+ We must hurry.h
+hYou know this is all your fault for using Merim as a
+ shield and running, right?h
+hYeah, if we had her, we wouldnft be having trouble with
+ this stupid door!h
+hSilence!!
+ All you need to do is follow my orders!h
+h.....Bitch-sama!h
+hWhat is it, Merim?h
+Merim grabbed a small rock at her feet and threw it at
+Bitch.
+(Whooooooosh)
+(Tap)
+The small stone hit Bitch in the back.
+hOw! Who was that?!h
+h...Merim, eh?
+ I see, so youfve betrayed us?h
+hWell, since we seem to be at an impasse, we might as
+ well eliminate the competition.h
+We showed ourselves to Bitchfs group.
+hGahahahahahahahahahaha!
+ Rance-sama the hero appears!h
+hEvil men serving the evil Helman Empire!
+ Ifll punish you on behalf of the heavens!h
+hRance-san, Rance-san!
+ The Helman Empire isnft evil.h
+h......h
+hPlease donft be so mean.
+ There are many good people in Helman too.h
+h....Well, whatever.
+ I guess Ifll correct myself then.h
+hMen from the Helman Empire where there are a lot of evil
+ people!
+ Ifll kill you all!h
+hKehya, kehya!
+ You again? Youfre persistent.h
+hWell then, letfs fight!h
+hWait, wait, wait, donft get ahead of yourself.
+ I wonft be the one fighting you.h
+hWhat??h
+hDio!
+ Show me your power!h
+hI can kill them all?h
+hKehya, kehya, do as you like!h
+hRance-sama, he might be a Tousho!h
+hIt doesnft matter what he is.
+ If hefs trying to fight me, hefs gonna die.
+ Letfs go!h
+We entered battle with Dio.
+hRance-sama, he IS a Tousho!
+ We canft beat him!h
+hShit, retreat!h
+Rance decided to retreat.
+hDio! Donft let them escape!h
+hYeah, yeah.
+ Theyfve got guts, but theyfre no match for me.
+ Ifll kill fem all.h
+hRance-sama, Diofs coming!!h
+hYou wonft get away!h
+hKuh... hefs persistent.h
+hShit, retreat!h
+hYes!h
+We backed away from Dio again.
+hHe wonft follow us up the stairs, will he?h
+We climbed the stairs.
+hYou wonft get away from me, trash!
+ Ifm adding you to my collection!h
+hRance-samaaa....!h
+hKuh...!h
+hJuliafs scared!h
+hRance-sama, itfs a dead end!h
+hCanft run anymore, huh?h
+hShit! You know, women donft like persistent men!h
+hItfs time to finish you!h
+hRance-sama, we canft win against him!h
+h.....Hrmmmmmmm!h
+Dio started charging up for a final strike.
+hHey, wait a second.. seriously, wait!
+ Letfs talk this through!h
+hItfs fun seeing my prey make its final pleas for its
+ life.h
+hWhat!?
+ Whenfd I plead for my life...!?h
+hHeh heh heh, now die!h
+hKyaaaa, Rance-sama!h
+hThatfs right!
+ The Return Bonsai!h
+I swiftly took out the Return Bonsai and held it up.
+hDie!h
+EEEEEReturnEEEEEE
+hPhew, man.
+ That was a little, just a tiny bit, dangerous.h
+hWe almost died!
+ My heartfs still pounding!h
+hReally? Letfs see.h
+I grabbed Sillfs breast casually.
+hKyan!h
+hGrope grope, yep, itfs certainly pounding.
+ Mmfufu.h
+I relaxed and started thinking while groping Sillfs
+boobs.
+......That weirdofs...
+Dio the Tousho...?
+All I know is hefs pretty strong.
+Hmmm, I guess this is a tiny problem.
+hRance-sama, hefs super strong!
+ If itfs just us....h
+hWhat?! You think I canft beat him?!h
+hMe, the strongest in the world...?
+ Me, the coolest in the world..?h
+hSill, whofs the strongest man in the world?h
+I asked Sill, thrusting my chest out.
+hThatfs... well... you are, Rance-sama.h
+hRight, I am.
+ Therefs only one reason to think that I couldnft beat
+ that Tousho Dio.h
+h.......h
+hYou guys are all dragging me down!
+ None of you are any fucking use!h
+h........h
+hOh, gimme a break...h
+hIfm sorry.. Is it Juliafs fault??h
+hSo, Rance-sama.. what should we do?
+ Wefll probably have to fight him again.h
+hWefll win. Next time, wefll win.
+ We donft need strategies or nothinf. Wefll win fcause
+ Ifm strong!
+ Gahahahahahahahahahaha!h
+hUmm....h
+hWhat is it, Merim??h
+hI donft think youfll be able to defeat a Tousho.h
+hThe Tousho created by the Holy Magic Sect canft quite
+ defeat Dark Lords, but theyfre incredibly strong.
+ Humans canft possibly defeat them.h
+hI bet youfre not aware, Merim, but, *ahem*, Ifve
+ defeated Dark Lords before.
+ Ifm invincible!h
+hEh... Really??h
+hYeah.. Well, itfs pretty much the truth.h
+hIt was thanks to the Demon Sword Chaos though.h
+hNuh-uh, that retard sword had nothing to do with it.
+ It was my ability.h
+hAnyway, next time we fight, Ifll kill the bastard.h
+hGahahahahahahahahahaha...!h
+Rance-kun had completely forgotten about how he had very
+recently barely escaped with his life.
+hRance-sama, someonefs there!h
+hWhat the hellfs that?h
+Before us is a weird monster dragging a Dragon Girl
+behind it.
+Octoman hChop, chop, chop!h
+(Drag drag drag)
+Octoman hChop, chop, chop!h
+(Drag drag drag)
+Octoman hChop, chop, aah!h
+When he noticed us, the Octoman freaked out and ran off.
+h....What was that about?h
+hWell, an Octoman was dragging a Dragon Girl.h
+hI figured that out, thanks.
+ Anyway, letfs follow fem.h
+hYes.h
+Octoman hChop, chop!
+         Thatfs as far as you go!h
+Several Octomen appeared before us.
+Octoman hChop, chop!
+         From this point on is our great Octoman
+         Kingdom!h
+Octoman hChop, chop!
+         Itfs no place for you lower life forms!h
+hWhatfd you say, octopus bastard!?h
+hIf you get in our way, Ifll make you into takoyaki and
+ sell you at a stand for 20 yen a piece!h
+Octoman hChop, chop!
+         Looks like you just donft understand, you
+         inferior creature!h
+Octoman hChop, chop!
+         Wefll show you the skill of the Octoman Empirefs
+         6th Defense Regiment!h
+hHmph, trash.h
+Octoman hChop, chop!
+         Soldiers, attack!h
+hThis is.... I see.
+ Looks like we took a shortcut and got in front of the
+ Helman guys.h
+hWe did it, Rance-sama!
+ The Helman group is probably still trying to get through
+ that door, so letfs hurry up and find the S Key while
+ wefve got the chance!h
+hYeah.h
+hCold...!h
+hRance-samaa, itfs really cold!
+ I donft think we can go any farther!h
+It certainly is really fucking cold.
+Itfs like 0 degrees or like -100 degrees or some shit.
+(Shiver shiver shiver shiver)
+hLetfs turn back, Rance-sama!h
+hJuliafs cold too.. *Shiver* *shiver*.
+ I donft like the cold.. *Shiver* *shiver*.h
+hItfs really too cold.
+ My hands are numb and I donft think I can use my
+ shuriken.h
+hShit!h
+Doesnft seem like we can proceed further than this.
+Sailor hRance, messenger from hell!
+        Ifll defeat you on behalf of heaven!h
+hYou again??h
+Sailor hI blundered last time, but evil canft possibly
+        triumph twice!h
+hIfm justice, so Ifve got nothing to do with that.
+ I canft lose.h
+hGahahahahahahahahahahahahahahahaha!h
+Sailor hYou piss me off, you asshole!
+        Ifll kill you!h
+hHahahahaha, just try it!
+ Ifll have sex with you whenever you want, babe!h
+The Sailor attacked.
+Blazer hOh my, Sailor lost again, huh?
+        Shefs hopeless.h
+hI pounded her good.
+ Now itfs your turn!h
+Blazer hWhat a boor.h
+Blazer hIfd like to study soon, so Ifll take care of you
+        quickly.h
+hHmph.h
+The Blazer attacked.
+Jumper hWaah, waah, waah!h
+hSo youfre the last one?h
+Jumper hWaah... yeah.h
+hLetfs go.h
+Jumper hWefre gonna fight..??h
+hWerenft you waiting to ambush me so we could fight?
+ If you donft want to, get out of our way.h
+Jumper hNo.h
+hWell then, wefre gonna fight.h
+Jumper hEhhhh? Wefre gonna fight??h
+hMake up your goddamn mind!!
+ What do you wanna do!?h
+Jumper hThen why donft you kill yourself? Huh? Huh?h
+The Jumper attacked.
+Cantel hHuman-made medicine works really well. You really
+        helped me out. I think I can rest well now.h
+hAre you going to stay here, Mr. Dragon?h
+Cantel hUnless this Toushin Toshi is destroyed, I canft
+        get out.h
+hHefs like a captain who wants to go down with his
+ ship... Thatfs pretty manly.h
+Cantel hIfm pretty sure I told you this before, but I
+        just canft leave the room because my bodyfs too
+        big.h
+hShut it! Donft talk back to me when Ifm going out of my
+ way to praise you!h
+Cantel h..........h
+Cantel hDid you get the medicine yet? My sneezes could
+        freeze you solid, so you shouldnft approach me
+        for no reason.h
+hIfll go get it right away, so blow your nose and sleep
+ or something.h
+Cantel hThe medicinefs in the Buoyancy Stafffs.. ah..
+        a..h
+Cantel h*Achoo*!h
+(Spuuuurt)
+The dragonfs cold sneeze washed over us.
+hKyaaa, cold!!h
+hUwah, you asshole!h
+Cantel hSorry, sorry.h
+Cantel hOh? You guys again..?
+        Whatfs your business?h
+hIs your brain frozen too, you rotten dragon?
+ Here, itfs that medicine.h
+I showed the Dragonfs Cold Medicine to the dragon
+asshole.
+hI went out of my way to go and get this for you.
+ So hurry up and hand over the S Key!h
+Cantel hWell, it was a promise..
+        I guess Ifve got no choice...h
+hWhat the hellfs with that attitude when Ifm being this
+ fucking nice getting the thing you wanted for you?!
+ Donft you know how to be thankful?!h
+hRance-samaaa....h
+Cantel h.............h
+Cantel hNo, Ifm sorry about that, of course Ifm
+        thankful....h
+hWell, I suppose I could forgive you because of your
+ honest nature. Gahahahaha!h
+h...............h
+Cantel h...Herefs the key... You were saying something
+        about four keys or whatever, so I think this must
+        be the key you were looking for...h
+I handed the Dragonfs Cold Medicine over to the dragon
+and received the S Key in return.
+hIt certainly seems to be the S Key.
+ Alright.h
+Cantel hWhat do you plan to do with a key like that??h
+hItfs got nothing to do with you.
+ Just drink the stupid medicine and take a nap already.h
+We obtained the S Key, so we decided to return to town
+for now.
+––––––––––––––––––––––––––––––––––––––
+–   Rance IV  |Chapter 4| End        –
+–             DateF 
+               –
+––––––––––––––––––––––––––––––––––––––
+Alice hThatfs the end of chapter 4.h
+Yukichi hCaaw, caaaw.h
+Alice hThen Ifll give you some hints...h
+Alice hPlease use poor Merim-chan, okay?
+       If she keeps getting knocked down and standing
+       back up again, Ifm sure something good will happen
+       even to Merim-chan.h
+Alice hDid you meet the Hanny King?
+       If youfve met him, something good might happen if
+       you bring him a girl you think hefd like.h
+Alice hYou should do your best to aim for the top floor
+       of the South Tower.
+       Definitely.. right, Yukichi?h
+Yukichi hCaw......h
+Alice hCheck out the Item Shopfs bargain bin every once
+       in a while, okay?h
+Yukichi hCaaaw, caaaw, caaaw.h
+Alice hThen please do your best!h
+––––––––––––––––––––––––––––––––––––
+–   Rance IV  |Chapter 5|          –
+––––––––––––––––––––––––––––––––––––
+hOwah!h
+hRance-sama, a d.. d.. d..!h
+hA d... dragon!h
+hI know! I can tell itfs a dragon by fucking looking!h
+Dragon h....Humans, eh...?h
+Dragon hA.. *achoo*!h
+hUwah!h
+hKya... cold!!h
+The fuckinf dragon blew a super cold sneeze at us.
+hI see. This guyfs the reason itfs so cold around here.h
+hThis is the Toushin Toshifs defense dragon!
+ To think itfs still alive! Thatfs so amazing! Ifm so
+ moved!h
+Merimfs getting really excited on her own again.
+Ifll ignore her since I feel like shefll go on for a
+while if I ask her about it.
+Cantel hHumans, huh... For what reason have you come
+        here?h
+Cantel hIt doesnft look like youfre here to see the fool
+        who couldnft protect Upsilonfs skies....h
+hWhat the hell are you talking about?h
+Cantel hIf you have no business here, you should leave
+        quickly.
+        This cold is dangerous to humans...h
+hDangerous? Tch.
+ Wefd be fine if youfd stop spewing that cold air out!h
+hRance-sama, you shouldnft make the dragon angry!h
+Cantel hIfve had a cold for the last several decades, you
+        see...
+        I canft control my body temperature.
+        Sorry about this....h
+hTch. A frickinf cold? What a pathetic loser.h
+hIf only we had some cold medicine that would work on a
+ dragon...h
+Cantel hOhh! Yes! I was forgetting about that!
+        I donft suppose you cold fetch me some medicine,
+        humans?h
+hHuh? Something like that actually exists?h
+Cantel hThere used to be special mages who would tend to
+        the wounds of us dragons when we were injured in
+        battle.h
+hSo if we go to where those people used to work, we might
+ find some cold medicine?h
+Cantel hYes, there should still be some left.
+        Please....h
+hWell, itfll depend.h
+hWhat are you gonna do for me?
+ The worldfs not such a nice place that Ifd go and get it
+ for you for free.h
+hR-Rance-sama...h
+Cantel hTherefs nothing I can do for you. I canft even
+        leave this room with this large body of mine....h
+hYou must have some kinda treasure though, right? Most
+ dragons in games are hiding some kinda super treasure,
+ after all.h
+Cantel hI entered this city to fight the Demon Army.
+        I have no belongings other than this small key..h
+hWhat a pathetic dragon.h
+hRance-sama, maybe the key he has is one of the four
+ wefre looking for.h
+hOh, right. Hey, dragon.
+ Is that key you have the S Key?h
+Cantel hThe S Key... Yes, I believe it was something like
+        that.h
+hAlright.
+ But we could just defeat this thing instead of running
+ around doing errands for him.h
+hNo way! That would be dangerous!h
+hIfm against it as well. I wonft say theyfre as strong as
+ Dark Lords, but dragons arenft something humans can hope
+ to challenge.h
+hShit, this is annoying.........
+ Wherefs the fuckinf medicine?h
+Cantel hYoufll go? Ifm thankful..
+        It should be at the top of the Buoyancy Staff.h
+hWefre trading for the key you have, got it?h
+Cantel h...Understood....h
+[Defense Core B
+F]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

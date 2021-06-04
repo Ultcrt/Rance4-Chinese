@@ -1,0 +1,77 @@
+  [
+Passageway
+Room
+]
+ There are stairs leading up.
+ There are stairs leading down.
+ ThereÅfs a transport device.
+ ThereÅfs a sign.
+The door wonÅft open.
+The door wonÅft open.
+The door wonÅft open.
+The door wonÅft open.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+DoesnÅft look like thereÅfs any reason to search thoroughly
+here.
+Entering Map-Mode.
+There isnÅft anything in particular.
+ÅhHuman, you cannot proceed past this point.
+ Please turn around.Åh
+A girl... no, something that wasnÅft human appeared as if
+to block our path.
+ÅhWhat the heck are you??Åh
+ÅhI am Replica.
+ A Tousho of Upsilon.Åh
+ÅhRance-sama, itÅfs another Tousho!
+ This is bad!Åh
+ÅhAnother Tousho, eh? Are you a pawn of those Helman guys
+ too?Åh
+ÅhI am a Tousho, but I do not work for these ÅfHelmanÅf
+ people you speak of.Åh
+ÅhThen why are you getting in our way?Åh
+ÅhThis Toushin Toshi is still too much for humanity to
+ handle.
+ IÅfm begging you, please turn back.Åh
+Åh.......Åh
+ÅhFreak-sama told me to stop this Toushin Toshi until the
+ time when it is needed to battle the Dark Lords.Åh
+ÅhNo one can move Upsilon until Freak-sama finds a way to
+ control it.
+ So please turn back.Åh
+ÅhI donÅft get what youÅfre talking about.
+ I wanna get through!Åh
+ÅhYou canÅft!Åh
+Replica the Tousho spread her small body out, blocking
+the path as best as she could.
+ÅhFine, if youÅfre gonna stand in my way..!Åh
+ÅhRance-sama, it would be dangerous to fight a Tousho!
+ We canÅft compare to them at our current strength...!Åh
+ÅhLike this small, weak-looking Tousho could even put up a
+ fight!
+ IÅfll rip her apart!Åh
+ÅhYou intend to fight me then? Very well.
+ If you insist upon proceeding past here, I have no
+ choice but to deal with you.Åh
+Åh..........Åh
+ÅhUmm, weÅfre leaving.Åh
+ÅhWeÅfre not fighting, Rance-sama?Åh
+ÅhOf course.
+ I donÅft want to kill pointlessly, so letÅfs find another
+ route.Åh
+ÅhThank you.Åh
+ÅhHmph.Åh
+ÅhYou may not pass.Åh
+ÅhOoh......Åh
+ÅhRance-sama, we should probably give up...Åh
+ÅhWell, for now, IÅfll leave.
+ Hey, when are you gonna let us pass anyway?Åh
+ÅhIf Freak-sama returns...Åh
+ÅhWhenÅfs this Freak coming back?
+ An hour? A day??Åh
+ÅhI donÅft know.
+ IÅfve waited here for Freak-sama for the last 500 years.
+ I donÅft know how much longer it will take.Åh
+Åh........Åh

@@ -1,0 +1,262 @@
+   [
+Passageway
+Room
+Illusion Room
+Blue Passageway
+Red Passageway
+Purple Passageway
+Green Passageway
+Blue Passageway
+Yellow Passageway
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ ThereÅfs a transport device.
+ ThereÅfs a sign.
+Alright, IÅfm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnÅft find any monsters.
+Unfortunately, I couldnÅft find any monsters.
+ÅhRance-sama, thereÅfs no knob on this door.Åh
+ÅhWhat a half-assed door.Åh
+ÅhIÅfm gonna destroy it.Åh
+(Bam)
+My splendid Special Kick hit the door.
+ÅhOwowow.. Tch, didnÅft work, huh?Åh
+ÅhRance-sama, thereÅfs something written on the door.Åh
+ÅhItÅfs a little faded and hard to read.
+ Umm, letÅfs see...Åh
+Åh..ange.. color....Åh
+ÅhWhat the heckÅfs that mean?Åh
+ÅhWho knows? ItÅfs old writing, so maybe it doesnÅft mean
+ anything anymore.Åh
+ÅhGuess so.Åh
+The door wonÅft open.
+We left the huge tower.
+The door wonÅft open.
+The door wonÅft open.
+The door wonÅft open.
+ÅhThereÅfs a transport device, Rance-sama.
+ Should we use it?Åh
+ÅhLetÅfs see??Åh
+ÅhAlright, letÅfs go!Åh
+ÅhYes.Åh
+We stood in the center of the magic circle on the ground.
+Ascend stairs?
+ÅhWhatÅfs wrong, Sill?
+ Hurry up.Åh
+ÅhRance-sama, the stairs are blocked with rubble.
+ We canÅft use them.Åh
+ÅhWhat? Well grow a spine and move the rubble.Åh
+ÅhOkay, heave-ho, heave-ho!Åh
+........
+ÅhRance-sama, thereÅfs too much of it for me to move.
+ I donÅft think we can go upstairs.Åh
+Åh.....Tch.Åh
+We gave up on going up the stairs.
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+DoesnÅft look like thereÅfs any reason to search thoroughly
+here.
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+ÅhUwah, what the hell!!?Åh
+I was sent flying by mysterious sound effects and some
+kind of shock wave.
+ÅhWhat happened, Rance-sama?Åh
+ÅhWhat do you mean? That huge shock wave....
+ Sill, are you okay??Åh
+ÅhYes, IÅfm fine...Åh
+The shock waves were enough to send ME flying, and yet
+SillÅfs standing there like everythingÅfs perfectly fine.
+How dare she!
+ÅhShit, what the hellÅfs going on?
+ Stupid.. uwah!Åh
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+Mysterious shock waves assaulted me again and I
+collapsed.
+And yet... SillÅfs fine.
+ÅhRance-sama, are you okay?Åh
+ÅhShut up! Why only me..?Åh
+ÅhI felt it too.Åh
+ÅhMe too.Åh
+ÅhI hurt tooo... I canÅft go on!
+ Waah, waah!Åh
+ÅhWhat does this mean, Rance-sama?
+ ItÅfs only me...?Åh
+.. ÅhItÅfs because youÅfre a mage, Sill-chan.Åh
+ÅhShizuka-san!Åh
+Just then, Masou Shizuka, one of my women, appeared.
+ÅhLooks like IÅfve found Sill-chan and Rance.Åh
+ÅhHey, Shizuka!
+ What the heck are you doing here?Åh
+ÅhWhat I do is my own business, isnÅft it?
+ ItÅfs got nothing to do with you.Åh
+ÅhIt does too! Hurry up and join my party already!Åh
+ÅhNo way! Why do I have to join your party?Åh
+ÅhBecause IÅfm fighting day and night for world peace!
+ Why the hell wouldnÅft you help me out!?Åh
+ÅhYou? Fighting for world peace..? Funny.
+ Anyway, I have something I need to do here.Åh
+ÅhWhat!?Åh
+ÅhThis Toushin Toshi is a treasure trove of magic
+ knowledge. I might be able to fulfill my lifelong dream
+ here.
+ I donÅft care about Leazas and Helman anymore.Åh
+ÅhWhat the hell are you talking about?Åh
+ÅhUmm.. Shizuka-san, about what you were saying earlier
+ about me being a mage..?Åh
+ÅhOh right, that.
+ ThereÅfs a Mage Barrier on this passageway.
+ Only mages can come through it.Åh
+ÅhGaaaah, how annoying!
+ Just join my fucking party!Åh
+ÅhNo.Åh
+ÅhThatÅfd be a waste of precious studying time.
+ Well, see you.Åh
+Shizuka disappeared down the passageway.
+ÅhWait, you bitch!!Åh
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+I was blown away with a strange sound.
+ÅhShit!Åh
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+ÅhShit, IÅfm pissed!Åh
+Åh.....Åh
+ÅhGeez, what the hell are you doing out here?
+ YouÅfre being so loud I canÅft concentrate on my
+ research!Åh
+ÅhPlease just stop interfering with me.Åh
+ÅhWhat was that, you bitch!?
+ Who the hell do you think I am!?Åh
+ÅhRance, and?Åh
+ÅhYeah, IÅfm Rance-sama!Åh
+ÅhWell then, IÅfm busy, so see you.Åh
+Shizuka tried to leave quickly.
+ÅhWait a second.Åh
+ÅhWhat do you want?Åh
+ÅhThere should be medicine for dragons somewhere in this
+ tower.
+ DÅfyou know anything about that?Åh
+Åh..............Åh
+ÅhOh yeah... Yeah, there is.
+ There was headache medicine and cold medicine, and also
+ stomach medicine for dragons for some reason.Åh
+ÅhI see. Then Shizuka, I order you.
+ Go get the dragon cold medicine.Åh
+ÅhWhy do I have to!!?Åh
+ÅhWell, whatever.
+ IÅfll go get it, so stop bothering me.Åh
+ÅhRance-sama, now we can get the dragonÅfs cold medicine.
+ ItÅfs a good thing Shizuka-san was here.Åh
+ÅhIdiots sure are useful.Åh
+ÅhIdiots.. Idiots??Åh
+ÅhShizuka, of course.
+ SheÅfs amazingly stupid to defy me.Åh
+Åh...I donÅft think thatÅfs true...Åh
+ÅhSill, Åfd you say something?Åh
+ÅhNo, nothing.Åh
+ÅhHmm, ShizukaÅfs sure taking her sweet time.
+ If she canÅft even run this simple an errand, sheÅfs worse
+ than a grade schooler.Åh
+ÅhWhat an incompetent woman.Åh
+ÅhWhoÅfs incompetent?Åh
+ÅhAh, youÅfre finally back.
+ YouÅfd better have what I told you to get.Åh
+ÅhIs that the attitude you take when you ask someone a
+ favor??
+ Seriously.Åh
+ÅhI got it for you.
+ Here, DragonÅfs Cold Medicine.Åh
+I received DragonÅfs Cold Medicine from Shizuka.
+ÅhThank you very much, Shizuka-san.Åh
+ÅhWell then, see you, Sill-chan.
+ Good luck protecting him.Åh
+ÅhWhat was that!!?Åh
+Giggling, Shizuka disappeared into the passageway.
+I was wearing the Fake MageÅfs Clothes, so I could get
+through, but..
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+ÅhKya!Åh
+ÅhOwah!Åh
+ÅhOw, what, what!?Åh
+ÅhHey, what was that!?Åh
+My incompetent subordinates got caught in the trap and
+couldnÅft follow me.
+I was able to get through the trap safely because I was
+wearing the Fake MageÅfs Clothes.
+When I tried to go through the passageway...
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+I was sent flying by creepy noises and a shock wave.
+ÅhShit!Åh
+ÅhRance-sama, it looks like you have to be a mage to get
+ through here.Åh
+"Shut up. Starting now, IÅfm a mage!
+ I have a magic eye beam that makes beautiful girls fall
+ in love with me! So let me through!Åh
+(Beeeep)
+(Booooop)
+(Beep beep boooop)
+ÅhUwah, shit!
+ DidnÅft work, huh?Åh
+ÅhItÅfs too bad, Rance-sama.Åh
+ÅhSill, I hope youÅfre not feeling all superior right now.Åh
+ÅhEh? Of course not.Åh
+ÅhNo, you definitely are!
+ You looked at me with a face like ÅfI can get through
+ Åfcause IÅfm a mage! IsnÅft that great?ÅfÅh
+ÅhYouÅfre wrong, Rance-sama!
+ I wasnÅft thinking that at all!Åh
+ÅhShut it.Åh
+(Hit hit hit hit)
+(Kick kick kick kick wham)
+Åh*Sob* *sob* *sob*.Åh
+I took out my anger on Sill.
+ÅhEh...? Rance.Åh
+I ran right into Shizuka, who was walking through the
+passageway, carrying a book.
+ÅhGahahahahahaha, Rance-sama appears!Åh
+ÅhSill-chan appears too!Åh
+ÅhHow? HowÅfd you get in here, Rance?
+ Only mages should be able to!Åh
+ÅhNothingÅfs impossible for me!Åh
+ÅhAnyway, youÅfre joining my party.
+ Get over here.Åh
+ÅhNo.Åh
+ÅhWhaaat!?Åh
+ÅhIÅfm researching magic in this Toushin Toshi.
+ And IÅfm going to obtain incredible power!Åh
+Åh.......Åh
+ÅhSo I donÅft have time to mess around with you.
+ See you.Åh
+ÅhIsnÅft that a little mean, Shizuka?
+ LetÅfs all work together and...Åh
+ÅhMaria, you were a good friend, but weÅfre not destined to
+ walk the same path in life.Åh
+ÅhShizuka....Åh
+With that, Shizuka ran off.
+ÅhMagic research, my ass.
+ SheÅfs such a spoiled brat.Åh
+ÅhIÅfm definitely gonna catch her and punish her!Åh
+[Buoyancy Staff 
+F]
+    Adventure
+Day 
+    Time [
+ÅF
+0]
+Encountered a monster.
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇwÇ™ëÂÇ´Ç¢
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇxÇ™ëÂÇ´Ç¢

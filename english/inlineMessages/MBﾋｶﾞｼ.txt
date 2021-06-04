@@ -1,0 +1,461 @@
+   [
+Passageway
+Room
+Research Room
+Cell
+Mogandafs Research Room
+Mogandafs Operating Room
+Magic Metalworker Research Room
+Magic Metalworker Operating Room
+Medicine Room
+Tuning Room
+Battle Room
+E Key Room
+]
+(Room Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+The door is locked from the other side and wonft open.
+Therefs a strange doll in front of the door and we canft
+get past it.
+hRance-sama, I canft move it.
+ Nnnh, nnnh!h
+hItfs heavy.h
+hTch, what a pest.
+ Letfs look around a little.h
+The door is locked (and requires the Research Key).
+Used the Research Key to open the door.
+The door cannot be opened.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+Hanny hHanihooo!h
+A Hanny suddenly appeared.
+Hanny A hSlug.h
+Hanny B hGulfweed.h
+Hanny C hDabinett Apples!h
+h......h
+Hanny C hApples, apples, whatfs after apples!h
+hRance-sama, I think itfs Shiritori.h
+hOkay, after apples..?
+ S, s, s...h
+hSyrian Golan!h
+Hanny h.....h
+Hanny B hN!h
+Hanny C hYou lose!h
+hOh, shit!h
+Hanny A hPunishment!
+         Kill fem!!h
+The Hannys attacked.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+hTherefs a transport device, Rance-sama.
+ Should we use it?h
+hLetfs see??h
+hAlright, letfs go!h
+hYes.h
+We stood in the center of the magic circle on the ground.
+Doesnft look like therefs any reason to search thoroughly
+here.
+(Rattle rattle rattle rattle)
+A dry sound echoed from somewhere.
+... hYou are entering a place of rest for the dead.
+     The living do not belong here.h
+... hProceeding means certain death.h
+hIt sounds like a warning, Rance-sama.
+ Maybe we should turn back...h
+h.....I guess.
+ Itfs not like Ifd get scared of a stupid warning like
+ that though.
+ Wefll just turn back for now.h
+hYes, Rance-sama.h
+We turned around.
+hGahahahahaha, who do you think I am?
+ No way.h
+hRance-samaaa..!h
+hFull speed ahead, letfs go!h
+hI suppose so, ohohohohohohoho...!h
+hGahahahahahahaha!h
+hAha.. ahaha...h
+ƒSill, who canft help but laugh too„
+... hYou would ignore my warning?
+     Then I shall grant you death.h
+... hFall into deep darkness.h
+hItfs monsters, Rance-sama!h
+hKill fem all!h
+Wefre in front of Mogandafs room, but we canft get in.
+hRance-sama, therefs a sign in front of the door.h
+hHm...? Letfs see here.h
+F  Great Professor Mogandafs Operating Room    F
+F                                              F
+F   Surgery in Progress  No Entry Allowed      F
+hI see, so this is his true research room.
+ Alright, letfs go in.h
+(Rattle rattle rattle)
+hAaaargh, the doorfs locked!h
+hOpen up, fuckinf Moganda!
+ Get out here, fuckhead!h
+(Bam bam bam)
+Moganda was too scared of me to come out.
+hRance-sama...h
+hThere he is! itfs Moganda!
+ What the heckfs he doing?h
+hResearch, research, research again today!
+ How great am I for being so passionate about my
+ research?h
+hThose rock-headed, old-fashioned researchers are just
+ jealous of my brilliant new ideas and thatfs why they
+ keep getting in my way!
+ What fools.h
+hWell then, what kind of Tousho should I develop
+ today..?h
+hThis is.. a 50-year-old KyanKyan.
+ KyanKyan just donft make great materials.h
+hThis onefs a 15-year-old Pressure Master. Theyfve
+ got great stamina and fighting ability, but Ifm kind of
+ tired of making them into Tousho, unfortunately.h
+hThis is... a human?
+ Humans are just too weak to make good Tousho.h
+hTheyfre such wasteful creatures.
+ I canft use this.h
+h...Wait.
+ Itfs true that normal researchers canft make good human
+ Tousho, but Ifm a genius, so I should be able to.h
+hA 200-year-old human, huh? Alright, Ifll take it.
+ Ifll use a human for the first time in a while!h
+Laughing like an idiot, Moganda took a flask out of his
+pocket, opened it up, and and sprinkled its contents onto
+the statue.
+(Sizzle, sizzle)
+hCarry this to my Research Room.h
+So this is where that nut keeps his research materials,
+eh..?
+Thatfs pretty creepy.
+hWhat should we do, Rance-sama?h
+hKill fim, of course.h
+hTherefs nothing wrong with killing evil mad scientists.h
+hMoganda..?h
+hHe ran away.
+ But we know where he is this time.h
+hHis Research Room, huh?h
+hYep.
+ Now, letfs follow him.h
+hThere he is, found him....
+ ...Hefs dancing.h
+hTralala, lalala..!h
+hWhat a wonderful step.. trala!
+ Heehee..!h
+hLa la la laaa..!h
+h*Gasp*... Therefs no time for this!h
+hI am the great scientist, Moganda!
+ I must continue my research...h
+hThere he is, found him....
+ ...Hefs dancing again.h
+hTralala, lalala..!h
+hWhat a wonderful step.. trala!
+ Heehee..!h
+hHe looks pretty happy, Rance-sama.h
+hI wonft accept anyone but pretty girls dancing.h
+hLa la la laaa..!h
+h*Gasp*... Ifm doing my Dandy Dance again!
+ ....Oh my my!h
+hI am the great scientist, Moganda!
+ I must continue my research...h
+hThere he is, found him....
+ ...Hefs dancing.h
+hTralala, lalala..!h
+hSpin spin spin, Kuru kuru.. trala!
+ Babincho!!h
+hLa la la laaa..!h
+h*Gasp*... My research passion is just bubbling out of
+ me!h
+hAlright, experiments, experiments!
+ I must continue the operation...h
+(Beep beep beep beep)
+hCombat test will begin now.
+ Implementing Test Program
+ Purple
+ Blue
+ Black
+ Red
+.h
+hHm.. Whatfs that mean?h
+hOh, Rance-sama!
+ Monsters!h
+Monsters appeared and we began to fight.
+hTch, this doorfs locked too.
+ Shit!h
+(Bam)
+I gave the door a good kick.
+.. hUmm.. Who is it?h
+hRance-sama, therefs someone inside!h
+hItfs Rance-sama, the hero of the era!
+ Open this door immediately!h
+.. hRance-sama... Never heard of him.
+    I donft know you.h
+hAnyway, open the door.h
+.. hMommy said not to let strangers into the house.h
+hRance-sama, it doesnft look like wefll be able to get
+ in.h
+hHmm, wanting to enter even more after being told you
+ canft is basic human psychology.
+ Letfs think of a way.h
+(Knock knock)
+.. h....Who is it?h
+hItfs Mommy. Open the door.h
+.. hNo way, Mommyfs voice isnft that scary!h
+hRance-sama, I donft think thatfs going to work.h
+(Knock knock)
+.. h...Who is it?h
+hSill, do an impression of this kidfs momfs voice.h
+hUmm, itfs Mommy!
+ Could you open the door, sweetie?h
+.. h.......h
+.. hOkay.h
+Oh, we did it!
+.. hBut first, show me your Naginata as proof.h
+hRance-sama.. we donft have a Naginata...
+ What should we do?h
+hHmmm, letfs use this sword.h
+I stuck my sword under the door.
+.. hNo, youfre not my Mommy!
+    That was close!h
+hTch, no good, huh?h
+Alright, letfs use this Naginata.
+I stuck the Naginata under the door.
+.. hOh, Mommy! Itfs Mommyfs weapon!h
+.. hWelcome home! Ifll open the door!h
+(Click)
+Tokko-chan hWelcome home, Momm.. kya!!h
+hGahahahahahahahaha!!!h
+The Tokko-chan ran back into the room.
+But now that the door is open, Ifve won.
+A strange creature appeared.
+hI am the genius scientist!!
+ My brainfs the best in the world, Ifm so cool!
+ Ifm super, Ifm great, Ifm efficient, Ifm the president,
+ Ifm rich! My name is Genius Moganda!h
+hHey, weirdo.
+ Youfre in our way.
+ Move.h
+hYeah, get out of our way!h
+hWh... what could this mean!?h
+hWhat is it, geezer?h
+hHumans for my experiments are wandering around here?
+ What on earth are my wardens doing!?
+ Pay cuts, pay cuts, pay cuts!h
+h....Whatfs this weirdo saying?h
+hWho knows. Maybe hefs not all there, you know?
+ They say there are more people like this when it starts
+ to get warm out, you know?h
+hI see, then it shouldnft be a problem if we kill him.h
+hWhy not?
+ I donft think anyone would care.h
+h125+38=46!
+ Uhaha, uhaha, Ifm perfect today too!h
+hWell then, Ifll defeat these escapees with my newly
+ developed Tousho!
+ Uhaha, uhaha, uhaha!h
+hGo, my Tousho!
+ Show me your invincible power!h
+hPhew, flawless victory, eh?h
+hI suppose so. Oh?
+ Where did that crazy guy with the weird head go?h
+hI guess hefs not here anymore.
+ Sill, fd you see him?h
+hUmm, that strange robot man?
+ He ran away right when the battle started.h
+hWhat, Sill!?
+ And you just let him go?!h
+hEh? Rance-sama.. thatfs not it..
+ You didnft say anything about chasing him either.h
+hShut up! Ifm gonna be pissed if that weirdo shows up
+ again. You shoulda just killed him, you idiot!h
+hWait, Rance-san.
+ I donft think Sill-chan meant any harm.h
+h...Well, if you say so, Io...h
+hIo-san...h
+hBut mistakes are mistakes!
+ Slaves have to remember mistakes with their bodies.
+ But donft you worry about it, Rance-san. Ifll punish her
+ for you.h
+Io took out a black whip and beat Sill with it.
+(Whoooooosh thwack)
+h*Gasp*..!h
+hItfs not over yet! Take that!h
+(Smack
+ smack
+ smack
+ smack)
+Sillfs white skin received a harsh whip baptism and
+swelled up, turning red.
+h*Gasp*.. *gasp*.. *sob* *sob*.h
+hFufufufu, how pathetic.
+ Hoooohohohohohohoho!h
+hRance-sama, please come back to your senses!
+ Io-san has cast a Charm spell on you, Rance-sama!h
+Sill clung to me and said some weird stuff, but I kicked
+her away. Shefs got such an attitude for a slave.
+hDonft talk nonsense, Sill. Youfre just a slave.h
+hRance-sama...!h
+Sailor hMaking a frail girl cry, Rance?
+        Your evil deeds end here!h
+hWho the hell are you??h
+Sailor hTherefs no point in talking!
+        Die!h
+hGahahahaha, Ifm gonna make you cry instead!h
+Blazer hOh, Sailor.. You lost, I see.
+        You have so much energy and you canft do anything
+        with it.h
+h...Are you gonna fight me too?
+ Or are you a young girl in love whofs come to be fucked
+ by me?h
+hThatfs it! That must be it!
+ Hurry up and strip! Ifll fuck you!h
+Blazer hWhat a selfish person, just like the rumors say.
+        Looks like Ifll have to deal with you.h
+Blazer hIfll cut that *beep* of yours right off so that
+        you canft use it to pick on girls anymore.h
+hUgh.. What a vulgar thing to say with a refined face.h
+Blazer hNow, prepare yourself.h
+Jumper hWaah, waah, waah!h
+h........h
+Jumper hWaah, waah, waah!h
+hHm..? What the hell are you crying about, girl?h
+Jumper hWaah.. *sniff*.. *sniff*.h
+hThe beautiful, kind Rance-sama will listen.
+ What are you so sad about?h
+Jumper hWell.. I have a mission.. *sniffle*.
+        But....h
+hBut what?h
+Jumper hMy missionfs really hard.
+        Jumper canft do it.h
+hI see. Well then, I could do it for you?
+ Just let me do YOU afterward.h
+Jumper hOkay.h
+hSo whatfs your mission?h
+Jumper hKilling Rance...h
+h.....What?h
+Jumper hDie.h
+hN.. no!h
+Jumpter hLiar.h
+hThatfs hardly fair!h
+Jumper hFine. If you wonft do it, then I will.
+        Taaaah!h
+The Jumper attacked.
+h*Cough*.. *cough*.. that poisonous gas is still here.h
+hRance-san.h
+hI got it. *Cough*.
+ Fuckinf poison gas! Your evil deeds end here!
+ Ifm gonna erase you!h
+h*Cough*, Rance-sama.. hurry!h
+I took the Antidote Ball out and smashed it on the
+ground.
+(Smaaash waft waft)
+The Antidote Ball broke into dust.
+h.......h
+h.......h
+h........h
+h....Nothingfs happening!
+ Fucking Antidote Ball, youfre a fucking liar!!h
+h..No, Rance-sama.
+ Itfs gradual, but the poisonous gas is disappearing.h
+h...It really is.h
+After a little while, the poisonous gas had completely
+disappeared.
+h...What the heckfs this smoke..?h
+h*Cough* *cough* *cough*!h
+h*Cough*.. This is...h
+h*Cough*.. Rance-sama, itfs poisonous gas!
+ Letfs get away!h
+h*Cough*.. I- I canft breathe.. Wefre running.h
+We ran from the area with the poisonous gas.
+h*Cough*.. *cough*...h
+hRance-san, itfs poisonous gas!
+ We have to turn back!h
+h*Cough*.. I guess so.h
+We ran from the area with the poisonous gas.
+Moganda appeared with a few of his underlings in tow.
+hI am the genius scientist!!
+ My brainfs the best in the world, Ifm so cool!
+ Ifm super, Ifm great, Ifm efficient, Ifm the president,
+ Ifm rich! My name is Genius Moganda!h
+hHe showed up again.h
+hHand over the E Key! You have it, donft you?h
+hAccording to last weekfs theory, I should be better, but
+ according to this weekfs theory, I should be a home run!
+ How very difficult.h
+hHey, crazy!
+ Did you not hear us tell you to hand over the E Key?h
+hLast monthfs research costs meant I had to cut back on
+ my food budget. That wasnft good.
+ I want to eat hamburger.h
+h...Hefs insane. Nothing we can say will get through to
+ him.h
+hOh, over there, could that be... hu-mans!
+ Oh, youfve come at such a good time!
+ Ifll show you my greatest masterpiece!h
+hThe new Tousho, Mecha Kol!
+ This onefs super strong!
+ Hefs stronger than Baba and Inoki!h
+hGo! Destroy those humans!h
+Mecha Kol hNiihaao!h
+hAnd Moganda...?h
+hIt looks like he got away, Rance-sama.h
+hSill, you let him get away again?h
+hBut, I... I tried my best!h
+hThe problem isnft how hard you tried.
+ The problem is your results. Results, got it?
+ Time for some punishment!h
+hYeah, slaves should be punished when they make mistakes.
+ What would be good?h
+hGot any good ideas, Io?h
+hLetfs see.h
+hWhat about masturbating here?h
+hEh...?h
+hI see. That sounds interesting.
+ Do it, Sill.h
+hRance-sama, do I really have to..?h
+hSill-chan, if you donft hurry up and do it, a monster
+ might show up.h
+hDo it.
+ If you stop before you cum, Ifll never forgive you.h
+When I glared at her, Sill gave up and started taking off
+her clothes.
+hYes....h
+Sill started awkwardly touching her breasts and pussy.
+hAh...!h
+hAlright, keep it up.h
+hOh, monsters!h
+hEh? Eh? Nooo.. ahn!h
+Sill panicked and tried to get her clothes back on but
+ended up tripping and falling over instead.
+hI lied. You got all panicked! How embarrassing.h
+hYoufre terrible....h
+h*Spin* *spin* *spin* *spin*.h
+hRance-sama, everythingfs *spin* *spin* *spin*ning!h
+hWefve warped out.h
+hAlright, that keyfs gotta be in here somewhere, right?h
+hThatfs right, Rance-san.
+ Please find it for me, okay?h
+hYeah, I will.h
+h........Rance-sama...h
+[Research Core B
+F]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

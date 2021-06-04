@@ -1,0 +1,98 @@
+   [
+Passageway
+Room
+Magic Column Room
+Magic Supply Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+hRance-sama, the Landing Crafts are in the Tousho Core.
+ Not here.h
+hRight, wefve gotta hurry!!h
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hRance-sama, look...!h
+Looks like therefs someone in the passageway.
+I peeked out so as not to be seen.
+hToh!h
+hHeh heh heh!h
+hItfs those guys....h
+hThe Tousho Dio and Replica-san.
+ I wonder what theyfre doing?h
+hProbably a date.h
+hA date??h
+hRight, the two Tousho are in love.
+ One of fem might be giving the other a love letter.h
+h...Thatfs not what it looks like.
+ They seem to be arguing.h
+hI bet one of fem found out the other one was cheating.
+ And now theyfre arguing about it.h
+h..........h
+hI wonft let you through, Dio.
+ Upsilon must not be moved.h
+hHeh heh heh, lecturing me?
+ You do foolish things, girl.h
+hYou canft. If you insist, youfll have to get past me.h
+hThen thatfs what Ifll do.h
+hIfve no choice!h
+hHeh heh heh, do you really think you can beat the
+ strongest?h
+hKuh....h
+hBut itfs no fun fighting a Tousho.
+ I like seeing the fear of death on my opponentsf faces.h
+h.......h
+hAll we are are brains after all.
+ At least amuse me with your voice.
+ A voice trembling with terror.h
+hKuh.. ah.. ah...!h
+hHeh heh heh, looks like my claws have reached a part of
+ your brain.
+ Youfll die soon.h
+hAh.. ah.. Freak-sama...h
+hYes, youfll die.
+ Heh heh heh heh.....h
+hWell done, Dio.
+ Ifll praise you.h
+h..........h
+hThis only happened because you got in my way, pathetic
+ female Tousho.
+ Kehya, kehya, kehya..!h
+hNow, letfs go.h
+hRight.h
+hRance-sama...!h
+hFufufu, what a loser.
+ Since they fought amongst themselves, wefre down to only
+ one Tousho now.h
+hBut, Rance-sama!
+ I didnft think Replica was our enemy.. I feel kind of
+ sorry for her.h
+hShe blocked my path.
+ Anyway, wefre following the Helman guys.h
+hThey must be after the N Key.
+ Theyfll be pissed if we get it before them, so letfs
+ hurry.h
+hYes.h
+[Underground Power Room]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

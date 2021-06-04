@@ -1,0 +1,14 @@
+Surroundings
+Sky
+Rocks
+Tower
+Cassado
+Big Tower
+North Tower
+South Tower
+West Tower
+East Tower
+Camp
+Look
+Brute
+Move

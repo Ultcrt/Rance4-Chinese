@@ -1,0 +1,45 @@
+   [
+Passageway
+Room
+Magic Column Room
+Magic Supply Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hWhere is this?h
+hThis is the Toushin Toshi Power Area.
+ Itfs where its powerful stock of magical energy is kept.
+ Itfs wonderful.h
+hI see.h
+hAnd the girl we took from the church is set as the power
+ source in this area.h
+hBy fthe girl from the church,f you mean Alicia, right?
+ Where is she?h
+hThis way.h
+Merim pointed to the right.
+[Surface Power Room]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

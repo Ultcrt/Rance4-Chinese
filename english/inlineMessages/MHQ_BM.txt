@@ -1,0 +1,29 @@
+  [
+] (
+)
+...A monster attacked.
+Leave the room?
+This thing is unreadable.
+Itfs a table with a crystal ball on it.
+Therefs nothing particularly interesting about it.
+Itfs a normal wooden table.
+Itfs like a cloudy lens.
+What the heckfs this about?
+Therefs a device that can fit four keys.
+hRance-sama, itfs a treasure chest.
+ What should I do?h
+Letfs see...
+Should she open it?
+hDonft open it.
+ DO NOT open it.h
+hOkay, got it.
+ I WILL NOT open it.h
+hAlright, do your best to open it.h
+hOkay, Ifll try.h
+(Rustle rustle rustle)
+(Clack)
+hRance-sama, itfs open!h
+hI foundF 
+ inside.h
+hAlright, hold onto it.h
+hYes.h

@@ -1,0 +1,34 @@
+Research Key
+Yes
+No
+Yes
+No
+Yes
+No
+Research Core B1F
+Research Core B2F
+Research Core B3F
+Research Core B4F
+Research Core B5F
+Room
+Research Room
+Cell
+Passageway
+MogandaÅfs Research Room
+MogandaÅfs Operating Room
+Magic Metalworker Research Room
+Magic Metalworker Operating Room
+Medicine Room
+Tuning Room
+Battle Room
+E Key Room
+Ignore warning
+Turn back
+Antidote Ball
+Mysterious Paper
+Map
+Camp
+Search
+Look
+Left click to move
+Right click for options

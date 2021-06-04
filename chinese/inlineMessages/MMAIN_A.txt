@@ -1,0 +1,386 @@
+   [
+Passageway
+Room
+KingÅfs Summer Resort
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ ThereÅfs a transport device.
+ ThereÅfs a sign.
+Alright, IÅfm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnÅft find any monsters.
+Unfortunately, I couldnÅft find any monsters.
+The door wonÅft open.
+ÅhWell then, IÅfll open the door.Åh
+ÅhAlright, do it.Åh
+(Creeeeeeak)
+The door opened.
+ÅhAlright, weÅfre goinÅf in.Åh
+The door is locked (and requires the Iron Hanny Key).
+Used the Iron Hanny Key to open the door.
+The door cannot be opened.
+The door cannot be opened.
+ÅhRance-sama, it looks like this transport device is
+ one-way, so we canÅft use it from this side.Åh
+ÅhSo this is the last stop.
+ Then how the hell are we supposed to get back?Åh
+ÅhI think there must be another transport device somewhere
+ else to get back, but if it comes to it, we can always
+ use a Return Bonsai, so we should be okay.Åh
+ÅhI guess youÅfre right.Åh
+The door is locked (and requires the Belief Key).
+Used the Belief Key to open the door.
+The door cannot be opened.
+The door is locked (and requires the Betrayal Key).
+Used the Betrayal Key to open the door.
+The door cannot be opened.
+The door is locked (and requires the Illusion Key).
+Used the Illusion Key to open the door.
+The door cannot be opened.
+The door wonÅft open.
+The door wonÅft open.
+ÅhOh, somethingÅfs there!Åh
+ÅhWhat?Åh
+Kanami found something like a sword in the darkness.
+ÅhItÅfs a naginata.Åh
+Obtained Naginata.
+The door was shut tight and wouldnÅft open.
+It seems like itÅfs locked, but I donÅft see a keyhole.
+ÅhRance-sama, what should we do?Åh
+ÅhIÅfve gotta lift this door, right?Åh
+I stuck my hands in the gap underneath the door and
+pulled up, hard.
+(Clatter)
+The surprisingly light door opened like a shutter.
+ÅhWe did it, Rance-sama!Åh
+ÅhWhat a ridiculous door.Åh
+ÅhAlright, IÅfm gonna push it.Åh
+(Hrmm hrmm push push)
+ÅhItÅfs not budging, huh, Rance-sama?Åh
+ÅhI guess itÅfs not a push door.Åh
+ÅhAlright, IÅfm gonna pull it.Åh
+(Hrmm hrmm pull pull)
+ÅhItÅfs not moving at all, Rance-sama.Åh
+ÅhSeems like itÅfs not a pull door either.Åh
+ÅhFor the time being, I guess IÅfll knock politely.
+ I AM a gentleman, after all.Åh
+I stood at attention and knocked properly.
+(Knock knock knock)
+Åh........Åh
+Åh.........Åh
+(Knock knock knock)
+Åh..........Åh
+ÅhIt doesnÅft look like anyoneÅfs home, Rance-sama.Åh
+So they wonÅft come out even though IÅfM going to the
+trouble of knocking..
+... ÅhWho visits the kingÅfs summer resort??Åh
+ÅhWhoÅfre you??Åh
+All of a sudden, a Science was standing behind me.
+Science ÅhLooks like an uninvited guest.
+         IÅfll have to punish you, taah..!Åh
+ÅhRance-sama, thereÅfs a sign?
+ Sould we read it?Åh
+ÅF Transport Device to Tousho Core           ÅF
+ÅF                                           ÅF
+ÅFTransport to Tousho Standby Station.       ÅF
+ÅFOff-limits to unauthorized personnel.      ÅF
+ÅF Transport Device to Defense Core          ÅF
+ÅF                                           ÅF
+ÅFDragon Standby Station. Please do not feed.ÅF
+ÅF Transport Device to Supply Core           ÅF
+ÅF                                           ÅF
+ÅFPlease report for pick-up every day at 8AM ÅF
+ÅFif on supply duty.                         ÅF
+ÅF Transport Device to Research Core         ÅF
+ÅF                                           ÅF
+ÅFOff-limits to non-research personnel.      ÅF
+ÅhThereÅfs a transport device, Rance-sama.
+ Should we use it?Åh
+ÅhLetÅfs see??Åh
+ÅhWhere are we going, Rance-sama?Åh
+ÅhWeÅfre goinÅf to the Control Room where Bitch or whatever
+ is. You know that.Åh
+ÅhBut then, we shouldnÅft use this...Åh
+ÅhI know that.
+ I was joking. Hmph.Åh
+ÅhAlright, letÅfs go!Åh
+ÅhYes.Åh
+We stood in the center of the magic circle on the ground.
+Moving to Tousho Core
+.........
+ÅhWhat?
+ WeÅfre back in town!?Åh
+ÅhIt looks like that transport device is there to return
+ to the outside, Rance-sama.Åh
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+DoesnÅft look like thereÅfs any reason to search thoroughly
+here.
+ÅhKyaaaaa!Åh
+ÅhHm, a scream?Åh
+ÅhAnd itÅfs a womanÅfs scream too.. letÅfs go, Sill.Åh
+ÅhYes, Rance-sama.Åh
+I ran towards the screams.
+ÅhOh, look at this!!!Åh
+ÅhRance-sama, a girl is being attacked by a monster!Åh
+ÅhWhat, a monsterÅfs being attacked by a girl?Åh
+ÅhNo, the girl is being attacked.Åh
+ÅhHm, hm.Åh
+... ÅhKyaaaa, help me..!!Åh
+Ohh, a girl with exposed skin is being attacked by a Nubobo.
+Sill ÅhRance-sama, we should save... eh?Åh
+I grabbed SillÅfs hand and shook my head.
+Rance ÅhA beautiful girl is being attacked by a monster here.
+       We should observe until sheÅfs just about to get done in.Åh
+Sill ÅhRance-sama...Åh
+Rance ÅhDonÅft worry, I wonÅft let a good woman like that get killed by
+       a monster. IÅfll save her right at the last minute.
+       But man, this is dirty.Åh
+The Nubobo is attacking the girl with bloodshot eyes.
+Nubobo ÅhOhohohohohooon.Åh
+Girl ÅhKyaaaa, no!
+      DonÅft do anything weird!!Åh
+The Nubobo uses its large hands to violently grope the beautyÅfs
+breasts and uses its tail to lewdly stroke the beautyÅfs secret place.
+Girl Åh..Kuh.. *gasp*.. AAaah..!Åh
+Nubobo ÅhOhohohohohohohoon!
+        Duh you like dat?Åh
+Girl Åh......Åh
+The beautyÅfs ignoring him, but from how wet she is..
+She likes it.
+This is nice.. I wanna go over there and stick my destructive weapon
+into that wet pussy.
+Nubobo ÅhOhohohohoon.
+        I canÅft take dis anymore.Åh
+Girl Åh.........................Åh
+Nubobo ÅhOoh, good, good.Åh
+Girl Åh.........................Åh
+Sill ÅhRance-sama, that girl is whispering something to the monster.Åh
+Rance ÅhI bet sheÅfs saying something like ÅfI canÅft take it anymore,
+       just put it in alreadyÅf.Åh
+Sill ÅhIt doesnÅft really look like that though...Åh
+The NuboboÅfs eyes became more bloodshot and it started attacking
+harder.
+Girl ÅhOh, enough already!!Åh
+Girl ÅhThunderstrike!!Åh
+Powerful lightning struck the Nubobo and it was blown
+away.
+ÅhWhat the hell? She defeated the monster on her own!Åh
+ÅhBut Rance-sama, it looks like sheÅfs unconscious.
+ LetÅfs go help her.Åh
+ÅhYes, I guess so.Åh
+ÅhHelping people.. helping people.. helping ladies...Åh
+(Walk walk)
+I sat the woman up and held her.
+My hand accidentally touched her seductive skin, but it
+just happened, so itÅfs not like I could have done
+anything to avoid it.. Ufufufu.
+ÅhHey, you okay?Åh
+ÅhTh.. thank you.Åh
+ÅhDonÅft worry, I completely destroyed that evil monster.Åh
+ÅhRance-sama, she defeated the...Åh
+ÅhShut up.Åh
+Åh.....Åh
+ÅhThank you very much.
+ My name is Io Ishtar.Åh
+ÅhI came to this dungeon to pick bamboo shoots, but I was
+ attacked by a monster that appeared out of nowhere...Åh
+ÅhI see, that must have been terrible.Åh
+ÅhYes.Åh
+ÅhWell then, letÅfs get down to business.Åh
+ÅhIÅfm not an honorable hero of justice doing charity work.
+ Got it?Åh
+ÅhOf course. The world isnÅft so convenient as that.Åh
+ÅhYou want me to thank you for saving me, right?Åh
+ÅhRight, you understand well.
+ IÅfm a nice guy, so if you donÅft have any money....Åh
+ÅhPlease allow me to thank you.Åh
+Io stared into my eyes.
+Åh.........Åh
+ÅhIn thanks, IÅfll give you.. everything.Åh
+Åh..........Åh
+Åh..........Åh
+Åh....Okay.Åh
+ÅhRance-san, youÅfll do me a favor, wonÅft you?Åh
+ÅhY.. yeah.Åh
+IÅfll listen to any request from my beloved Io.
+ÅhRance-sama, Rance-sama...!Åh
+ÅhWhat did you do to Rance-sama!!?Åh
+ÅhI didnÅft really do anything.Åh
+ÅhThatÅfs a lie.... You cast a spell, you cast a Charm
+ spell on Rance-sama!Åh
+ÅhThatÅfs right, I did. Fufufu..
+ Why donÅft you undo it then? That is, if you can.Åh
+ÅhRelease the spell, and release Rance-sama right now!
+ If you donÅft, IÅfll.. IÅfll defeat you!Åh
+ÅhHmm..? I see.Åh
+ÅhRance-saaan, that Sill girlÅfs being mean to me!Åh
+Io suddenly started crying and clung to Rance.
+ÅhWhat!? Sill is?Åh
+ÅhNo, Rance-sama! Rance-sama, that girl cast a spell on
+ you..!Åh
+ÅhShut up! YouÅfre just a slave, youÅfve got no right to lay
+ a hand on my beloved!Åh
+(Hit hit hit hit)
+Åh.....Rance-sama!Åh
+ÅhGot it, Sill?
+ DonÅft do anything to Io anymore. Got it?Åh
+ÅhIo, I scolded Sill, so please forgive her.Åh
+ÅhThatÅfs fine. Thank you.
+ My beloved Rance-san.Åh
+ÅhGahahahahahahaha... IÅfm so embarrassed!Åh
+ÅhRance-sama.. no waaay..!Åh
+ÅhHey, Rance-san.
+ Could you please do me a favor?Åh
+ÅhSure. IÅfd do anything for you, Io.Åh
+ÅhI want you to find a key for me.Åh
+ÅhA key... A key, huh?Åh
+ÅhYeah, there are four keys hidden somewhere in this
+ Toushin Toshi.
+ I need them.. Rance-san.Åh
+ÅhI got it. If itÅfs for you, IÅfll look for these keys.Åh
+ÅhReally, Rance-san? Thank you!
+ I love you!Åh
+Io joined the party.
+ÅhAlright, letÅfs go.Åh
+ÅhPlease do your best, Rance-san!
+ But...Åh
+ÅhWhat is it?Åh
+ÅhDo your best in bed tonight, too.
+ *Giggle* *giggle*.Åh
+ÅhIn bed... whoa, of course.Åh
+ÅhThis is it, right, Rick?Åh
+ÅhYes.
+ We landed down this path and through the third warp
+ device from the left.Åh
+ÅhThe third from the left... If I remember correctly,
+ thatÅfs...Åh
+ÅhThe door was locked and we couldnÅft open it.Åh
+ÅhWe unlocked it from the inside, so it should be open.Åh
+ÅhRance-sama, letÅfs hurry.
+ LetÅfs hurry and save everyone!Åh
+ÅhI guess so.
+ They ARE all my women, I suppose.
+ I guess I gotta take care of Åfem.Åh
+ÅhJulia doesnÅft wanna go back there.
+ ItÅfs scary.Åh
+ÅhRance-san, letÅfs just defeat the weak monsters around
+ here and play.Åh
+ÅhNah, we canÅft.
+ I mean, IÅfm a hero of justice, you know.
+ IÅfve gotta save ladies in trouble.Åh
+ÅhI knew youÅfd say that, Rance-dono.
+ Now, letÅfs go.Åh
+ÅhKuh, kuh, hee, hee, hee.Åh
+ÅhItÅfs Happy Fukuda-san, Rance-sama.
+ I wonder what heÅfs doing?Åh
+ÅhHey, gloomy freak.Åh
+(Punt)
+I gave Happy Fukuda a kick in the head as he squatted and
+messed with his computer.
+ÅhOww, what was that for!?Åh
+ÅhHey, whatcha doinÅf?Åh
+ÅhI was using my computer.
+ ItÅfs got nothing to do with you.Åh
+Åh........Åh
+ÅhGuess I bothered you.Åh
+Åh......Hm??Åh
+ÅhRance-sama, something smells.Åh
+The area was filled with an unpleasant stench.
+ÅhGross, this.. this smells like somebody who hasnÅft taken
+ a bath in a while.Åh
+ÅhYes, it smells pretty bad.
+ I wonder if thereÅfs someone living here?Åh
+ÅhProbably.Åh
+(Beeb-boop)
+ÅhRance-sama, what was that noise?Åh
+ÅhWhoÅfs there!!?Åh
+I spun to face the direction the noise had come from.
+ÅhAh.. WhoÅfs there?
+ YouÅfre being a bit louder than IÅfd like.Åh
+A man who was nothing but skin and bones sat there in
+ragged clothes.
+By the manÅfs feet are a bunch of weird, blinking machines
+in the middle of a mess of wires.
+ÅhWhat the heckÅfre you?
+ What are you doing in here?Åh
+ÅhIÅfm Happy Fukuda.
+ Oh, donÅft step there.Åh
+ÅhHuh? Owah!Åh
+ÅhThese are valuable gilt cables.
+ TheyÅfre expensive, geez.
+ If you break them, youÅfll have to reimburse me.Åh
+....What the hell is this weird spindly guy..?
+Happy Fukuda? Oh.. Right, I remember now.
+DidnÅft the item shop girl Yocchan ask me to give
+something to this guy?
+ÅhHey, I got something IÅfm supposed to give you.
+ You want this?Åh
+I took out the Pintel 486.
+ÅhOh, thatÅfs a [Pintel 486]!!
+ ThatÅfs great, IÅfm so lucky!Åh
+I handed the Pintel 486 over to Fukuda.
+ÅhAnyway, IÅfve delivered it.
+ So what is that thing??Åh
+ÅhThis iiiis...Åh
+ÅhA part that increases a computerÅfs processing speed!Åh
+ÅhFufufufufufu, now my computerÅfs processing speed will
+ rise a few %!
+ LetÅfs install it right away!Åh
+(Click click click)
+Happy Fukuda started fiddling with his creepy machine
+while mumbling some nonsense.
+ÅhAlright, IÅfm gonna start it up.
+ LetÅfs do some floating point calculations!Åh
+Åh.....??Åh
+ÅhOh, IÅfve got the results!
+ My data processing speed is 12.3% up with the Pintel
+ 486! Amazing!Åh
+Åh.....What the fuck are you talking about?Åh
+ÅhWell, faster is better.
+ Right, right??Åh
+ÅhHrmmm, I canÅft keep up with this loser.Åh
+Happy FukudaÅfs tapping away at his computer like heÅfs
+completely forgotten my existence.
+ÅhThis door again... shit.
+ CanÅft we destroy it or something?Åh
+ÅhI donÅft think itÅfs possible if itÅfs this big,
+ Rance-sama.Åh
+ÅhUmm...Åh
+ÅhWhat, is there something wrong?Åh
+ÅhWell, if youÅfd like, I could open it?Åh
+ÅhWhat?Åh
+ÅhThis door can be opened.
+ I checked it out.Åh
+ÅhAlright, try it.Åh
+ÅhYes.Åh
+ÅhThis part... and then spin this.. umm.Åh
+MerimÅfs messing with the device.
+ÅhSheÅfs kind of amazing, Rance-sama.Åh
+ÅhWell she said she was an archaeologist with the Helman
+ Army, right? They brought her for this kinda shit,
+ right?Åh
+ÅhSheÅfs completely useless in combat, but it looks like
+ sheÅfll come in handy in unexpected places.Åh
+ÅhUmm.. IÅfve unlocked it.
+ Should I open it now?Åh
+ÅhAlright, do it.Åh
+ÅhUnderstood.
+ *Click*.Åh
+(Rumble)
+The door opened.
+ÅhI did it! MerimÅfs so happy!Åh
+ÅhLa la la!Åh
+[Surface Central Area]
+    Adventure
+Day 
+    Time [
+ÅF
+0]
+Encountered a monster.
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇwÇ™ëÂÇ´Ç¢
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇxÇ™ëÂÇ´Ç¢

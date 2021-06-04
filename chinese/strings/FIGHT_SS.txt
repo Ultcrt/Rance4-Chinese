@@ -1,0 +1,96 @@
+Individual settings
+All manual
+All auto (full auto)
+Battle wait
+CG display
+End
+Super Fast
+Fast
+Normal
+Slow
+Super Slow
+On
+Off
+Rance
+Sill
+Io
+Merim
+Rick
+Leila
+Julia
+Kanami
+Maria
+Shizuka
+Athena 2.0
+Hubert
+Freak
+No one
+Manual
+Auto
+Special auto
+Action 1 
+Action 2 
+Action 3 
+Action 4 
+Do not change
+Weapon attack
+Rest
+Don’t change
+Light Attack
+Shoot
+Rance Attack
+Brute Attack
+By・La・Way
+Healing magic
+Angel Mirror
+Fire Arrow
+Fire Blast
+Fire Laser
+Hellfire Conflagration
+Fire Bowl Technique
+Ice Arrow
+Snow Laser
+Lightning Arrow
+Thunderstrike
+Lightning
+Electromagnetic Barrier
+Whore Surf
+Tiger
+Super Tiger
+Bismarck
+Tirpitz
+White Breaker
+Flame Particle Bullet
+Black Breaker
+Metal・Line
+Absolute Zero
+(Weapon attack          )
+(Light Attack           )
+(Shoot                  )
+(Rance Attack           )
+(Brute Attack           )
+(By・La・Way          )
+(Healing magic          )
+(Use Angel Mirror       )
+(Fire Arrow             )
+(Fire Blast             )
+(Fire Laser             )
+(Hellfire Conflagration )
+(Fire Bowl Technique    )
+(Ice Arrow              )
+(Snow Laser             )
+(Lightning Arrow        )
+(Thunderstrike          )
+(Lightning              )
+(Electromagnetic Barrier)
+(Whore Surf             )
+(Tiger                  )
+(Super Tiger            )
+(Bismarck               )
+(Tirpitz                )
+(White Breaker          )
+(Flame Particle Bullet  )
+(Black Breaker          )
+(Metal・Line           )
+(Absolute Zero          )
+(Rest                   )

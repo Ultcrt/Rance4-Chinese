@@ -1,0 +1,14 @@
+That command cannot be used anymore.
+There are no selectable items.
+You canÅft hold anymore.
+Choose an item to discard.
+ cannot be discarded.
+ cannot be discarded.
+ cannot be discarded.
+ has been discarded.
+The (Waste Ghost) appeared from nowhere and disappeared
+carrying the 
+ like it was the most
+precious thing in the world.
+[
+] does not exist.

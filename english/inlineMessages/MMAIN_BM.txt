@@ -1,0 +1,19 @@
+  [
+] (
+)
+...A monster attacked.
+Leave the room?
+hRance-sama, itfs a treasure chest.
+ What should I do?h
+hI feel like itfll explode if you open it.
+ Leave it alone.h
+hYes.h
+hAlright, open it.h
+hUnderstood.h
+hHurry up and open it.
+ Quickly now. Eliminate all unnecessary time spent and
+ shorten the process.h
+hItfs open, Rance-sama!h
+hRance-sama, I foundF 
+ inside.h
+hIfll hold onto it.h

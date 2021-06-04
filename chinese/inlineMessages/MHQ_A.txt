@@ -1,0 +1,73 @@
+   [
+Passageway
+Room
+Control Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+hTherefs a transport device, Rance-sama.
+ Should we use it?h
+hLetfs see??h
+hAlright, letfs go!h
+hYes.h
+We stood in the center of the magic circle on the ground.
+hRance-sama, itfs a devil!
+ A devil appeared!h
+Bebetar hI am, hohohohohohohohoho..!
+         The devil, Bebetaaaar!h
+Bebetar hHohohohohohohoho!h
+Bebetar hTell me what number you like, okay?h
+h1. fCause Ifm #1 at everything.h
+Bebetar hYoufve got no guts.h
+hIfd say 5.h
+Bebetar hBoring.h
+h10.h
+Bebetar hOhh, an idiot who doesnft value his life.h
+hWhat!?h
+Bebetar hHohohohohohohohoho..!
+         Then letfs fight!h
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hThis is the Control Room.
+ This room has the power to move this Toushin Toshi.h
+hI see, so this is the Control Room of this Toushin
+ Toshi.
+ Gahahahahahahahahahahaha!h
+hWhat is it, Rance-sama?h
+hI can become a god with this!
+ Ifll use this Toushin Toshi to take over the world!h
+hUmm... I donft think that will work.h
+hWhy not??h
+hI believe I already told you this, but the control
+ device in this room is locked so that it canft be
+ moved.h
+hRight, I remember.
+ We need those four keys.h
+hRight.h
+hFuck those Helman guys..!
+ And Io too!
+ Wefre taking the keys back from them!h
+[Surface Control Area]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

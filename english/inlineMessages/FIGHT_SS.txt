@@ -1,0 +1,30 @@
+Battle Settings
+All characters have been set to manual.
+All characters have been set to auto.
+Did not change.
+Wait time changed to [
+].
+Did not change.
+Turned battle CGs [
+].
+System ÅhChange whose battle settings?Åh
+Did not change.
+Åfs settings will be changed.
+Currently
+ manual (player controls all movement).
+Will change to..
+ automatic (move according to individual AI).
+Will change to..
+ special auto (priorities are set).
+Will change to..
+.
+Did not change.
+Changed to [
+].
+Specify priority for 
+Åfs actions.
+Did not change.
+Did not change.
+Which action should be taken?
+Did not change.
+Did not change.

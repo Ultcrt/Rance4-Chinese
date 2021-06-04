@@ -1,0 +1,525 @@
+    [
+Passageway
+Room
+Baked Potato Field
+Onigiri Field
+Mandrako Field
+]
+(Room Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Ifm going to look for monsters then.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+Itfs locked from the other side, so it wonft open.
+The door is locked (and requires the Storehouse Key).
+Used the Storehouse Key to open the door.
+The door cannot be opened.
+The door is locked (and requires the Love Key).
+Used the Love Key to open the door.
+The door cannot be opened.
+The door wonft open.
+Itfs locked from the other side, so it wonft open.
+The door wonft open.
+hRick-san....h
+hI understand. The male barrier, right?
+ Ifll wait for you here then.h
+hThanks.h
+hBye-bye, Rick-chan.h
+hOh? The door wonft open.h
+hThatfs unusual.. This door has a male barrier placed on
+ it.h
+hA male barrier? Whatfs that?h
+hA barrier that prevents men from passing through.
+ In this case, itfs reacting to Rick-san.h
+hI understand. Ifll wait here then.
+ You should be able to pass through it if I do.h
+hWe will, but...h
+hIf youfre worried about me, please donft be.h
+hIfm worried about us without you, Rick-san.
+ Really now.h
+In any case, we wouldnft be able to pass through with
+Rick-san, so we had him wait here and entered without
+him.
+The door wonft open.
+The door wonft open.
+hTherefs a transport device, Rance-sama.
+ Should we use it?h
+hLetfs see??h
+hAlright, letfs go!h
+hYes.h
+We stood in the center of the magic circle on the ground.
+Ascend stairs?
+Ascending to higher floor.
+Heading outside.
+Descend stairs?
+Descending to lower floor.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hThis looks like a manmade dungeon.h
+hI wonder who made it...h
+hAnyway, letfs look for Rance-dono.h
+hRight. But would he even be in this dungeon?h
+hWell, he loves burrowing into holes, so therefs a good
+ chance hefs underground, right?h
+hHe does??h
+hJust think that for now. Besides, itfs not like we have
+ anywhere else to look for him, so we might as well look
+ here.h
+hI suppose youfre right.
+ He probably wonft just show up if we wait around here.h
+hYeah.h
+h........I thought so.h
+hWhat is it, Rick-san?h
+hI sense monsters.h
+hReally?h
+hDefinitely. There are monsters in this dungeon.h
+h...Everyone, make sure youfre on your guard.
+ Wefll proceed cautiously.h
+hEnemies....!h
+hTh.. The Helman Army!h
+The mysterious group who suddenly appeared behind us was
+an enemy well known to us.
+They were soldiers from Helman, old enemies of Leazas.
+Why are there Helman soldiers here..?
+hKehya, kehya, kehya!
+ Thatfs as far as you go, Leazas scum!h
+hWhy is the Helman Army here..?h
+hThis Toushin Toshi is mine.
+ I have no intention of giving it to you.h
+hToushin Toshi...??h
+hNow, crush them!h
+hHold on a second..!h
+hPrepare yourselves, Helman dogs!h
+hYoufre too strong, Red Death...
+ But I canft die here.
+ Dens, wefre retreating.h
+hOkay, Hu.h
+hHey, I havenft ordered you to retreat!
+ Fight! Fight and defeat that Leazas scum!h
+hHmph, you fight by yourself then.
+ I donft want to die in vain.h
+hYou.....!h
+hAnyway, we should retreat, Bitch-sama...h
+hYou plan to run!?
+ Youfre a disgrace to knights!h
+hIfm not a knight, Ifm just a warrior!h
+h! ......h
+The Helman Army disappeared swiftly.
+hCowards.h
+hWhy is the Helman Army...?
+ Are they after Rance, too..?
+ Well, Ifm sure Helman hates him.h
+hThe Helman Army isnft the only one who hates Rance.h
+hMhmm.h
+h........h
+hMore importantly, Ifm worried about what that man said
+ about fnot giving us the Toushin Toshi.f
+ Therefs something going on here.h
+hWell, therefs no denying that wefve got enemies here.h
+hI do not believe they are capable of defeating us, the
+ elite of Leazas, but we donft know what methods theyfll
+ employ, so we should be cautious.h
+hNdaba, carry to storehouse.h
+Saying that, the Magic Farmer handed me a key.
+Obtained Storehouse Key.
+hNext order.
+ Clean drain.h
+hClean the drain? Youfve gotta be kidding me.h
+hJulia doesnft like getting dirty.h
+hSouth aqueduct doesnft flow well.
+ Something must be stuck.
+ Remove it.h
+hSomethingfs stuck? I wonder if itfs..h
+hSouth aqueduct.
+ Hurry and check.h
+hGood timing.h
+hWhat is it? Are you gonna give us sweets?h
+hBring Baked Potato.
+ Hurry.h
+hHm? Itfs giving orders to humans?h
+hDoesnft look like it.
+ Hefs confusing us for Magic Farmers.
+ Thatfs why hefs giving us orders.h
+hI donft really like being mistaken for something as
+ weird as this thing.h
+hHurry and bring Baked Potato.h
+hHurry and bring Baked Potato.h
+hHere you go.
+ We brought it for you.h
+I handed the Baked Potato over to the Magic Farmer.
+hNext bring Onigiri.h
+hW-what?
+ Wefre not your underlings, you know.h
+hCalm down, Shizuka.
+ Theyfre just confusing us for Magic Farmers.h
+hThatfs whatfs pissing me off.h
+hHurry and bring Onigiri.h
+hWork quickly.h
+hHurry and give me Onigiri.h
+hHere you go.h
+I handed the Onigiri over to the Magic Farmer.
+hNext...h
+hEhh, therefs more?h
+hOf course.
+ We Magic Farmers work until we die.h
+h.....Until they die..
+ Juliafs glad shefs not a Magic Farmer.h
+hNext, bring Mandrako.h
+hThis guy pisses me off.
+ If he were asking Rance for this crap, hefd definitely
+ be dead.h
+hYoufre right about that.
+ Rance would be scary if he were ordered fbring me thisf
+ and fbring me thatf.h
+hBring Onigiri.h
+hHurry and bring Mandrako.h
+hHere you are.h
+I handed the Mandrako over to the Magic Farmer.
+hAfter Mandrako, I have next order.h
+hWhy are we doing this, Maria?
+ Wefre not gonna find Rance like this.h
+hI feel the same way.h
+hI suppose youfre right, but.. Itfs not like we have
+ anything else to do.....h
+hNext is important job.
+ But save it for tomorrow.h
+hToday, rest well.h
+hAlright, next job.h
+hBring basket full of harvest to Storehouse.h
+h......h
+hStorehouse Key is under red brick where aqueducts meet.
+ Go ahead and take it.h
+hGeez, this is pointlessly complicated.h
+hPutting key back where you found it after using is
+ common sense...h
+hDo your best and work.
+ This weekfs goal is harvest 0.03% more than last week.h
+hWork.h
+hWork yourself.
+ Ifm gonna play.h
+A weird-looking (not human, right?) person was holding a
+hoe and doing farmwork.
+What the heck is this thing?
+Well, letfs try talking to it.
+hHello.h
+hHello.
+ Work.h
+hUmm.. what are you doing?h
+hPlowing field.
+ Heave ho.h
+hThis thingfs a Magic Farmer.
+ Ifve never seen one before.h
+hMagic Farmer?
+ You know what it is, Shizuka?h
+hYeah, I read about them in a grimoire a long time ago.h
+hTheyfre scarecrows powered by magic who do farmwork
+ forever.h
+hThey canft produce anything that requires complex
+ knowledge or experience, but they can produce simple
+ things.h
+hThatfs amazing.
+ If you had a bunch of them, couldnft you eliminate
+ hunger and poverty?h
+hBut Julia has a question. Wouldnft farmers all lose
+ their jobs then? Rick-chanfs papafs a farmer, right?
+ So hefd be in trouble!h
+hYou donft need to worry about that. Itfs difficult to
+ make these Magic Farmers. Itfs impossible for anyone
+ without considerable magic power.h
+hCould you make one, Shizuka-chan?h
+hI think I could, but I donft know the spell.
+ I only study combat ones, so.h
+hHmmm. But that means theyfre not alive, right?
+ Theyfre just scarecrows growing food for humans?h
+hYeah.h
+hThen that must mean therefs someone on this continent
+ somewhere making them work....h
+hI see. That sounds reasonable.h
+hIt couldnft be Rance, could it?h
+hThatfs impossible.
+ Therefs no way he could ever do anything productive.h
+hAll he can do is destroy and loot everything in his
+ path.
+ If it were him, hefd be doing slash-and-burn farming.h
+hThen who are they producing these crops for?h
+hWork, work.h
+hHey, Mr. Magic Farmer?
+ Whofs your master?h
+hWork, work.
+ Order is farmwork.h
+hDoesnft look like therefs any point in asking.h
+hThat key should be around here.
+ Letfs look for it.h
+hHey, itfs a red brick!
+ Think he meant this?h
+hThere really is just one thatfs a different color.h
+hIndeed. Then allow me...h
+hWh.. what was that?h
+hKehya, kehya, kehya!h
+hYoufre no trouble at all without those two warriors!h
+hC.. cowards!h
+hKehya, kehya, kehya!
+ Winning is the most important part of battle.
+ Now, we fight!h
+h.......h
+hThatfs enough!h
+hLeila-san..!h
+hRick will be up soon too.
+ Youfd better be ready.h
+hShit! This is all because you didnft hurry up and deal
+ with them, Hubert... You incompetent fool.h
+hI think the incompetent one is the one who put together
+ this underhanded plan.h
+hKuh.. Anyway, wefre retreating!
+ Remember this, Leazas scum!h
+The Helman Army retreated.
+hPhew, that was close.h
+hGeez, what cowards.h
+h......h
+hHuh? Rick-san?h
+hCute! So Rick-chanfs cute!
+ I thought hefd look scarier!h
+h*Sigh*....h
+hYou seem kinda different.
+ Are you really Rick-san?h
+hYep. This is the true face of Leazasf feared Red Death,
+ Rick.h
+hUmm.. Monsters might attack us.. and Ifm scared, so why
+ donft we go back for the day?h
+hRick-sanfs scared of monsters..
+ Has his personality changed too?h
+hYep. Rick becomes a scared boy without his helmet.
+ Itfs a kind of multiple personalities, I suppose.h
+hWell this is a problem.h
+hI- Ifm sorry.h
+hYou donft need to apologize, geez.h
+hCute!h
+hSo wherefs Rick-sanfs helmet??h
+hIt looks like it was washed away when we fell into the
+ aqueduct.h
+hYeah....h
+hAnyway, looks like we should probably head back.h
+We used a Return Bonsai to return to the Tulip #4.
+EEEEEE@Retuuurn@EEEEEEE
+hThen please allow me to join the party again.h
+hPhew, what a relief.
+ It really is scary without Rick-san.h
+hYeah.h
+Rick joined the party.
+Hanny hHello.
+       This is my private property, so youfll have to pay
+       a toll to get through.h
+Hanny hThe toll is an Onigiri or a Seirogan.
+       Either will do.h
+Give him...?
+Hanny hYou donft want to pass, huh?
+       Thatfs too bad.h
+The Hanny turned us away.
+Hanny hLiar, you donft even have any!
+       *Fume* *fume*.h
+Handed (Onigiri) over to Hanny.
+Hanny hThank you! Go ahead, pass.h
+The Hanny let us through.
+We went down the northward path.
+Handed Seirogan over to Hanny.
+Hanny hThanks, these are my favorite!h
+The Hanny let us through.
+We went down the southward path.
+A Hanny is rolling around on the path to the north and we
+canft get through.
+hKuh, this stupid Hanny!
+ Ifll kill you if you get in my way!h
+hDaaaaah!!h
+(Hit hit hit hit)
+(Hit hit hit whack)
+hThis Hanny seems very sturdy, Rance-sama. I donft think
+ itfs going to break.h
+hShit, so we canft take this path.h
+hItfs too bad.
+ Letfs go back.h
+We couldnft go north because of the Hanny blocking the
+path.
+A Hanny is rolling around on the path to the south and we
+canft get through.
+hPlease move, Mr. Hanny.h
+Hanny h*Snore* *snore* *snore*.h
+h........h
+We couldnft go south.
+A Hanny is rolling around on the path to the south and we
+canft get through.
+hKuh, whatfs with this dumbass!!?h
+I kicked the annoying Hanny blocking our path, but he
+didnft budge.
+hShit! Sill!h
+hYes, Rance-sama?h
+hMove this thing!h
+hOkay, Ifll try.h
+hHeave ho, heave ho!h
+Sill tried to move the Hanny, but it didnft show any
+signs of budging.
+hPhew. Rance-sama.
+ I couldnft do it.h
+hAhhh, Ifm pissed!h
+We had no choice but to give up on going south.
+Sailor hThe enemy of society, of girls, and of good
+        sense! Rance, messenger of evil!
+        This time, youfll pay!h
+h.......h
+Sailor hOh, Ifm sorry.
+        I thought you were Rance.h
+hWait a second, you know Rance?h
+Sailor h............h
+The Sailor giggled and disappeared without answering my
+question.
+––––––––––––––––––––––––––––––––––––––––––––
+–  At that time                            –
+–     Tousho Core  Helman Explorers@@@     –
+––––––––––––––––––––––––––––––––––––––––––––
+hReally, I was embarrassed back there because of you
+ fools.
+ To think wefd lose to Leazas scum...h
+hYou people are here to protect me.
+ Youfre complete simpletons.h
+h...........h
+h...........h
+hItfd better be here, Merim.h
+hYes, it should.h
+hA Tousho, eh? A great weapon from the past sounds good.
+ Itfs perfect for my guard.h
+hIf I obtain a Tousho, Ifll have no need for you fools
+ anymore.
+ Kehya, kehya, kehya!h
+hItfs not here either..h
+hHey, Merim.
+ The manmade guards of the Toushin Toshi are really here,
+ right?
+ We havenft found any of them yet.h
+h.......They should be here..h
+hReally, I brought you all the way here and youfre
+ absolutely useless.
+ My luck with subordinates is terrible.h
+hNo matter how skilled I am, if you guys keep pulling me
+ down all the time...h
+hI found one, Bitch-sama!h
+hWhat?h
+hThis doll is a Tousho?h
+hI think so.
+ Probably.h
+hHmmm, this is, huh?
+ It looks pretty strong.h
+hHu, th-this is, amazing.h
+h......h
+hKehya, kehya, kehya!
+ Well then, Merim.
+ Make it move according to my orders!h
+h...I canft.h
+hYou canft...?h
+hYes, it looks like this Tousho has been made to sleep
+ somehow.
+ I think if we gave its brain some kind of magic stimulus
+ it would wake up though.h
+hIs there anything else?h
+hTousho take their orders from the head of a Toushin
+ Toshi and donft take orders from anyone else.
+ Even if we can get it moving, I donft know whether or
+ not it will listen to your orders... Bitch-sama.h
+hKehya, kehya, kehya!
+ Donft worry about that.
+ Why donft I make it so that it has no choice but to
+ listen to my orders?h
+h...What are you planning?h
+hIfll use these specially made Helman Puchi Hanny
+ explosives.
+ Ifll put them inside this dollfs body.
+ And if it doesnft listen to my orders...h
+hKaboooom.h
+hGeez, nothing but underhanded schemes...h
+hWell then, Ifll plant the explosives.h
+Bitch planted explosives in the Toushofs body.
+hAlright, letfs wake it up.
+ Merim, we need to provide the doll with magic energy in
+ order to wake it up, yes?h
+hYes, but.. Itfs impossible with Io-san, our mage, not
+ here...h
+hIfm here, arenft I?
+ Ifll give it some of my perfect divine magic!h
+hHaaaaaaaaaah....!h
+hHaaaaaaaaaaah....!h
+hHaaaaaah....
+ Haah,
+ haah!h
+hWhatfs wrong? Ifm pouring so much magic into it and yet
+ itfs not moving.h
+hWh.. why doesnft it move? You were mistaken, werenft
+ you, Merim?h
+hEh? That canft be right.
+ Umm.. It could be that Bitch-samafs power...h
+hWhat are you trying to say about my power?h
+hYour power canft move the damn Tousho.
+ Right, Merim?h
+hEh..? Well.. yes.h
+hKuh.. what a cheeky doll!h
+h.....Well, fine.
+ There was a mage among that Leazas Army group.
+ Wefll capture her.h
+hA Leazas soldier?h
+hYes, wefll capture her, make her submit to me, and have
+ her help get this doll moving.
+ The doll that will murder her comrades, that is.
+ Kehya, kehya, kehya!h
+..............
+hHm? ..This door wonft open.h
+hRance-sama, this door has a male barrier placed on it
+ and wonft allow men to get through.h
+hHrm.. How impudent.
+ Discriminating against men is unforgivable.h
+hItfs a matter of civil rights!!h
+hHey, Rance-chan.h
+hWhat is it?h
+hJuliafs a girl, so she can go through.
+ Are you jealous?h
+hKyahahahahahahahaha..!h
+hGahahahahahahahahahaha!h
+hKyahahahahahahahahahahahahaha..!h
+hGahahahahahahahahahaha..!h
+hKyahahahahahahahahaha..!h
+hShut it.h
+(Hit)
+I gave Julia a light smack.
+hBooooo, that hurt.h
+hAnyway, we need to open the door.h
+hSill, do an Ultra Kick.h
+hYes, Rance-sama.h
+Sill backed up a little bit and did a dropkick on the
+door.
+hUltra Kick!!h
+(Kaclaaang)
+h....*Sob* *sob*, my feet hurt.h
+hTch, didnft work, huh.h
+But no matter how much I screamed, the door didnft open.
+hRance-dono, there are a large amount of Puryo past here,
+ so please be careful.h
+hJulia haaates Puryo.h
+hPuryo, huh? Easy.
+ Ifve got nothing to fear from some puny Puryo.h
+h........h
+hMaria and the rest of fem better be here.h
+hThey should be.h
+hLetfs hurry, Rance-sama.h
+hI guess so.
+ Theyfre gonna need a good spanking after I rescue fem!h
+[Supply Core B
+F]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

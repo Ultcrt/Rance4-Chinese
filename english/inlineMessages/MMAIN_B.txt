@@ -1,0 +1,202 @@
+   [
+Passageway
+Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ ThereÅfs a transport device.
+ ThereÅfs a sign.
+Alright, IÅfm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnÅft find any monsters.
+Unfortunately, I couldnÅft find any monsters.
+The door wonÅft open.
+The door wonÅft open.
+The door wonÅft open.
+The door wonÅft open.
+Hm, the door appears to be locked and didnÅft open at all.
+ÅhTch, what a ridiculous door.Åh
+Door-kun ÅhI wonÅft open for you.Åh
+The door gave me lip.
+Door-kun ÅhI never open unless a girl I like turns my
+          knob.Åh
+Well, it looks like IÅfve gotta get someone to try to open
+this ridiculous door.
+Who should I ask?
+ÅhYes, Rance-sama.Åh
+Sill turned the knob.
+Åh....Sure.Åh
+Merim turned the knob.
+ÅhHohohohohohoho, leave it to me.Åh
+Io turned the knob.
+ÅhThen IÅfll give it a shot.Åh
+Kanami turned the knob.
+ÅhIÅfll try.Åh
+Maria turned the knob.
+Door-kun ÅhMm, wonderful, that feels great!
+          IÅfll open, okay?Åh
+(Ka-clunk)
+The door opened.
+ÅhPhew, IÅfm glad that worked.Åh
+ÅhJuliaÅfll do her best!Åh
+Julia turned the knob.
+ÅhI donÅft think itÅfll work, but....Åh
+Leila turned the knob.
+ÅhGeeently.Åh
+Shizuka turned the knob.
+ÅhTurn, turn, turny-tuuurn!Åh
+Athena 2.0 turned the knob.
+Door-kun ÅhMmmm, good.
+          I love that dim-wittedness.Åh
+Seems like the door opened.
+ÅhHunh?? Hunh??Åh
+Door-kun ÅhHm.... Hmmmmm....
+          SheÅfs nice, but sheÅfs not really my type.Åh
+ÅhThereÅfs a transport device, Rance-sama.
+ Should we use it?Åh
+ÅhLetÅfs see??Åh
+"Where are we going, Rance-sama?"
+ÅhWeÅfre goinÅf to the Control Room where Bitch or whatever
+ is. You know that.Åh
+ÅhBut then, we shouldnÅft use this...Åh
+ÅhI know that.
+ I was joking. Hmph.Åh
+ÅhRance-sama, the Landing Crafts are in the Tousho Core.
+ Not here.Åh
+ÅhRight, weÅfve gotta hurry!!Åh
+ÅhAlright, letÅfs go!Åh
+ÅhYes.Åh
+We stood in the center of the magic circle on the ground.
+ÅhRance-sama, thereÅfs something gigantic blocking the
+ passageway.Åh
+ÅhWhat the heck is it?Åh
+ÅhIt looks like a monster. We probably shouldnÅft get too
+ close.Åh
+....IÅfve got a bad feeling about this.
+ÅfAlright, weÅfre turning back.Åh
+We returned back the way we came.
+Åh*Squeak*....Åh
+The Pervert Mouse appeared from around the corner.
+ÅhItÅfs been a while, mister.
+ Heheheheheh.Åh
+The Pervert Mouse approached me, rubbing his paws
+together with a servile look on his face.
+ÅhRance-sama, do you think he took..
+ another weird picture?Åh
+ÅhI see, you did it again, eh?Åh
+ÅhYep, heheheheheheh.
+ So, well..
+ I was thinking youÅfd like to buy it again, mister, yep.Åh
+ÅhIt better not be another picture of Sill.Åh
+I gave him a glare saying Åfnext time you sneak a picture
+of Sill, IÅfll kill youÅf while I spoke.
+ÅhItÅfs not. I make it a rule to only take one picture per
+ subject, so itÅfs a different person this time.Åh
+ÅhOh? Who is it?Åh
+ÅhThat would ruin the fun of buying it.
+ Well then, IÅfll see you here again tomorrow...Åh
+ÅhI got it. Just make it cheap this time.
+ Understand?Åh
+ÅhIÅfll take it into consideration.
+ See you.Åh
+The Pervert Mouse disappeared swiftly from our sight.
+Hmm, I wonder whose picture it is?
+If it isnÅft Sill, it could be Kanami, or Maria, or maybe
+itÅfs Leila-san, fufufufufufu..!
+ÅhRance-sama, shouldnÅft we exterminate a bad mouse like
+ that?Åh
+ÅhYeah, I sÅfpose we should, after weÅfve gotten all we can
+ out of him.
+ Fufufufufufufu..!Åh
+Åh*Squeak*!Åh
+The Pervert Mouse appeared, smiling happily.
+ÅhIÅfve prepared your perverted peeping picture, mister.
+ Shall we get on with the trade?Åh
+ÅhVery well. How much?Åh
+ÅhIÅfve lowered the price a bit to.. 
+ gold.Åh
+Åh
+ gold, huh...?Åh
+Hmm, what should I do?
+ÅhVery well, IÅfll buy it.Åh
+ÅhThanks for the business.Åh
+I bought the dirty picture for 
+ gold.
+ÅhWell then, with that....
+ Please buy my next work too.Åh
+The Pervert Mouse disappeared into thin air.
+ÅhDiiie...!!Åh
+Åh*Squeak*... youÅfre too cruel..!Åh
+(Stab)
+I cut the Pervert Mouse down in one strike.
+ÅhRance-sama!Åh
+ÅhYup, the evil has perished.
+ So IÅfll be confiscating that picture.Åh
+I took the picture from the Pervert MouseÅfs remains.
+ÅhDonÅft want it.Åh
+ÅhHeh, you donÅft?
+ Reeeally??Åh
+ÅhYep, wasting money is the enemy of your wallet.
+ I only spend money on significant things.Åh
+Åh.......This is significant.. *squeak*.Åh
+ÅhAnyway, get lost.
+ I donÅft wanna see your face anymore.Åh
+Åh*Squeak* *squeak*...Åh
+The Pervert Mouse hung his head and disappeared with the
+scent of sorrow wafting from its back.
+ÅhThis is...??
+ Panties??Åh
+ÅhLooks like.
+ Her face isnÅft in the picture, so we donÅft know who it
+ is.Åh
+ÅhThis is.. pretty good, I guess.
+ ItÅfs pretty arousing.Åh
+Åh.......Åh
+ÅhOh, this is Julia.. how embarassing!Åh
+ÅhI see, so itÅfs a picture of Julia.
+ Hmmm, no wonder I thought it looked childish.Åh
+ÅhWomen have gotta have a certain shape and sexiness.Åh
+ÅhBoooooo, when I grow up IÅfll be super sexy!Åh
+ÅhThese unsexy legs have gotta be JuliaÅfs.Åh
+ÅhYou can tell, Rance-sama?Åh
+ÅhOf course I can. IÅfm an expert on womenÅfs bodies, you
+ know.Åh
+ÅhI memorize a womanÅfs body when I fuck her.
+ I know every nook and cranny of your body, you know.
+ IÅfve memorized your sensitive spots.Åh
+Åh.....Eh..?Åh
+ÅhRance-sama, thereÅfs a sign?
+ Sould we read it?Åh
+ÅF Transport Device to Tousho Core           ÅF
+ÅF                                           ÅF
+ÅFTransport to Tousho Standby Station.       ÅF
+ÅFOff-limits to unauthorized personnel.      ÅF
+ÅF Transport Device to Defense Core          ÅF
+ÅF                                           ÅF
+ÅFDragon Standby Station. Please do not feed.ÅF
+ÅF Transport Device to Supply Core           ÅF
+ÅF                                           ÅF
+ÅFPlease report for pick-up every day at 8AM ÅF
+ÅFif on supply duty.                         ÅF
+ÅF Transport Device to Research Core         ÅF
+ÅF                                           ÅF
+ÅFOff-limits to non-research personnel.      ÅF
+ÅhRance-sama, the Landing Crafts are in the Tousho Core.
+ Not here.Åh
+ÅhRight, weÅfve gotta hurry!!Åh
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+DoesnÅft look like thereÅfs any reason to search thoroughly
+here.
+[Underground Central Area]
+    Adventure
+Day 
+    Time [
+ÅF
+0]
+Encountered a monster.
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇwÇ™ëÂÇ´Ç¢
+ÇæÇﬂÇæÅ[Å[Å[Å[ÇxÇ™ëÂÇ´Ç¢

@@ -1,0 +1,89 @@
+    [
+Passageway
+Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door is locked (and requires the West Tower Key).
+Used the West Tower Key to open the door.
+The door cannot be opened.
+The door wonft open.
+Leaving the West Tower.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+But the stairway was filled with earth and sand and I
+couldnft descend the stairs.
+hShit, this is Sillfs fault.
+ I canft get past this stupid sand fcause shefs not
+ here... guh!h
+hRance-sama, the stairs are buried in dirt and sand.h
+hSo we canft search down there... tch.h
+I gave up on going down the stairs.
+Descending stairs.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hHm.....?h
+hRance, wait a second, therefs someone there.h
+hI donft see anybody.h
+h.........The wall!!h
+As she shouted, Kanami threw a shuriken at a plain old
+wall.
+Hanny hOww...!h
+And a Hanny jumped out from the wall Kanami threw the
+shuriken at.
+Hanny hOw, ow, *sob* *sob*.h
+hA Hanny??
+ Why....?h
+hWhatfs going on?h
+hThe Hanny was hiding using ninja camouflage techniques.h
+Hanny h*Sob* *sob*, I tried so hard to hide too..
+       Youfre terrible!h
+hYou were hiding, eh? I get it, you must be that Dust
+ Hanny.h
+Hanny hEh? How do you know my name..?h
+hSorry, but I got a request from Yocchan at the item shop
+ to take care of you.h
+Hanny h*Gasp*... but, but..!h
+hDie.h
+I obliterated the Hanny named Dust.
+Fufufu, now Yocchanfs request is complete.
+Ifm a quick worker like always.
+Alright, letfs go to the item shop!
+When I opened the door, a KyanKyan flew into me.
+hOwah, what the hell!!?h
+KyanKyan hLetfs play, letfs play!!h
+[West Tower 
+F]
+    Adventure
+Day 
+    Time [
+F
+0]
+The ceiling of the tower appears to be naturally
+luminescent, so it doesnft look like Ifll have trouble
+seeing.
+...Haniho.. Roar.. Squeal...
+......Monsters, eh..?
+Looks like there are monsters in this tower.
+Well, time to put my skills to use.
+hWell, why donft I get to work.h
+hGet to work.h ƒ|Echo
+hTo work.h ƒ|Echo
+hWork.h ƒ|Echo
+Man, I feel so empty when Ifm all alone with no one to
+talk to. Even that idiot Sillfs better than nothing, but
+that stupid old hag.. Ifll never forgive her!
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

@@ -1,0 +1,86 @@
+  [
+] (
+)
+...A monster attacked.
+Leave the room?
+Ascend stairs?
+Ascending to higher floor.
+ÅF Hanny Shop For Explorers (True)  ÅF
+ÅFWe sell good, cheap things.       ÅF
+ÅFPlease come shop with your friend.ÅF
+........
+ThereÅfs a Hanny statue.
+On the base of the statue is a plate.
+The plate says....
+ÅF  Please touch if youÅfre a girl   ÅF
+ÅF               Hanny              ÅF
+on it.
+ItÅfs creepy, so I donÅft wanna touch it.
+ÅhWell, how about I touch it?Åh
+(Stroke stroke stroke)
+Hanny Statue ÅhAiyaaaaa!!Åh
+Hanny Statue ÅhDonÅft touch me, you filthy man!!!
+              Gross!Åh
+Åh........Åh
+ÅhSill, touch it a little.Åh
+ÅhOkay.Åh
+Sill placed her hand on the Hanny statue.
+Hanny Statue ÅhHanihooooo, a girl touched me!
+              IÅfm so happy!Åh
+ÅhKyan!Åh
+Hanny Statue ÅhIÅfll give you a present!
+              Bleeeeegh!Åh
+Money came pouring out of the Hanny statueÅfs mouth.
+ÅhItÅfs money, Rance-sama!Åh
+ÅhHurry up and pick it up then.Åh
+ÅhYes.Åh
+Sill gathered the money the Hanny statue threw up.
+Obtained a total of 500 gold.
+Hanny Statue ÅhThanks!Åh
+And then the Hanny statue was silent.
+ÅhNothing really happened, Rance-sama.Åh
+ÅhTch, so no present after the first time?Åh
+ÅhRance-sama, itÅfs a treasure chest.
+ What should I do?Åh
+LetÅfs see...
+Should she open it?
+Åh..IÅfve got a bad feeling about this.Åh
+ÅhA bad feeling??Åh
+ÅhSo donÅft open it.Åh
+ÅhAlright, Sill. Open it.Åh
+ÅhOh, yes.Åh
+Sill works at getting the treasure chest open.
+ÅhHurry it up already, loser.Åh
+ÅhAhhn, IÅfm trying!Åh
+(Clack)
+ÅhItÅfs open!Åh
+ÅhI foundÅF 
+200 gold
+ inside.Åh
+ÅhAlright, hold onto it.Åh
+ÅhYes.Åh
+Hanny ÅhWelcome to the Hanny Shop, your local place of
+       rest!Åh
+Hanny ÅhPlease buy something.Åh
+Hanny ÅhItÅfs been a while since IÅfve had any human
+       customers here.
+       IÅfm kinda happy.Åh
+ÅhThen youÅfll sell me everything cheap, right?Åh
+Hanny ÅhThatÅfs entirely unrelated.
+       They say frienships last as long as money does.Åh
+Åh.......Åh
+Hanny ÅhWhat would you like?Åh
+     MoneyÅF
+ gold
+Hanny ÅhOne 
+, yes?
+       ThatÅfll be 
+ gold.Åh
+Hanny ÅhAiyaaaa, thatÅfs too bad.Åh
+Hanny ÅhYou donÅft have enough money.
+       Too bad, too bad.Åh
+ÅhJust gimme a fuckinÅf discount.Åh
+Hanny ÅhIÅfm sorry sir, but I just canÅft afford to lower my
+       prices any more than this.Åh
+ÅhOoh.........Åh
+Hanny ÅhHanihoooo, thanks much!Åh

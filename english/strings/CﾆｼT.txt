@@ -1,0 +1,8 @@
+Tower
+Door
+Camp
+Look
+Monologue
+Enter tower
+Brute
+Move to Meadow

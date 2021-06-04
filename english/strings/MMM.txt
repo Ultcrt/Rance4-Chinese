@@ -1,0 +1,20 @@
+Yes
+No
+Yes
+No
+Yes
+No
+Buoyancy Staff 1F
+Buoyancy Staff 2F
+Buoyancy Staff 3F
+Buoyancy Staff 4F
+Room
+Illusion Room
+DragonÅfs Cold Medicine
+Mysterious Paper
+Map
+Camp
+Search
+Look
+Left click to move
+Right click for options

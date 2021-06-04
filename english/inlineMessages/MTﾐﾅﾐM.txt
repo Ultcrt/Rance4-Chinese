@@ -1,0 +1,811 @@
+  [
+] (
+)
+...A monster attacked.
+Leave the room?
+ƒƒƒHeEeY!!
+   TAMAAA, when the hell are you
+   going to be done cleaning!!?„„„
+hNyagh!
+ ....B-Bosssss..!h
+hHm.
+ Hey you, the crone with the ridiculous face!h
+hHm?
+ Who is this mannerless whelp, Tama?h
+hSome sorta amazinf, famous adventurer, he says.
+ I havenft heard af him though.h
+hHey, ridiculous-faced crone,h
+hIsnft it an adultfs job to overlook the tiny mistakes of
+ a little girl like this and to not work her so hard?h
+hYeah, I feel sorry for her.h
+hHmph. First of all, I have a perfectly usable name, and
+ itfs Frostvine.h
+hAnd second, who the hellfs a little girl?
+ I dunno what the creature told you, but shefs a monster
+ cat whofs been alive for several decades now.h
+hAck!h
+hNyafufufufufu.
+ Well if ya say it so straightforward-like, Ifll get
+ embarrassed.h
+hMeow, meow, MEOW!h
+hYoufre dead.h
+hKyaa!
+ Please wait a second, Rance-sama!h
+hNyeah!h
+hNow, now.
+ Shefs annoying, but shefs something like a troublesome
+ grandkid of mine, since Ifve got no relatives.h
+hHmph.
+ Why the hell are you living in a place like this
+ anyway?h
+hAhaaa, I get it.
+ Youfre a monster, arenft you?
+ Hurry up and become my experience points!h
+hThink about a witch like me living in town for a second,
+ bonehead.h
+hNo matter how I tried to explain, Ifd be hunted down.
+ I can do my magic research freely here and Ifm never
+ short materials either.h
+hWhat kind of magic research are you doing here,
+ Frostvine-san?h
+hUfufufufu.. Are you interested?h
+hWhatever, just tell us!! Fro..whatever.h
+hFROSTVINE!!
+ Now listen well.h
+hI lost my parents when I was very young.
+ Having no family left, I was taken in by distant
+ relatives.h
+hCfmon, letfs go, Sill.h
+hListen to your elders every once in a while!
+ Now where was I... But that family had a lot of
+ children already.h
+hNo matter how much money my uncle was able to make, they
+ couldnft spare enough to give somebody elsefs kid nice
+ clothes and toys..h
+h...What are you trying to say here?h
+hSo, I started thinking...
+ When I grow up, Ifll make an amazing toy that wonft lose
+ to the toys the other children get!h
+hI see. And? Did you make it?h
+hHowever.. No matter how much I thought about it, I just
+ couldnft come up with anything good. Ifve made hundreds
+ of dolls until now, and none of them have satisfied me.h
+ƒƒƒƒ!!!BUT THEN!!!„„„„
+hGAH, you surprised me!h
+hI thought...
+ No matter how well-made a doll is, itfll always lose to
+ the real thing.h
+hIf you want a pet, but you buy a stuffed animal, youfll
+ be unsatisfied, right?
+ So I decided to make the ultimate doll.h
+hThe ultimate doll? Like a Dutch Wife?h
+hWell, something like that.
+ But thatfs not all!h
+hSomething infinitely close to a human, but without a
+ human will of its own, the ideal artificial lifeform...h
+hThatfs my [Athena].h
+hA-thena? What the heckfs that?h
+hAtena?h
+hItfs the name I thought up.
+ Itfs cute, isnft it?h
+hSo did you make the thing?h
+hNo.. I still havenft completely succeeded.
+ How many years has it been..?h
+hUnfortunately, Ifve ended up in this profession while
+ doing all this.h
+hIf you havenft fcompletelyf succeeded yet..
+ have you partially succeeded?h
+hYes, I did manage to complete one doll, but it was a
+ failure in the end.h
+hI tried too hard to make her perfect and ended up
+ creating something like a copy of a human.
+ Drat, just thinking about it makes me so angry...h
+hWhat?
+ Did you kill her? Youfre worse than terrible.h
+hThat would have been better.
+ Of all things, Athena ran off with a Ham Bambara!h
+hShe might even be reproducing with monsters somewhere
+ right now.
+ What a pathetic story.. phew.h
+hThe mother of a monster, eh? Then you really are a
+ monster too!
+ Ifll help you out!h (Shing)
+hW-wait,h
+hIfve finally figured out what I need after half a
+ century of research.
+ Thatfs right! Can I ask you a favor?h
+hWill you hear me out?h
+hNo way. Hurry up and become my experience.h
+hGraah! Fine, fine!
+ Hmph, I was planning on giving you a reward if you
+ helped me out, but now I wonft!h
+hWhat? A reward? Is it something good?
+ I guess I could listen if it is.h
+hWell, I guess I could at least listen.h
+hListen well now.h
+hWhat she needs to be improved is a human heart.. the
+ power to think, and a calculation computer..h
+hShe needs those things, but no will of her own.
+ Itfs difficult to get this kind of balance right.h
+hYou talk too much, crone.h
+hAnd youfre an annoying brat...h
+h*Ahem*.. The most difficult part of the process is
+ perfecting this mental portion..
+ Ifve tried every method I could think of.h
+h..But none of them worked.h
+h...This is annoying. Are you still going?h
+hHowever!!
+ Ifve finally found the components I need!
+ Theyfre [Angelfs Nectar] and [Devilfs Nectar]!h
+hIf itfs an item called fnectarf in a game like this,
+ itfs gotta be the kinda dirty thing you couldnft get out
+ of a hag like this no matter how hard you squeezed!h
+hYou want me to hit you, you brat?
+ Yeah, itfs exactly the dirty thing youfre thinking of!
+ HMMMMPH!!h
+hSo what kinda reward would I get if I managed to deliver
+ this stuff to you?h
+hYoufre using the strongest warrior in the world as a
+ fuckinf gofer.
+ Itfd better be something impressive.h
+hOf course.
+ This time, the great Frostvine will finally succeed!h
+hAnd as your reward, Ifll give you my [Athena 2.0]
+ prototype as a present.h
+hShefd better be fuckinf useful though.
+ Just so you know, a super beautiful man like mefs got no
+ shortage of nighttime partners.h
+hShefd better have some other amazing features.h
+hFufufu, just listen.h
+hShefs got a great body and a great face, both brains and
+ beauty, fortitude and sincerity, and she sings and
+ dances and fights! Thatfs [Athena 2.0].h
+h...And this is a secret, but shefll have a D.P.S.
+ function too, despite the copyright!
+ ...Thatfs my plan anyway.h
+hHeheh...
+ Well, I guess I can indulge the whims of the elderly
+ every once in a while.h
+hIfll leave it to you.
+ Ifll be waiting.h
+hThis is Athena 2.0, right, hag?h
+hYep. Shefs beautiful, just like me, right?
+ Isnft she nice?h
+hYeah, shefs pretty good-looking, the complete opposite
+ of a crone like you.h
+h*Sigh*....h
+Ifm looking forward to the finished product.
+Itfs a mysterious machine the hag was using.
+Athena 2.0 was born from this thing, huh..?
+Hmm.
+hIfm back, hag.h
+h*Gasp*, there wasnft another defect, was there?
+ ...Ifm kind of losing confidence in myself here...h
+hItfs fine, Granny.
+ We just came to visit today.h
+hYeah, it took some work, but shefs not bad.
+ The sex wasnft too great though.
+ Ifm unsatisfied.h
+hThatfs not all Athena 2.0fs for, you know...h
+hNow listen here.
+ The production concept behind Athena 2.0 was
+ originally...h
+hGaaaaaaah, whatever, whatever!
+ Ifd rather eat a shoe than listen to another one of your
+ stupid explanations, hag!h
+hGood one, high five!h
+h....
+ You two sure are a good combination.
+ *Sniffle*, youfre my only ally, little lady..h
+hOf course!
+ Ifm on your side, Grann...h
+hSill!!h
+h...*Sniffle*.
+ Sorry, Granny.h
+hOh, itfs fine.
+ Just take care of my Athena 2.0.h
+hYOUUU FUCKIIINf CROOONE!
+ *Sniffle*!h
+hWh-what is it?
+ What happened this time..?h
+ƒƒYEOWCH!!„„
+hHEY!! Donft hit your elders like that!
+ Youfll break something!h
+hItfs not theeere, she doesnft haaave ooone!
+ Itfs all slippery and hairless! If it were just the hair
+ thing, Ifd be able to deal, but therefs no slit!h
+hWhat are you gonna do about my rampaging, raging hyper
+ weapon!!?h
+hGWAH!
+ What the hell are you showing an old woman!?
+ Put that thing away!!h
+hWhoops, I was so upset, I forget to put it away. I went
+ and showed it to an old crone who probably hasnft seen
+ one in hundreds of years. What a waste.h
+hWhatever!! Just hurry up and fix it!
+ And I want a good one! I wonft be satisfied with
+ anything else! One that lubricates and that squeezes!h
+hYeah, yeah, I got it. You sure know how to work a witch
+ to death.
+ But why does she have these defects?h
+hMm,
+ mime mafu.. (Omitted)
+ Cfmon, good *beep*!!!h
+hDo you have to dance every time to make the fuckinf
+ spell work?h
+(Spin spin spin)
+hOkay, Athena, lemme see.h
+hYeah, yeah`n! *Flip*.h
+h..Maybe I should have given her a shred of shame...h
+hUuugh... Ifm getting all horny!
+ Thatfs it! Wefre doinf it heeeeere!!h
+hYeaaah!h
+hKya, Rance-sama!h
+hHEY!! YOU TWO!!
+ KNOCK IT OFF!!!
+ Get outta here!h
+hBeeatit, beeatit!!
+ Getouttaheere!h
+hWaaaah!h
+hKya!h
+hSpin spin spin, woof!h
+hYou fuckinf crone!!h
+hƒƒWAH!!„„
+ What, you again? ..Donft surprise me like that.h
+hShefs got no nipples! No nipples!
+ Athena 2.0! What the hellfs perfect about that!?
+ Shefs perfectly defective!h
+hHeh?
+ Oh, thatfs right.
+ Well thatfs easy. Cfmere, Athena 2.0.h
+hYes, mafam!h
+hMaifu mafu amnasmafta, maifu mafu amnasmafta!
+ Cfmon, nipples!!h
+hShe sounds like such a fuckinf fake.h
+(Spin spin spin)
+hThere you go.
+ Howfs that?h
+hHrm, I prefer the areola a little smaller, but I guess
+ theyfre fine.h
+hHow mysterious.
+ *Poke* *poke* *poke*.h
+hWefre continuing where we left off again tonight,
+ Athena!
+ I canft take it anymore! Ifm gonna explode!h
+hKyan!
+ Youfre so pervertistic!h
+hHuh? What happened to Athena 2.0?h
+hShefs at the inn.
+ Shefs a good girl who doesnft cause me any trouble.h
+hEhhhhhh? Whyyy?
+ Why arenft you using heeeer?
+ I gave her to you, so use heeer!h
+hShut it.
+ I can do what I want with her. Shefs mine.
+ Youfve got no right to complain.h
+hOhh, Mr. Adventurer.
+ Howfs my Athena 2.0? Is she functioning well?
+ Shefs strong, right? Hyahyahya!h
+hAthenafs the next strongest after Masters, yes!h
+hShefs pretty nice.
+ I guess shefs good for something a perverted old crone
+ like you made.h
+hYoufre harsh as always.h
+hOoh, ooh, did ya bring me fem?
+ Hurry and gimme fem!h
+hDonft try to sound all cute, itfs super creepy.
+ Not yet. This is such a fucking pain. Canft I just give
+ you my nutritious fluid?h
+hNo way, if I added stomething like that to her, her
+ personality would be ruined!h
+hWhat were they again, anyway?h
+hWhat, you forgot?
+ Theyfre [Angelfs Nectar] and [Devilfs Nectar].h
+hOhh, have you obtained my ingredients?
+ Well done, well done. I should have known a famous
+ weirdo adventurer like you could do it!h
+hIfm not weird! Ifm awesome!! Great!!
+ Anyway, hurry up and finish Athena 2.0.h
+hOhh, thatfs right! Now, to the 200-year-old base, Ifll
+ add three drops of Angelfs Nectar and two of Devilfs
+ Nectar......h
+hDri`p, drop, drop, dr-drooop!!
+ Yahoo, yahoo, YAHOO!!h
+hThe cronefs finally lost it.h
+hArgh, Ifm just excited, okay!?
+ Here I go!! Maifu mafu amnasmafta,
+ maifu mafu amnasmafta!h
+hKieeeei, Athena 2.0, emerge!h
+Rattle... Rattle.. Ra..ttle..
+        Ra..Rattle..
+hTada`h! Here I aaam, Athena 2.0!
+ Mmmmmmm, how refreshing!
+ I feel so good right now!h
+hOhhh, finally...!
+ Ifve finally done it, aaaahhhhaaaah!
+ Itfs the birth of the Excellent Doll, [Athena 2.0]!h
+hHm, shefs a pretty beautiful girl.
+ But does she really have all the functions you said she
+ did, hag?h
+hOh, right.
+ Well, why donft you give her a test?
+ Hey, little lady.h
+hEh? Me?h
+hYeah, go ahead and ask [Athena 2.0] some questions with
+ truth and lies mixed together.h
+hHmm.. Okay...
+ Then Athena-san, are cows blue?h
+hYep!
+ Cows are a refreshing blue, just like your heart!h
+hThen, do lost kittens become lions?h
+hAf course!
+ They become beautiful, fearless lions, just like you!h
+hUmmm, are you a cute girl, Athena-san?h
+hNope, nope, nope.
+ But a bajillion goddesses couldnft compare to you!h
+hWaaah, Frostvine-san!
+ Can I please stop now? This is kind of embarrassing!h
+hNice comebacks! Good job, Athena 2.0!
+ Youfre perfect!
+ Ifm afraid of my own talent!h
+hIsnft she just lying though?
+ Either that or shefs just a brown-noser.h
+hYeah, yeah!h
+hThatfs ridiculous!!
+ You wonft be able to think that for long!h
+hYoufll understand how great she is the more you use
+ Athena 2.0.
+ Now go ahead and take this prototype.h
+hMake sure you pay attention to her.h
+hIfve gotta get started on planning the next model.
+ Hurry up and get outta here.h
+hIfd leave even if you didnft tell me to.
+ Hmph, letfs go, Sill, Athena 2.0.h
+hOh.. yes.h
+hYessir sir!
+ Athena would go to the depths of hell if you told her
+ to, woof woof, doggy woof!h
+hTake care!
+ Make sure ya donft get killed in yer sleep by this
+ Athena 2.0 thingy!h
+hTamaaaa!!h (Thwack)
+hThen Ifll send Athena 2.0 to the inn youfre staying at.
+ Youfd better use her.h
+hYeah, yeah, Ifm so excited!h
+Itfs a mysterious slate with a single button on it.
+hAlright, Ifm gonna push it.
+ *Push*.h
+hRance-sama, therefs something there!h
+hYeah, I know.h
+We hid and peeked in.
+hRance-sama, itfs an Okayu Fever and a Magician.
+ That Okayu Fever must be the demon demanding sacrifices
+ from the townspeople.h
+h....Yeah, must be.
+ Hefs fuckinf full of himself for a monster.
+ That girl.. is she a Magician..??h
+hYes, a Magician, the Gal Monster.
+ Theyfre pretty strong.h
+hThe Okayu Fever aside, a Magician could be bad news.h
+hI donft think itfs the sort of monster wefd have to
+ fight right in the beginning of the game if wefre
+ talking balance, but...h
+hShh, theyfre talking about something.h
+ The Okayu Fever and Magician started talking about
+ something, so I pricked up my ears.
+Okayu h......Upo.h
+Magician hCome on.. letfs do it...h
+Okayu hUpo??h
+Magician hMake me cum with those lovely hands of yours
+          again today!!
+          Come onnn!h
+Okayu h..Cfmere.. upo.h
+Magician hAha.. I love you!!h
+The Okayu Fever embraced the Magician with his enormous
+hands.
+....Ack..!
+Magician hAhn.. aah.. ahan.. Youfre so good at this.
+          Youfre the best.. More.. Give me more..
+          Ahn... ahn!h
+Okayu hUpo, upo, upo, upo.h
+The Magician is being toyed with by the Okayu Feverfs
+giant hands.
+Sweet moans come from the Magician as shefs groped by the
+Okayu Feverfs hands.
+Magician h..Ahn.. ahn.. mooore.. *Gasp*.. ah..!h
+Ifm so jealous.. Hefs just a stupid Okayu!!
+h...You Okayu bastard, if you wanna do dirty shit, do it
+ with a female of your own species!!h
+hRance-sama, there arenft any female Okayu Fevers.
+ Theyfre Guy Monsters.h
+hHm..? Guy Monsters??
+ Are there only guys then??h
+hYes. Things like Ham Bambaras and Dekants are Guy
+ Monsters too.h
+hHow do they breed if theyfre just guys?h
+hThey mate with Gal Monsters.h
+hThen what...
+ Since this Okayu Fever and this Magician are doing dirty
+ stuff right now..h
+hIf the Magician gets pregnant.. theyfll have a kid?h
+hYes, Rance-sama..
+ Did you not know?h
+hWhat? I know at least that much, dumbass.h
+I bluffed to Sill that I knew, but..
+I didnft know.
+I see.. I guess that makes sense.
+Ifve never seen a male KyanKyan or a female Dekant.
+I guess the world is put together pretty conveniently.
+But.. While I was being impressed, the Okayu Fever and
+Magician were continuing their weird-ass sex.
+Okayu hUpoooooo....!!h
+Magician hAaaaaaaaaah...!h
+Seems like the two of fem just came.
+Magician hThat was great.. Youfre amazing.h
+Okayu hUpo.. That was good, upo..
+       Upopoo..!h
+Magician hHey... Itfs gonna be soon, right?h
+Okayu hItfs gonna be soon, upo.h
+Okayu hSoon, the humans will bring me their next
+       sacrifice.
+       A cute girl.. Ifm excited, upo.h
+....Looks like theyfre talking about Mai.
+Magician hBut.. why do you need a human girl when you
+          have me as your girlfriend?h
+Okayu hUpo.. Theyfre Atlanta-samafs orders.h
+Okayu hI have to train them into lewd girls and give them
+       to Atlanta-sama, upo.h
+Magician hHmmm..? Is that true..?
+          But.. Ifm the one you love, right?h
+Okayu hUpo.. I love you, upo.h
+...Hmm, whofs this Atlanta person..? Whatfs going on..?
+Well, whatever.
+In any case, if I kill this Okayu Fever, I can have sexy
+times with that Mai girl, and thatfs whatfs really
+important.
+hLetfs go, Sill.
+ Wefre gonna kill that Okayu bastard.h
+hYes, Rance-sama.h
+Sill and I jumped out in front of the Okayu Fever.
+Okayu hUpo??
+       Who are you.. upo??h
+When I actually jumped out in front of him, I realized...
+This idiotfs actually pretty big!!
+Magician hWhat the hell.. are these humans..?h
+Magician hNo way.. Were you watching us this whole time?h
+Okayu hUpo.. Humans.. Oh, itfs kind of early, but have
+       you brought the sacrifice..? Upo.. Good job.h
+Okayu hSo that pink-haired girl is the sacrifice, huh..?
+       Shefs cute, upo.
+       I wanna touch her, upo.h
+hDonft misunderstand, you fucktard!h
+Okayu hUpo?h
+hIfm here to exterminate you!
+ Now accept your fate and die for me!h
+Okayu hNo, upo.h
+hYou did bad shit, so you die.
+ Those are the rules.h
+Okayu h..No, no.. Upo!h
+hEven if you donft want to, youfre gonna have to die.
+ If I kill you.. then I can be happy!!h
+Okayu hUpo.. Help meee.. upo!h
+Magician hHey, what are you going to do to my precious
+          boyfriend?h
+hYou know what Ifm gonna do. Ifm gonna kill him.h
+Magician hOh, really? Then Ifll be your opponent!
+          Ifm going to protect him!h
+hHmph, Ifll take care of both of you at the same time!
+ Letfs go, Sill.h
+hYes, Rance-sama.h
+Okayu hUpo.. upo.. upo....h
+hOhh..? Youfre pretty tough.
+ Youfre still alive?h
+Okayu hHelp me, upo?h
+hNope. If I donft kill you, I canft have sex with
+ Mai-chan, so.h
+Okayu hEee.. upo!h
+(Stab stab stab stab stab)
+  (Stab stab thud)
+Okayu hUppooooo(death)!h
+I defeated the Okayu Fever.
+Found Okayu Key.
+hAnd so the evil Okayu Fever perished.
+ Now the townspeople wonft have to live in fear of this
+ sacrifice stuff.h
+hYoufre right, Rance-sama.
+ Congratulations.h
+hThen why donft I go get my Mai-chan reward?
+ Gahahahahahahaha!h
+––––––––––––––––––––––––––––––––––––––––
+–  At that time                        –
+–       Control Area  Helman Explorers –
+––––––––––––––––––––––––––––––––––––––––
+hI canft believe this piece of junk refuses to cooperate
+ even after I came all the way here.h
+hFour keys..
+ This is so much trouble.
+ Really, so much trouble.h
+hBitch-sama, the Toushin Toshifs detection system has
+ found some intruders.h
+hWhat? Who is it??h
+hWell.. I donft know them.
+ Ifll display the footage though.h
+Merim fiddled with the equipment and Rance and Sillfs
+battle with Okayu was displayed on the screen.
+hHrm.. Looks like adventurers.
+ They look like theyfre not much compared to us, of
+ course.h
+hYou think so? I think that man looks pretty capable.
+ At least.. moreso than you.h
+hWha.. Hubert!!
+ How could you be so disrespectful to your commander!?h
+hWhat?
+ You wanna go?h
+hKuh.. When we get back, itfs a court-martial for you!
+ Remember that!h
+hOh, those two.. They turned into 50 people.
+ A huge army, and.. aah, theyfre coming to attack us!h
+hWHAT!? ..50 people.. coming to attack us!!?
+ What are you doing!? We have to run!h
+hPlease donft lose your composure like that, Captain
+ Bitch.
+ It was a lie.h
+hA lie??h
+hYep, just a playful lie.
+ You should calm down a little, Captain Bitch.h
+hHah hah hah, Ifd expect such shameful behavior from
+ you.h
+h*Pant* *pant* *pant*.. shut up!
+ Who exactly do you think I am..? Kuh!h
+hWell.. More importantly, about what wefll do now..
+ Will we go looking for these four keys..?h
+h........h
+hAh, right.h
+hKehya, kehya, kehya!
+ Ifve got a great idea!h
+hI knew I could do it!
+ Listen up, you four, Ifm about to give you your orders.h
+hIo.h
+hYeah? What is it?h
+hJoin up with those two adventurers.
+ Control that man with your hypnotism and find those four
+ keys.h
+h.......h
+hThe rest of you will guard me.
+ Got it?h
+h...Such underhanded methods again...?h
+hDid you say something, Hubert?h
+hNah, not really...h
+hVery well. Then, Io.
+ Go.h
+Itfs the cell Okayu was keeping Purple in.
+Therefs no one in it now....
+Theyfre the bars of the cell.
+hRance-sama, therefs a girl in that cell!h
+hWhaaat!?h
+Prisoner h...Who are you??h
+hIfm Rance.
+ Ifm a man of justice and courage.h
+Prisoner hA.. are you...h
+Prisoner hHere to save me?h
+hIfm a man of justice, so Ifll save you under certain
+ conditions.h
+Prisoner hPhew.. Finally, Ifm saved.
+          Ifm about to go crazy from that Okayu Fever
+          touching me day after day.h
+hAn Okayu Fever? So then, are you..?h
+Prisoner hMy name is Purple Soul.
+          Three years ago... *Sigh*, itfs already been
+          three years, huh....?h
+hWhat happened three years ago?h
+Purple hThree years ago, I was offered to the Okayu Fever
+        as a sacrifice.h
+Purple hThat Okayu Fever keeps touching me day after day
+        after day!
+        I hate it! So please get me out of here!h
+hHmmm? Will you let me do you if I help you?h
+Purple hOf course!
+        In fact, I was going to ask you the same thing!h
+hOhh?h
+Purple hI mean, all the Okayu Fever does is touch me! He
+        never puts it in at all!
+        Ifm going crazy here!h
+Purple hThree years! Three years, and all hefs done is
+        touch me!h
+Purple hCan you understand how painful this is?
+        Every time, Ifm right about to cum, and he never
+        finishes it!h
+hOkay, okay, I got it.
+ Ifll fuck you 100 or 200 times.h
+Purple hPlease hurry and save me!h
+Okay, Ifm opening the cell.
+(Clank clank)
+I opened the cell with the Okayu Key.
+hAlright, I saved you.
+ Letfs get right to.. uwah!h
+Purple hKya.. Ifm out of the cell!
+        Ifm out, Ifm out, Ifm so happyyyy!h
+When I opened the door, the girl pushed me aside and ran
+off.
+Purple hMove! Youfre in my way!h
+(Thud)
+hShit! What a bitch!
+ She said shefd let me fuck fer!!h
+hGet back here, you fuckinf tease!!h
+I chased after her, but I couldnft find her.
+hShit!h
+hItfs too bad, isnft it, Rance-sama?h
+hWhatfs with that tone, Sill?
+ Are you actually happy about this?h
+hN.. no.h
+hShut up!
+ Itfs all your fault!h
+(Thwack thwack thwack)
+h*Sob* *sob*.h
+(Clank clank)
+The door is locked (with the Okayu Key) and cannot be
+opened.
+(Bronze Bell) is written in small letters on the
+pedestal.
+hRance-sama, something may happen if we leave the (Bronze
+ Bell) here.h
+Leave the Bronze Bell?
+h...Alright, why not?
+ Ifll give you permission, so do it.h
+Sill pulled the Bronze Bell out of her item bag and left
+it on the pedestal.
+The (Bronze Bell) is sitting on the pedestal.
+hIfll hold onto the Bronze Bell again, okay, Rance-sama?h
+hHm..? Somethingfs there.h
+hYes, itfs a Bronze Bell.
+ Ifll put it into our items.h
+hAlright, donft lose it.h
+hYes.h
+Obtained (Bronze Bell).
+Therefs a pedestal.
+(Empty Can) is written in small letters on the pedestal.
+hRance-sama, should I leave the Empty Can we picked up on
+ the pedestal?h
+Leave the Empty Can?
+hYeah, go ahead.h
+Sill pulled the Empty Can out of her item bag and left it
+on the pedestal.
+hIfll hold onto the Empty Can again, okay, Rance-sama?h
+hTh.. this is...h
+hItfs just a normal empty can.h
+I picked up the Empty Can, shook it, and looked inside,
+but unfortunately, it was still empty.
+hTch, itfs just junk.
+ Youfre supposed to throw this shit away when youfre done
+ drinking it.h
+hThrow this thing away, Sill.h
+hBut Rance-sama.. this Empty Can has fImportant Empty
+ Canf written on it.h
+hWhat?h
+When I gave it a closer look, I noticed that the can did
+in fact have (Important Empty Can) written on it in pink
+ink.
+hRance-sama.. what should I do?h
+hHrmmm, now itfs bugging me, so hold onto it.
+ Donft lose it.h
+hYes.h
+Obtained (Empty Can).
+    (Creeeeak)
+hWh.. what was that!!?h
+hRance-sama.. the door..!h
+(Clank clank clank clank clank clank clank)
+Seems like the door just opened with that loud noise.
+hRance-sama, itfs a treasure chest.
+ What should I do?h
+hAlright, destroy it.h
+hDestroy it?
+ You mean this treasure chest?h
+hYeah, hurry up and do it.h
+hOkay, Ifll try.h
+(Whack whack thwack)
+hRance-sama, itfs too sturdy. I canft break it.h
+hYou loser.h
+hI feel like itfll explode if you open it.
+ Leave it alone.h
+hYes.h
+hAlright, open it.h
+hUnderstood.h
+hHurry up and open it.
+ Quickly now. Eliminate all unnecessary time spent and
+ shorten the process.h
+hItfs open, Rance-sama!h
+hRance-sama, I foundF 
+ inside.h
+hIfll hold onto it.h
+hAlright.h
+h...*Blush*.h
+hIfve got.. a bad feeling about this....h
+hYa donft gotta listen to that old cronefs requests,
+ Boss.h
+hShefs senile! She donft even know if she can do any af
+ the stuff she says she can!h
+hYoufre pretty foul-mouthed yourself.
+ I kinda feel bad for the crone too.h
+hNyafufu.
+ But she canft do nothinf without me around!h
+hHey, Boss, the next time my heat comes around...
+ I.. If it were yours, Boss...... Ifd have your kid.h
+hIfll politely decline.h
+hBut, you know, cats have to do it like 10 times, so, I
+ wonder if you could keep up, Boss..
+ Nyafufufu.. Fufufufufufu...h
+h...Are you listening?h
+hHey, uh, Boss?
+ Looks like itfs finally here...h
+hHuh? What is?h
+hAhn....
+ I told ya before, didnft I?
+ Ya know, my.. heat...h
+hI guess you mighta said something like that....h
+hCfmon Boss, Ifm begginf ya.
+ Could ya please, help a cat out...?h
+hDonft wanna.h
+hPhew.h
+hY.. youfre horrible.
+ Ifm embarrassinf myself askinf ya this, ya know!
+ Itfs just my natural instincts at work here!h
+hI lied.h
+hHeh..? fBout what?h
+hFufufufufufufufufu...
+ That I [donft wanna] was a lie.h
+hReally?
+ Thatfs greaaaat, nyafufufufufufufu!h
+hSince I said Ifd do it, Ifll do it.
+ Now letfs do it. Letfs do it now. Letfs do it here.h
+hNyagh!! Here?
+ Th.. thatfs a bit too much, donftcha think..?
+ Nyahaha.h
+hWhat the hell are you two whispering about over there?h
+hNothiiiiinf,
+ nya- nyothinf at all!h
+h*Staaaaaaaaare*, *stare* *stare* *stare*.h
+h....This is makinf me nervous...h
+h............Hmph.h
+hPhew.h
+hAnyway, we just canft here, Boss. I know a good place
+ though, so letfs head over there.h
+hWell, fine.h
+h...*Sob* *sob*.h
+hWhat, Sill? You wanna complain?
+ Why donft you help the old crone out with something.h
+h...Okay.h
+hCfmon, this way, Boss.
+ Quiet-like.h
+hHm? Sure.h
+hThis might be improper or somethinf, but I just canft
+ take it anymore!
+ .........Hurry up anf.. do it.h
+Rance hIfll gladly indulge your selfishness.
+       After all, Ifm super nice to the ladies.h
+Tama hAahn.. whatever, just.. hurry up!h
+Rance hMmfufufufufu.h
+Tamafs pussy (heh) was already wet enough that she didnft require any
+kind of foreplay.
+When I touched it, it seemed to throb as if in pain.
+Tama hHaaah... that feels nice, Boss.
+      Donft worry about me though, just go ahead anf do it.h
+Rance hSure.
+       Ifll take you up on that.h
+Tama hOw!!h
+Itfs tight...
+Is this what cats are like?
+If I let my guard down, I could end up coming first.
+I guess Ifve learned something today.
+Tama hAh.. ah...
+      Yes... Fufu, youfre great, Boss...!h
+Rance hFuhahahahahaha, of course I am!h
+Tama hAaahn.. Letfs go more than 10 times today!h
+Rance hHey, thatfs something I decide!h
+Tama hNyaha.. aahn.. nh, nh!h
+Rance h........Shefs not listening, is she?h
+hHeheh, well Ifm kinda embarrassed, so I think Ifm gonna
+ take off here.h
+hSure. Youfre pretty cute, you know.h
+hIfm in your debt!h
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

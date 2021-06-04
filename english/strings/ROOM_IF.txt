@@ -1,0 +1,9 @@
+Cannot move here
+Left click to move here
+Right click for options
+Camp
+Search
+Leave room
+Search front of Rance
+Left click to search
+Right click to exit search

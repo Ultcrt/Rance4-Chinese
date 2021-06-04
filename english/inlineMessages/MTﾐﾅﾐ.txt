@@ -1,0 +1,503 @@
+   [
+Passageway
+Room
+Witchfs Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door is locked (and requires the South Tower Key).
+The door cannot be opened.
+The door is locked (and requires the Okayu Key).
+Used the Okayu Key to open the door.
+The door cannot be opened.
+The door wonft open.
+We left the tower.
+The door is locked (and requires the South Tower Key).
+The door cannot be opened.
+The door wonft open.
+The door wonft open.
+hRance-sama, the door wonft open.h
+(Knock knock)
+Sillfs knocking on the door and checking it out.
+hWhat a strange door. Therefs no keyhole.
+ Looks like wefll have to find a different way to open
+ it.h
+hDonft gimme excuses.h
+hEh? But...h
+hYou canft be the thief in my party if you canft even
+ open a door like this.h
+hRance-sama, Ifm.. a mage, so.. kya!h
+(Thwack thwack thwack)
+h*Sob* *sob*....h
+But even if I punched Sill, the door wouldnft open.
+The door wonft open.
+(Click)
+Suddenly the floor dropped out from under us.
+hOh shit....!h
+hKyaaaa, a pit trap!!h
+*Whiiiiiiiistle*
+THUD
+We fell to a lower floor.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+hAlright, wefre using the transport device.h
+(Vwiiiin)
+(Vwiiiin)
+hLooks like wefre here.
+ That was fun! It was like a roller coaster.h
+Doesnft look like therefs any reason to search thoroughly
+here.
+hHeya, Boss.
+ Youfve got a scary mug as usual.h
+hLeave me alone.h
+hNyafufufufufufufufufu.h
+Hm? Therefs a woman sticking to the wall or something.
+hOh, a sexy lady.
+ What do you say? Wanna go a round with...h
+hHmph, what was that, you punk!!?
+ Is that somethinf ya say to a lady in broad daylight
+ without even greetinf fer first!?
+ Never come back again!h
+(Slap)
+A wet rag came flying at my face.
+hYoufve got guts to throw a rag at the strongest man in
+ the world!h
+hHm? Why the hell are you wiping down this random
+ passageway, anyway?h
+hWherefre ya stickinf yer eyeballs, mister?
+ This herefs clearly a foyer.h
+hWhere?h
+hWhere is?h
+hHere is! Look closer!h
+When we looked closer, we really saw something like a
+sign hanging on the wall.
+hHuh, therefs a nameplate here...h
+hG-R-E-A-T-W-I-T-C-H-F-R-O-S-T-V-I-N-Eh
+h...See, theyfre makinf fun of us..
+ fCause af that shitty old hag...h
+ƒƒƒTama!! You say
+        somethiiing!!!!!?„„„
+hNoooope!!
+ ..*Mumble* *mumble*.. (Geez.. what sharp ears.)h
+hSo that voice was your mistress, huh?
+ Youfve got a nasty mouth, but your mistress must be a
+ terrible brute of a slug to exploit a girl as cute as
+ you.h
+hWhy donft I go tell her off for you?h
+h..Rance-sama, I donft think you can talk about..h
+h...fD you say something, Sill?
+ (Heeheehee.. Ifll get her to owe me here and then cash
+ in later..)h
+hR.. really??
+ Youfll really go talk to fer??h
+hOf course, definitely, for sure.
+ Ifm saying this super famous, great adventurer,
+ Rance-sama will go talk to her.h
+hBoss!!
+ This way, this way! Hurry!h
+hThat old hag got really pissed at me just fcause I mixed
+ some medicine wrong anf filled the room with black soot,
+ heheh.h
+h........
+ ..Ifd get mad about that too.h
+(Buzz buzz buzz)
+(Buzz buzz buzz)
+hRance-sama, therefs something there!h
+hIs it a woman??h
+hItfs an army of monsters!h
+[South Tower 
+B1
+F]
+    Adventure
+Day 
+    Time [
+F
+0]
+hRance-sama, therefs a sign?
+ Sould we read it?h
+F    Notice    Great King Okayu           F
+FUpo, Great King Okayufs court is to the  F
+Fnorth. Donft get lost on your way, upo.  F
+FWarningF Donft forget the cute girl, upo.F
+hWhat shitty handwriting. This is really hard to read.h
+hYes, itfs worse than yours, Rance-sama.h
+hOf course, my writingfs way better!
+ Gahahahahahaha!h
+F    Notice    Great King Okayu           F
+FUpo, take the east path, will wait, upo. F
+FUpo, upo, upo, upo, upo, upo.            F
+F            Thatfs all, upo.             F
+h......Hmmmmm.h
+F    Notice    Great King Okayu           F
+FGreat King Okayufs mansion is a little   F
+Fbit farther east, upo. Waiting for human F
+Fwith sacrifice only to open door, upo.   F
+We climbed the stairs and returned to the church.
+Cynthia hOh....h
+hHm, what is it?h
+Cynthia hIfm so sorry, Younashi-sama!h
+Younashi-sama hWhat is it, Cynthia?h
+Cynthia hWell, I accidentally.. thought something like..
+         foh, this guy came back? I thought hefd gotten
+         eaten by monsters and died, thatfs too badf!h
+Cynthia hI canft forgive myself for thinking such a rude
+         thing about Rance-san!h
+Younashi-sama hItfs okay, itfs okay, donft let it bother
+               you.
+               Youfre pardoned of all your sins,
+               Cynthia-chan.h
+Cynthia hTh.. thank you!h
+Younashi-sama hWell then, see ya!h
+Cynthia hWelcome back, Rance-san.h
+h...Hmmmm.h
+h.......h
+hHm..? What is it, Rance-sama?
+ Wefre not going.. down the stairs?h
+hYeah, wefre puttinf off dungeon exploration for today.
+ I did all that work defeating the Okayu Fever, so Ifm
+ gonna go back to town and fuck Mai.h
+h........Rance-sama..h
+hAlright, wefre goinf back to town.h
+–––––––––––––––––––––––––––––––––––––––––––––––––
+–  At that time                                 –
+–     Inside the Toushin Toshi  Helman explorers–
+–––––––––––––––––––––––––––––––––––––––––––––––––
+hMerim, what is this strange column?
+ Answer me.h
+hThis is a Magic Column that stores the magic required to
+ power this Toushin Toshi.h
+hIt doesnft currently have any magic in it.
+ What a wonderful Magic Column.h
+hMm, youfre right. I, of course, knew that as well.
+ If we can move this, the Toushin Toshi will be mine,
+ kehya, kehya!h
+The Helman Army turned a corner further in and entered a
+small room.
+Inside the room was a large crystal ball.
+hOhh? This is the Toushin Toshifs control device?
+ Hubert, Dens.h
+hThis is a world you incompetent warriors couldnft
+ possibly understand, kehya, kehya!h
+hUmm.. Bitch-sama...h
+hWhat do you want, Merim?h
+hThis crystal ball is the magic supply device..
+ Itfs not a control device for the Toushin Toshi...h
+hHeh...?h
+hHahahahah, itfs just like you to jump to conclusions
+ like that, Bitch.h
+hKuh.. Hubert... hey!h
+Dens steps forward as if to ignore Bitch, who has turned
+bright red.
+hI j-just need to, leave this girl..
+ i-in here, right?h
+hOh, yes, thatfs right.
+ Please insert her into here, Dens-san.h
+hHmm? So this girl is going to become the energy source
+ then?h
+hYes.
+ I feel sorry for her though...h
+hArgh, hurry up and do it already!
+ I will not permit any more pointless chatter!h
+h....Please, Dens-san.h
+hY.. yeah.h
+hIn h.. here, right..? There.h
+Merim started fiddling with the controls.
+hExcuse me, Io-san, but could you help me with this?h
+hSure thing.h
+Io approached Merim and the two of them continued
+securing Alicia to the crystal ball.
+hOh, bring that strip.. over here.h
+hIs this, right..?h
+h...Hurry it up, simpletons.h
+hPlease be.. careful with that. The magic will leak.h
+hI got it, I got it. There.. thatfs it, right?h
+hYes.h
+Merim pushed a button somewhere and the crystal ball
+sucked Alicia inside.
+hIt had better be working.h
+hYes, I think.. it will work now.
+ Ifm kind of excited.h
+hAaah.. mother.. Merimfs so happy.
+ Here and now, this super ancient magic legacy....h
+hHurry it up, Merim.h
+hOh.. yes.
+ Then... *click*.h
+Merim flipped a switch and, with a whir, Aliciafs body
+started to glow a pale blue.
+h.........h
+hIt worked! This is so amazing!h
+hSo where do we operate it, Merim?h
+hOh, thatfs right.. operation, operation..
+ This way.h
+hOhh? This is the control room then?
+ Kehya, kehya!h
+hCome on then, Merim. Hurry up and activate the control
+ device.h
+hYes, this is amazing.. Itfs just like the ancient texts
+ said.
+ Ifm so happy that itfs remained in such perfect shape!h
+hGood work! Now this Toushin Toshi is mine!
+ Kehya, kehya!h
+hVery well, I will operate the device myself!
+ Out of my way, Merim.h
+hYes.h
+hKehya!h
+hKehya!h
+hKehya, kehya, kehya..
+ This is wonderful!h
+hNow, forward march to Leazas Castle!
+ Go.. Advance!!h
+.............
+.............
+hOho? Oho? What is this? Why isnft it moving?
+ Depart, advance northward.. Go.. Go!!h
+hMerim.. What is this!? You said it would move, didnft
+ you!!?
+ Do something!h
+h...Oh....h
+hWhat is it?h
+hItfs locked.. This is amazing!h
+hWhat do you mean?h
+hAs long as itfs locked, the Toushin Toshifs important
+ functions have all been suspended.
+ It canft follow anything but simple orders.h
+hWhat do you mean, Merim?
+ We canft move this Toushin Toshi?h
+hYes, we canft.
+ It looks impossible as long as itfs locked.h
+hUseless fool..
+ Do something!h
+hBut...h
+hMy mission, my glory.. shit!
+ Do something, Merim! You must!h
+hI canft, Bitch-sama..h
+hShit, Merim, Ifm gonna beat you!
+ Ifll punish you! Get over here!h
+h*Gasp*.. Bitch-sama!!h
+hHey, thatfs enough.h
+hAre you interfering with me, Hubert?
+ Youfll be court-martialed and receive capital punishment
+ if you disobey me, your superior, you know.h
+hYou get it? Captial punishment.h
+hHmph...h
+hDonft ignore me, Hubert!
+ Who the hell do you think your master is, Merim!?h
+hYes, Ifm sorry.h
+hYou donft have to listen to anything Bitch says.h
+hHubert!!h
+hYou said something about a lock, right, Merim?
+ Isnft there any way to unlock it?h
+hKuh, if we could make this Ylapu the Helman Armyfs, we
+ could pulverise Leazas in a single attack, and Ifd be a
+ hero!h
+hKehya, kehya, kehya!h
+hCheck it out some more, Merim.
+ There must be a way.h
+hYes, Hubert-san.h
+Merim began fiddling with the devices.
+......Clank, clank.
+hOh, Ifve figured it out.
+ There are keys for this lock.h
+hThis system can be unlocked with four control keys.h
+hAre they on this Toushin Toshi, Merim?h
+hYes, if we use this search system, we should be able to
+ find their general locations.h
+Merim spread out the map she was carrying.
+hThe Tousho Core.h
+hThe Defense Core.h
+hThe Research Core.h
+hAnd the Supply Core.h
+h.......h
+hIt looks like these four areas each have a key in them.h
+hIs that right, Merim? Good work.h
+hBitch-sama, wefll be able to do something now.h
+But Bitch was kicking around some machines with a sullen
+look on his face.
+hTch, what a bother.
+ Finding four keys? Outrageous.h
+hA Helman councilman such as myself, reduced to a search
+ like this.. Itfs ridiculous.h
+hWell, whatever.
+ Youfre the commander, arenft you?
+ If itfs a bother, why donft you call off the search?
+ We can give up here.h
+hThis is a mission I received from Empress Pamela
+ herself! I canft do that!!h
+hShit, how very wretched.h
+(Munch munch)
+     (Munch)
+(Munch)
+hHey, Sill.
+ What the hell are you eating?h
+hIfm not eating anything...h
+hDonft lie to me. Youfre secretly eating my personal
+ snacks, arenft you?h
+(Munch munch)
+        (Munch munch)
+h...Hm?h
+hUmm... Itfs not me.h
+hRance-sama, I can hear it from behind this wall.h
+      (Munch munch)
+hYeah, it sounds like someonefs eating.
+ What is it?h
+hShould we get closer, Rance-sama?h
+hOf course.h
+hAh!!h
+hMaria-san!h
+hAhhhh, shefs snacking!
+ Ifm jealous!h
+Maria sat in the passageway in front of us, silently
+eating bread.
+h*Munch* *munch* *munch*.h
+hHey, Maria.h
+hHm...??
+ *Munch* *munch*.h
+hHey, youfll screw up your proportions eating like that.h
+hHey, youfre gonna get fat.h
+Apparently my words meant nothing to Maria, whose body
+had been taken over by the Puryo, because she continued
+silently eating bread.
+h..........h
+hRance-sama...h
+hYeah, therefs only one way to settle something like
+ this.h
+hWhat are you going to do?h
+hIfm gonna do her!h
+hEh?h
+hIfll save you from the Puryofs spell with my overflowing
+ love and passion that runs deeper than the sea!h
+hThe sexual appetite will conquer the food appetite!h
+I pounced on Maria.
+Rance hHey, Maria.h
+Even when I embraced her and called her name, Maria simply continued
+chewing and didnft respond.
+Rance hNo good, eh? Looks like Love Shock Therapy is required after
+       all!h
+While I spoke, I enjoyed myself by touching Mariafs exposed, springy
+thighs.
+Mmmm, shefs got such a nice, plump body.
+Itfd be such a waste for this great body to eat too much and lose its
+balance.
+I shifted her jacket and her cute breasts bounced out.
+I grabbed them and slowly started fondling them.
+Maria h..........h
+But no matter how much I groped, there was no change in Maria.
+Hmmm, then Ifll stop holding back and grope harder.
+This time I gave Mariafs breasts some good, shape-changing fondles.
+Theyfre so soft and nice!
+Maria h.........Food.h
+Rance h....Tch, no good, huh?h
+I crept my fingers up her thighs and stuck them through an opening
+into her hotpants.
+Rance hRight, here.
+       Good morning, Maria-chan!h
+My finger starts lewdly exploring the area around Mariafs slit.
+Maria h........Anman.h
+My fingers part her flower petals even more and steal into her soft
+opening.
+Maria h...........Sukiyaki.h
+Rance h............h
+Itfs no fun if she doesnft react at all.
+But Ifve gotta do it!
+I quickly stripped Maria and put her on all fours.
+I can see all of her completely not wet pussy.
+Shefs not a virgin, but itfs pure and clean-looking.
+I took out my dick, spit on my hand, and coated my dick with my spit.
+This should be better than nothing.
+I grabbed Mariafs nice, plump butt and shoved in from the back.
+(R.. ram... thrust)
+Since it wasnft wet, her pussy didnft accept my dick very easily, but
+I managed to force it in.
+Itfs fcause of the spit.
+My hyper weapon is stimulated by a tight, comfortable squeezing.
+Uha, uha..!
+Maria h......Uhhn... melo.. n...h
+Maria named a food, sounding a little pained.
+The tightness made it really hard, but I started slowly moving my
+hips.
+Maria hAh..... nn......h
+Maria hEh....? Rance!!h
+Rance hUgh.. g.. good.. nn.
+       Oh, Maria, you awake?h
+Maria panicked and tried to get away from me, but, not letting her, I
+grabbed her butt tightly and held her down.
+Rance hGahahahahahaha, I knew my hyper weapon could do it!
+       I can make any girl come back to her senses!h
+Maria hWait, Rance.. what are... ah!h
+Looks like Maria finally felt the pain of me forcing myself into her
+dry pussy.
+Maria hHey, that hurts.. it hurts!
+       Stop..!h
+Rance hWell, if you get wet, itfll stop hurting.
+       Cfmon!h
+(Slap slap)
+I gave her ass some good slaps.
+Maria hRance, why is.. this.. whatfs happening..? Ahn!h
+Rance hYour body got taken over by Puryo! You were in real trouble!
+       And then I.. Gahahahahaha!h
+My hyper weapon is slowly starting to melt Maria. Fufufu, of course.
+Shefs starting to feel better.
+Maria hEh? Is.. ah.. ahn..!h
+Maria hWait a second.. ah... aaah...!h
+Rance hOhhhh, thatfs good!
+       Youfre nice and wet now! Good and soaked!h
+(Ram ram ram)
+I pierced Maria even more violently.
+Maria hAh... Ahn..........!h
+Rance hGahahahahahahaha!!h
+I brought my hand forward and groped Mariafs nice, heavy boobs as if
+trying to scoop them up.
+Maria hAhn.. stop..!h
+Rance hWhat do you mean fstopf..!!?
+       Your nipples are super fuckinf erect, you know!
+       Donft pretend you donft like this!h
+I twisted Mariafs nipple as I spoke.
+Maria h*Gasp*!!h
+Rance hWell, itfs about that time!
+       Letfs finish this!!h
+I let out a hot load inside Maria.
+................
+................
+hGeez, youfre terrible.h
+hGahahahahahaha!h
+Maria was freed from the Puryofs spell with my Love Spark
+Attack.
+Itfs all thanks to me.
+h.........h
+hHey.
+ I saved you, so at least thank me.h
+h...Thanks.h
+hAlright, Ifll allow you to participate in our adventure
+ as my underling.
+ Youfd better work for me.h
+h....R-right.h
+hAlright.
+ Ifll give you this Return Wood for now, so go ahead and
+ go back first.h
+hO-okay.h
+hUmm.. Rance..?h
+hWhat is it??h
+h.....No, itfs nothing.
+ See you.h
+Maria used the Return Wood and returned to town.
+hIfm glad Maria-sanfs okay, Rance-sama.h
+hYeah.h
+hBut, Ifd.. like it if you didnft have sex... with
+ Maria-san.h
+hHm...?h
+hIf you, want sex.. then Ifll do it with you.
+ Okay, Rance-sama?h
+hShut up. Donft say shit like that, you slave.h
+h...Yes.h
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

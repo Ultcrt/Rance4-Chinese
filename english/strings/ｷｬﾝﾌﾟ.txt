@@ -1,0 +1,96 @@
+Check
+Use
+Equipment
+Toss
+Mirror Fragment A1
+Mirror Fragment A2
+Mirror Fragment A3
+Mirror Fragment A4
+Mirror Fragment B1
+Mirror Fragment B2
+Mirror Fragment B3
+Mirror Fragment B4
+Mirror Fragment C1
+Mirror Fragment C2
+Mirror Fragment C3
+Mirror Fragment C4
+Mirror Fragment D1
+Mirror Fragment D2
+Mirror Fragment D3
+Mirror Fragment D4
+Mirror Fragment A1
+Mirror Fragment A2
+Mirror Fragment A3
+Mirror Fragment A4
+Mirror Fragment B1
+Mirror Fragment B2
+Mirror Fragment B3
+Mirror Fragment B4
+Lightweight Bow
+Mirror Fragment C1
+Mirror Fragment C2
+Mirror Fragment C3
+Mirror Fragment C4
+Lionet
+Mirror Fragment D1
+Mirror Fragment D2
+Mirror Fragment D3
+Mirror Fragment D4
+Strength Spray
+Rance
+Sill
+Io
+Merim
+Rick
+Leila
+Julia
+Kanami
+Maria
+Shizuka
+Athena 2.0
+Hubert
+Freak
+No one
+Tough Spray
+Strength Spray
+Weapon
+Remove weapon
+Armor
+Remove armor
+Shield
+Remove shield
+(Tough Spray)
+(Strength Spray)
+Quit
+Tough Spray
+Strength Spray
+ 
+ 
+ 
+Rance
+Sill
+Io
+Merim
+Rick
+Leila
+Julia
+Kanami
+Maria
+Shizuka
+Athena 2.0
+Hubert
+Freak
+No one
+Level God
+System God
+No one
+Feliss
+No one
+DevilÅfs Nectar
+DevilÅfs Nectar
+Items
+Status
+Think
+Call
+Rest
+Close

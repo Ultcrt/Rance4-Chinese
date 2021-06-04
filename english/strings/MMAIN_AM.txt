@@ -1,0 +1,26 @@
+Yes
+No
+PTTP Drug
+Yes
+No
+Take sword
+Use item
+Check
+Ignore
+Take
+Look
+Ignore
+Black Sword
+Yes
+No
+Power Julia
+Defense Julia
+Speed Julia
+Balance Julia
+Yes
+No
+???
+Flame Shield
+Buster Sword
+Hanny Knife
+Alice Sword

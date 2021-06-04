@@ -1,0 +1,1040 @@
+ÅhWelcome to the Alice Shop!Åh
+ÅhCaw, caw...Åh
+ÅhPlease buy something.
+ Eh? YouÅfre not here for shopping today?Åh
+ÅhCaw!!!Åh
+ÅhWell then, letÅfs chat.Åh
+ÅhWhat would you like to talk about?Åh
+Strange
+ÅhChoose the staff member youÅfd like to see!Åh
+Sorry for the long wait.
+About a year after the Japanese Win95 came out,
+Alice is finally starting to put out Win95 games.
+------------------------------------Programmer  WAO--
+I think itÅfs significant that AliceÅfs first Win95
+title will be part of the popular Rance series.
+------------------------------------Programmer  WAO--
+Especially Rance IV, whose DOS version had a lot of
+issues with operability (mouse support and the like).
+We received a lot of harsh feedback.
+------------------------------------Programmer  WAO--
+Since Win95 really improved mouse operation, we
+really focused on altering the game with that in
+mind. So I think the operability improved a lot.
+------------------------------------Programmer  WAO--
+I think Plum-kun, who was in charge of the porting
+this time, really did his best on that sort of thing.
+------------------------------------Programmer  WAO--
+I think thereÅfs still a lot of research to be done on
+making mouse controls convenient, but I think IÅfll aim
+for improvements with every work until we perfect them.
+------------------------------------Programmer  WAO--
+The group of people IÅfm primarily trying to target
+are those who havenÅft played the DOS version, but
+I think you could say itÅfs also aimed at those
+------------------------------------Programmer  WAO--
+users whoÅfd like to revisit our old works.
+------------------------------------Programmer  WAÅù--
+This game, Rance IV, is going to be Win95 exclusive,
+so it will use our SYSTEM 3.5, which is Win32 API
+exclusive.
+------------------------------------Programmer  ÑYÅ¢Åù--
+SYSTEM 3, which was for Win16 API, was slow and
+couldnÅft really be called an improvement even in
+empty flattery.
+------------------------------------Programmer  ÑYÅ¢Åù--
+This time, I think we managed to make a SYSTEM
+thatÅfs no longer shackled by the transfer from
+DOS and actually uses the Win95Åfs strong points.
+------------------------------------Programmer  ÑYÅ¢Åù--
+The name has only increased by 0.5 from SYSTEM 3Å®
+SYSTEM 3.5, so it might seem like only a little has
+changed, but itÅfs not about the increase.
+------------------------------------Programmer  ÑYÅ¢Åù--
+Everything including the fundamentals has been
+improved, so I think itÅfs become a pretty powerful
+system thatÅfs really only inherited the name.
+------------------------------------Programmer  ÑYÅ¢Åù--
+Kichikuou Rance and stuff like Katsumi-chan Monogatari
+will be on this SYSTEM 3.5 too.
+------------------------------------Programmer  ÑYÅ¢Åù--
+Rance IV uses most of its functions, but not all of
+them. It still has many more interesting functions.
+------------------------------------Programmer  ÑYÅ¢Åù--
+ItÅfs a little disappointing that I canÅft show them
+all off in every game we develop.
+------------------------------------Programmer  ÑYÅ¢Åù--
+It might be in magazines and stuff by the time this
+is on sale, but the ones where the map is all around
+you are pretty fun. (lol)
+------------------------------------Programmer  ÑYÅ¢Åù--
+This is kind of related to the mouse operability
+stuff I talked about earlier. If you have any related
+opinions about this sort of thing for Rance IV, or
+------------------------------------Programmer  ÑYÅ¢Åù--
+for Kichikuou, which will be out in December, please
+write to me. (And if you do, addressing the letter to
+WAO will make it much more likely to be read by me.)
+------------------------------------Programmer  ÑYÅ¢Åù--
+This SYSTEM has only just begun its life, but IÅfd
+like to keep raising it without stopping.
+------------------------------------Programmer  ÑYÅ¢Åù--
+Umyuu, hanya hanya, hoee hoeee
+ThatÅfs that.
+See ya!
+Voice of God
+  ÅhWhat was that!? Whaddaya mean!? Explain yourself!
+   Ehh? Fuck with me and IÅfll beat the shit outta ya!Åh
+ThatÅfs that, so thatÅfs that, ya know?
+CanÅft ya be satisfied with that?
+Voice of God
+  ÅhAh, whatever.....
+   Like hell! Did ya really think IÅfd accept that!?
+   Hurry up anÅf explain!Åh
+Fine, fine. I understand.
+Well then, letÅfs get started.
+So I tried to start out with an Osakan comedy skit!
+IÅfm PLUMÅfF.
+I did most of the porting work myself this time.
+Voice of God
+  ÅhHow lonelyyyy!Åh
+ItÅfs a Win95 exlusive game so itÅfs controlled by mouse.
+ÅfNothing Not MouseÅf is the concept I went with when I
+made it.
+Voice of God
+  ÅhWhy just the mouse?Åh
+Because the mouse is the only control device that
+definitely comes with every computer. ThereÅfs something
+called a Microsoft Pad now too, but itÅfs not going to be
+used by everyone, so we donÅft have any support for it.
+Voice of God
+  ÅhWhat happened to the keyboard?Åh
+We were working on mouse controls for so long we didnÅft
+have time.
+          Teehee
+Voice of God
+  ÅhItÅfs fucking creepy when a guy laughs all cute like
+   that, you loser!Åh
+We were able to do a lot of things we relied on the
+program for in the past with the script this time with
+SYSTEM 3.5.
+YouÅfre so cool, Kazushi-kun. YouÅfre so awesome, WAO-san.
+Voice of God
+  ÅhWhat, you didnÅft do any of the work?Åh
+Kazushi-kun and WAO-san made SYSTEM 3.5.
+Shige-kun made the installer.
+They were all wonderfully done.
+Voice of God
+  ÅhSo whatÅfd you do?Åh
+I edited the script. Like I said earlier, a lot of stuff
+that was handled by the program before is now done in the
+script, so there was a lot of specialized work I had to
+do. It was a lot of trouble..
+Voice of God
+  ÅhIf itÅfs a lot of work why not just have the program do
+   it?Åh
+If every game has a different program, itÅfd be hard to do
+maintenance stuff with them all, right?
+ThatÅfs why SYSTEM 3.5 was made to be all-purpose, with a
+variety of wonderful commands.
+Voice of God
+  ÅhIf theyÅfre wonderful, arenÅft they easy to use?Åh
+They say Åfevery man knows his business best,Åf right?
+Of course a specialized programÅfs gonna be easier.
+But if itÅfs specialized then it canÅft be used for other
+games.
+Voice of God
+  ÅhIs that how it works?Åh
+ThatÅfs how it works!
+Voice of God
+  ÅhVery well! Well, we should probably wrap things up.Åh
+Things went a lot slower than planned this time and we
+burdened a lot of related parties, which I feel like we
+probably say every time, how terrible, next time weÅfll do
+everything on schedule, letÅfs do our beeeest!! (lol)
+Lastly..
+if, sometime during the game,
+you hear this sound effect,
+please write a letter detailing the circumstances or
+perhaps e-mail your save data (Åñ.ASD) to R4Win Error
+(PLUMÅfF).
+DonÅft tell me you heard it in SE-Mode or while rewriting
+your data or something though, Åfkay?
+Well then, see you later, gooooood-byyyyyyye.
+     ..Poof!...
+HelloÅ`. ItÅfs Shige.
+Windows 95 is all the rage lately, huhÅ`?
+The InternetÅfs been making a bunch of noise too, huhÅ`?
+Shige became stupid after switching to Windows 95. (lol)
+ItÅfs so convenient that you can use one mouse to do
+pretty much everything!
+But it kinda just feels like a toy...... (hey)
+And, and......
+I keep getting more and more trash on my desktop and my C
+compiler is acting really suspiciously. (sweat)
+Also, also......
+Apparently computers are trendy among grade schoolers
+now.
+The worldÅfs gone crazy. (lol)
+But, but......
+Even though I say that now,  ShigeÅfs been programming
+since grade 2...
+The worldÅfs really gone crazy, huh? (lol)
+Then, then......
+ThereÅfs the Internet! Lately people have started saying
+everythingÅfs the Internet... itÅfs a super money trap.
+And the lines and browsers have a bunch of problems...
+And so, and so......
+In the end, the worldÅfs just being made to danceÅ`...
+(bitter smile)
+Lastly, lastly......
+Please protect us from evilÅfs electromagnetic waves.
+May you be protected by a divine filter... DiÅ`ng
+P.S. Glasses-sama and Apron-sama too... (lol)
+ IÅfm ÅhKazushiÅh the programmer.
+ I made the system for the Windows version.
+ Right now, IÅfm working on improving the SYSTEM 3.5 that
+Rance IV used.
+ The first Alice game I played was Rance IV, so you could
+say that this game was one of the reasons I joined this
+company, and itÅfs got a lot of memories for me. My
+favorite characterÅfs probably Shizuka.
+ But itÅfs not like thatÅfs where I got my pen name.
+ Then IÅfll talk a little about my hobbies.
+ I got into anime in May of this year. The trigger was a
+certain Human Instrumentality anime, but I didnÅft pay any
+attention to it when it was originally airing. It all
+began when I bought an LD on a whim during the May
+holidays. At first I just thought Åhthis is pretty
+amazing,Åh but ever since I watched the 10th episode in
+June, IÅfve been in love with the second girl in the red
+outfit and now my cubicle is completely covered in red
+posters. ItÅfd be nice if it had stopped with the
+character, but IÅfm even into her voice actress now, and I
+pay attention to her LDs and CDs, of course, but even her
+games and radio shows too.
+I got into this stuff so quickly that everyone around me
+was shocked. IÅfve got a poster of a certain fighting
+banchou up too.
+ Lastly...
+I love Miyamu!!
+ ThatÅfs all from Kazushi.
+Sound effects can be played in this mode.
+They play at this volume in the game, so it can be
+difficult to regulate them.
+ÅhPlease choose which sound effect youÅfd like to hear.Åh
+Å@Å|Å|Å|Å@Å@Å@Å@Å@[ SE-MODE ]Å@Å@Å@Å@Å@Å|Å|Å|
+     Current sound effect is
+ ItÅfs an error! (lol),
+ Fire (Firesound?),
+ Electricity (ha),
+ Ice (Iiice!),
+ Light (Lightning),
+ Dark (Darkness),
+ Big (Cut or Bash),
+ Normal (Cut or Bash),
+ Big (Hit, Magic),
+ Normal (Hit, Magic),
+ Big (Hit, Swords, etc),
+ Normal (Hit, Swords, etc),
+ Getting Cut or Getting Bashed,
+ Enemy Magic,
+ Hanny Flash,
+ Big (Done in),
+ Normal (Done in),
+ Heavy Thing Moves,
+ Earthquake,
+ Break,
+ Smash,
+ Something Happened,
+ Stairs,
+            #[
+].
+Checking CD Device
+Music can be played in this mode.
+It plays at this volume in the game, so it can be
+difficult to regulate it.
+ThereÅfs an error with the CD Device and it canÅft be used.
+ÅhPlease choose which song youÅfd like to hear.Åh
+Å@Å|Å|Å|Å@Å@Å@Å@Å@[ BGM-Mode ]Å@Å@Å@Å@Å@Å|Å|Å|
+         Current song is #[
+].
+ÅhPlease choose one.Åh
+Endou Gorou, the crazy violent otaku,
+Sanzou Houko, the mad 18-year-old high school teacher,
+Shimanto Saori, the gun-obsessed lesbian swimmer,
+and Yagami Choko, the judo star with an endless stomach.
+With Houko-senseiÅfs pet salamander, the 4+1 journey to
+the eastern capital.
+Hindering their path is a mysterious group of
+delinquents.
+    -The Dark Phoenix Gang-
+A high tension (in a sense) adventure game, full to the
+brim with gags.
+     Pro student -G-
+         On sale now
+    Windows 95 /3.1
+   1 CD  Price 3,800 yen (tax not included)
+Set in the near future in the vastness of space,
+starring a Phantom Thief duo, the girls Sati and Shiori.
+An adventure game any man, no, probably women too, would
+love, full of gags thatÅfll have you splitting your sides!
+       Uchuu Kaitou Funny Bee
+         on sale now
+    Windows 95 /3.1
+   1 CD  Price 3,800 yen (tax not included)
+     AMBIVALENZ
+       -Ambivalence-
+Shura is a [cursed knight].
+He is an immortal albino, alone and left behind by time.
+He lives.
+For revenge.
+In order to kill the abnormal being who took everything
+from him,
+     -Duendy-
+and DuendyÅfs mother, the [Child of Darkness], Diadra.
+A serious ADV game, an unusual type for Alicesoft.
+    AMBIVALENZ -Ambivalence-
+         On sale now
+   Windows 95 /3.1
+   1 CD  Price 3,800 yen (tax not included)
+The perfect product for you, lamenting over a game with
+only two or three CGs of a single girl!
+ThatÅfs [Ayumi-chan Monogatari].
+Ayumi-chan is your girlfriend.
+This is an endless game thatÅfs about doing anything and
+everything to her.
+Amazingly, there are over 150 dirty CGs!
+WeÅfve also heard many people say they blushed during the
+gameÅfs many converstions that take place [between
+lovers].
+       Ayumi-chan Monogatari
+         On sale now
+    Windows 95 /3.1
+   1 CD  Price 3,800 yen (tax not included)
+Alicesoft is always taking applications for User Club
+membership!
+ThereÅfs an application included in the package.
+To expand upon whatÅfs written on it...
+The bimonthly bulletins always include newly drawn
+illustrations and newly written mini stories and the
+like.
+Illustrations and mini stories featuring nostalgic Alice
+characters, stories about future games and programs...
+Survey results from user cards, and publications of the
+comments that have been sent to us on user cards are all
+included.
+Anyway, theyÅfre filled with things you donÅft get to see
+in the actual games and they can be enjoyed by both
+people who are into the games and people who arenÅft.
+There are also occasionally goods you canÅft obtain unless
+youÅfre a User Club member.
+(ExamplesÅF special phone cards, game CDs...)
+This stuff would make real crazy fans salivate.
+If youÅfre interested, please join if only for a year.
+Thank you.
+   Å|Å|Å|Å|Å|Alicesoft Homepage NoticeÅ|Å|Å|Å|Å|
+Today..
+bugles
+katsudon
+working all night
+stun locking in Street Fighter II
+Geese stun locking in Fatal Fury Special
+indulging in H games
+Nihonbashi
+a horse
+the moment just before the deadline
+the Hanshin Tigers
+seven days in Hawaii
+Trans America Ultra Quiz
+Akihabara
+Kentucky Fried Chicken
+MOS BurgerÅfs fries
+a cell phone
+haraheri herihara
+retrorockets
+Okinawan folk music
+NEEDLE (S-B)ÅÉÅ|Jargon
+Baptism by Umezu Kazuo
+chili pepper tendon
+a pregnant woman in an Okonomiyaki shop
+a cow
+pardon me maÅfam
+ will be
+bad luck
+good luck
+dunno.
+who knows
+a present
+filling
+a big hit
+Super Aniki to your gluteus maximus
+Laa laa la la la la la laa
+a super fashionable gal
+takoyaki
+I wanna eat a whale
+a RuÅñian submarine
+a cheep cheep head
+IÅfm broke
+itÅfll fly, itÅfll fly
+Onji, Girl of the Alps (Huh?)
+good for fortune telling.
+IÅfm sorry.
+Daibukkon
+Okan and Ma-kun
+a bunny
+IÅfve run out of jokes.
+Me too.
+I like Zenderman
+.
+Probably.
+ÅhThis is the staff corner of the original (December 1993)
+ version.
+ Choose a name if youÅfd like to read them!Åh
+Strange
+IÅfm the blockhead who does the game design and script,
+TADA.
+Man, IÅfm tired.. Why..?
+WeÅfre still in the middle of debugging even now.
+IÅfm so tired.
+My favorite character this time is Merim.
+Unfortunate girls are the best!
+And sheÅfs got glasses too. Heeheehee.
+Also.. ItÅfs sad that Maria-san didnÅft get to do much this
+time, yeah, sad.
+I should have given her at least one more scene.
+IÅfm regretting it...
+...ItÅfs the deadline so IÅfm all dizzy.
+Well then, thatÅfs that...
+...is what I said in the PC98 version, but in this TOWNS
+version, IÅfve left everything to the programmers and IÅfm
+having the time of my life!
+Ahh, I want a white TOWNS.
+The UX IÅfve got at home is starting to slow down.
+But IÅfll forgive it because itÅfs cute.
+....But IÅfd like a fast one....
+So I left my pretty UX at my house alone and got a
+gorgeous new MX for my desk at work.
+Whoa, itÅfs so fast.. My white TOWNS!
+ Hi-ho Silver, *clop* *clop*.
+   (Me, running away.)
+YUKIMI ÅhItÅfs been a while.
+        ItÅfs really been since DALK that I wrote in here
+        as part of the main staff.
+        But it doesnÅft really feel like THAT long...
+        A year is short....
+        But I feel like DALK was made long ago.
+        (Next year, round up and IÅfll be 30..
+        oh, I gave away my age.)
+        But if I look back at this game, it was pretty
+        fun. Yeah.
+        It was probably half painful too, but you pretty
+        much forget that when youÅfre done.
+        Your user cards support me.
+        Please send me some. IÅfm waiting.
+        IÅfd like to stick with Rance-kun for a long time
+        after this.
+        IÅfm sorry IÅfm not writing anything interesting.
+        Please enjoy the game.
+        See you again.
+        ...To my beloved players.Åh
+ItÅfs Purin.
+The end.
+Just kidding! I wanna talk more!
+So we finally finished Rance IV.
+It was hard... It was really hard....
+It was Rance for a whoooole year.
+Design and key frames of male characters other than
+             Rance-kun and two female(?) characters
+Design, key frames, other stuff of male monsters
+MAP, CGs
+Unit CGs other than Gal Monsters
+Face CGs for the characters I drew
+Toushin Toshi-related setting
+Lore
+And the dreaded debugging, unavoidable for all Alice
+employees...
+I did a bunch of stuff, so it feels like I was always
+panicking, but thinking about it now,
+I may have been pretty fulfilled....
+It goes without saying that I was able to do my best this
+past year in anticipation of the user cards that will
+return to us with all of the impressions of the people
+who played the game.
+(Casually requesting impressions..)
+But a year sure goes by fast.
+IÅfm already 24 now. *Sigh*....
+Well then,
+IÅfve gotta get ready to make our next game......
+And time repeated itself....
+             The end for real.
+ Thanks again, itÅfs Kuribayashi. IÅfm tired. IÅfm dead.
+But IÅfll work. Moo, moo.
+ ItÅfs winter. ItÅfs cold. I donÅft have any clothes.
+But I donÅft have any money either. Moo, moo.
+ Changing the subject, I changed classes for Rance IV
+from CGs to Units.
+I did Gal Monster and animations.
+Look at the pretty girls on the big, improved screen and
+the creepily detailed animations, Åfkay?
+ Well then, the PTTP thatÅfs been popping up everywhere
+is, of course, also in Rance IV.
+And not just Guru MucchinÅfs (Pretty) Sea and Mountain,
+but also
+ an even scarier event.... (secret)
+ Well, the PTTP is now collecting letters, illustrations
+(color is super welcome), CGs, and etc. from you users.
+IÅfm gonna take any colored illustrations we receive, make
+Åfem into CGs, and put them in AliceÅfs Mansion and stuff,
+so please send them without worrying!
+Then IÅfll leave it to you.
+WAO picked up a scrap of paper in WAOÅfs corner of
+ÅhAyumi-chan Monogatari.Åh
+That scrap of paper was a ticket to a certain theme park.
+That certain theme park was...??
+If thereÅfs a strange choice you just want to pick it...
+ItÅfs just human nature. (lol)
+OxygenÅfs O.
+Today.........
+Disneyland
+Puroland
+Harmonyland
+Huis Ten Bosch
+Miyazaki Seagaia
+Canadian World
+Reoma World
+Fuji-Q Highland
+Namco WonderEggs
+Space World
+Portopia Land
+Fruit Flower Mansion
+Tropical & Alligator Garden
+Lotte World
+WAOÅfs house
+looks like itÅfll have good weather.
+is having a special event.
+is holding a summit.
+is where I want to be.
+Åfs
+toilet is where I want to be.
+is where IÅfm going to pretend to go.
+is where IÅfm going with Minako.
+is where IÅfm going with Yumiko.
+is where IÅfm going with Miki.
+is where IÅfm going with Mariko.
+is where IÅfm going with Kouko.
+is the place IÅfm gonna stop halfway to.
+is where IÅfm gonna get in the mood to go.
+Fufufu, you canÅft discount DisneyÅfs 10th Anniversary.
+TheyÅfve got new events for their 10th this year.
+Especially the New YearÅfs countdown, which has gotten so
+popular lately that IÅfve stopped using a yearly pass and
+have downgraded to just a countdown pass....
+IÅfm gonna have to part with DisneyÅfs countdown pretty
+soon.
+Phew... IÅfve got no business with anything thatÅfs become
+popular.
+Euro DisneyÅfs in such a slump that itÅfs gonna shut down
+in Åf94? ItÅfs amazing that this kind of slump can do
+something like that when there are so many customers in
+Japan.
+Hm? WhatÅfs wrong, Minako? What do you look so sad about?
+Eh? You wanted me to take you there before I stop going?
+I couldnÅft do anything about it. Countown passes go on
+sale the day of, so I couldnÅft get any without asking
+someone else to pick them up for me....
+So this year IÅfve planned to spend New YearÅfs somewhere
+else.
+Eh? We canÅft go anywhere with a round trip thatÅfs more
+than 50,000?
+HmmÅ`, then I guess we canÅft spend New YearÅfs together
+this year...
+ÅiÅ|Å|ÅGÅj
+WAO, who saw a rainbow at Puroland, is about to decide
+his plans for the day while writing in the event
+schedule.
+WAO always does this because Puro has a lot of shows
+running at the same times, so if he doesnÅft, heÅfll forget
+to go see them.
+This is off-topic, but dancing shows have a certain rule.
+Dancers have shifts when they dance, so they decide whoÅfs
+going to dance based on their shifts.
+ItÅfs not like dancers dance every part at every event.
+So they have to decide who dances which part on any given
+day.
+Of course, this is true of Harmony, Disney, and other
+places too, not just Puro. They say the shift system is
+totally different everywhere though.......
+Of course, this is probably also true for character
+dancers. This is just a guess, but I think there are also
+dancers inside those character costumes.
+Shifting like
+Character dancer-ÅÑDancer or Dancer-ÅÑCharacter Dancer
+is probably common.
+There are also different people doing the character
+dancer role, so you can tell whoÅfs inside based on
+differences in little gestures and habits.
+There are also people who can tell whoÅfs inside based on
+flashes of arms or legs that may appear for certain
+characters.
+What is it, Minako?
+Eh? Stop talking about unrelated stuff and get on with
+it?
+Puro changes its parades with the seasons.
+Sometimes they even change after less than two months, so
+I bet itÅfs hard for the dancers to practice.
+TodayÅfs parade is
+ Floral Parade
+ Summer Paradise
+ KittyÅfs Birthday
+ Fantastic Christmas
+.
+And the contents change every year too.
+And the amount of customers on days when they have
+special events is amazing.
+It really gets stuffed like sardines. (MinakoÅfs mine!)
+Lately theyÅfve been having dance contests on Saturday.
+Everyone dances and gets up on stage. The key to winning
+is standing out, not being good or bad. So people who
+want to stand out should dance all they want. (lol)
+Eh? What is it, Minako?
+IsnÅft the conversation getting really weird?
+Hmm, I think you know this by know, but IÅfm just kind of
+going stream of consciousness with this, so even I donÅft
+know what the heck IÅfm writing about anymore.
+Please forgive me.
+And why is your hair up today?
+Did you just put it up to shower and forget about it?
+Then let it down if itÅfs fine now.
+Yeah, straight hair that goes down to your hips should be
+let down. If itÅfs let down then I can play around with
+it.......
+Fufufu, the night is long, after dinner, weÅfll uhehehehe.
+WAO, who went to Harmonyland today and saw a parade, goes
+and sees a bunch of shows like ItÅfs Wonderful and The
+Happy Birthday Show.
+ItÅfs Wonderful is fun.
+And the costumes they change into at the end are kinda
+lewd, which is nice.
+This is just a guess, but I think the contents are pretty
+much for kids. But when you look closely, there are
+things in the show like short parts of costumes and that
+sort of thing. I donÅft know if theyÅfre for dad or what.
+The contents of the show is Type A serious stuff though.
+(Everyone go check now)
+There are dancers who are happy about this and those who
+are embarrassed.
+By the way, this isnÅft about lewd costumes, but
+apparently they have hundreds of thousands of substitutes
+for the costumes they wear every day in the parade....
+(A peculiarity of this specific place)
+They might care a lot about these kinds of things you
+donÅft really notice.
+But sometimes you can tell if you look closely....
+Anyway, lewd things are good.
+Today the Happy lady holding the mic is
+ Blue-san
+ Maki-chan
+Kuwa-san
+Kyou-chan
+.
+Today itÅfs
+ an 11
+ a 12
+ a 13
+ a 14
+-person formation.
+The color of this Happy Birthday Show changes depending
+on the lady holding the mic.
+Blue-san is full of service spirit.
+Maki-chanÅfs funny and cute and easy to listen to.
+Kuwa-san has a peculiar sharpness to her.
+Kyou-chanÅfs sweet, nasal voice is cute.
+But please stop calling it ÅhInariÅh when guys show up.
+(Image Destruction Rate 8
+1
+3
+5
+7
+.
+1
+2
+3
+4
+%)
+TodayÅfs a special day so thereÅfs a night show.
+If you donÅft see the night show, thereÅfs no point in even
+going.
+ItÅfs one of the live shows IÅfm paying a lot of attention
+to because I think itÅfll be a good reference for
+direction and things like that.
+Ohh, itÅfs almost time to meet up with Yumiko.
+Now IÅfm gonna have a quick dip in some alcohol with my
+girlfriend.
+Ahh, the fun before a meal.
+WhatÅfs the fun after a meal......? (hey now)
+What is it, Minako?
+Eh? You donÅft want me to drink with other girls?
+HmmÅ`, well IÅfll think about it sometime.
+(hey now)
+The end.
+UmmÅ`Å`Å`.......
+You bored yet?
+PLUMÅfF (Hiyohiyo Hoehoe Programmer)
+ Well, this time I got to do a bunch of stuff other than
+ programming too.
+ (Scripts related to moving around rooms, etc.)
+ First, let me apologize.
+ IÅfm so sorry.
+ IÅfm the one who caused the 386 plans to fail and slowed
+ everything down.
+ But if weÅfd gone with those plans, it wouldnÅft have run
+ with anything less than a 486 20MHz, so everyone, please
+ forget about this, okay!
+ ItÅfs been mostly painful things for about a year. Sad
+ things happened too. And now we can finally bring it to
+ you. Rance IV. ItÅfs a compilation of the staffÅfs blood,
+ sweat, tears, and laughter.
+ I believe I personally did my best for you users to have
+ fun too.
+ But I think some parts are still inadequate.
+ IÅfm waiting for a variety of opinions from everyone.
+HelloÅ`Å`, itÅfs Shige.
+This is a bit sudden, but are you male? Female?
+ShigeÅfs not interested in dudesÅöWahaha
+Well then, see ya...
+Then is your age in between 18 and 25?
+ShigeÅfs not interested in loliÅ` or momsÅ`... ProbablyÅö
+Then, see youÅ`Å`  tralalaÅ`Å`
+One more. Do people tell you youÅfre cute?
+In other words, the perfect man for you is Shige!!
+Marry Shige...  *Blush*..ÅiÅOÅOÅGÅjÅ^
+Well, a lot happens in the world...
+So, see you... *Hurry*, *hurry*
+Computers are gradually becoming NESs, but I like my
+computer, even with its 5-inch access noises.
+If youÅfre asking what IÅfm trying to say, itÅfs that this
+time had a lot of disks. I cried. Happily. ThatÅfs a lie.
+Basically, my headÅfs so busy IÅfm high.
+ItÅfs gonna be a question of whether to get hard disk ones
+or CD-ROM ones from now on, but for now, put aside hard
+stuff like that and just enjoy Rance.
+Please.          Yoshitaka
+Hey, how are ya? ItÅfs Chiibou.
+I did all the CG coloring and review (for the male
+characters) in Rance IV.
+It was pretty fun even coloring guys.
+But it was hard.
+Oh, are the people looking at this now gonna play the
+game after this? I colored Rance too. Even the Rances
+that only show a hand or whatever, I did all of them, so
+Rance is like a third me (whatÅfs that mean).
+The CG Girl is called Naruto-chan and is a character who
+appears in the comics in AlicesoftÅfs bimonthly bulletins.
+SheÅfs please to meet you.
+Naruto ÅhIÅfm a high school student, you know. Heheheh, so
+        young.Åh
+Naruto ÅhI live to lie to my friend Yukari-chan (well, not
+        really), but she believes anything, so itÅfs so
+        much fun.Åh
+Naruto ÅhSee you in the bulletin.Åh
+About music
+From here on is ChiibouÅfs music recommendations.
+1. Basics (If you donÅft listen to these, what do you
+           listen to?)
+ÅEorange juice
+ Orange Juice first album (Japan version)
+A historically famous disk. A beautiful, strange
+arrangement.
+Easy to listen to, but cool.
+The songs are melodious. The bass makes you want to move.
+The tight drums (a cool phrase too).
+The guitar arrangements just make you drool.
+ÅETHE PALE FOUNTAINS
+     Pale  Fountains
+ first album (UK version)
+A&M? Burt Bacharach? Nope, rock.
+A deep, deep sound.
+Super, super emotional trumpet, extravagantly beautiful
+arranged sound, many instruments.
+The sound of the folk guitar and melodies are great.
+2. Pretty Exquisite
+    (These are pretty good. Yep.)
+ÅEWOLF HOUNDS
+ The Wolfhounds
+          ESSENTIAL UK version
+This bandÅfs other albums are too noisy, and I donÅft like
+them. (The guitar doesnÅft sound good). The melodies are
+dead too. But this album makes me cry.
+ItÅfs so cool! I canÅft get enough!
+GOOD BYE LAUGHT is a great song.
+The guitar arrangement is good too.
+A forgotten classic thatÅfs better than their slow songs.
+ÅEFriends
+ Friends      first album (UK)
+YouÅfll probably see the bandÅfs name elsewhere, but itÅfs
+the ÅhSummerhouseÅh (record company) group.
+This is a great disk. ItÅfs perfect if you like the twang
+of a 12-string guitar (what the heck).
+The trumpet in this one is great too. I bet you did this
+to make me cry, dammiiit!
+I wanna go to the beach when I listen to Friends.
+(At sunset)
+Hellooo, itÅfs KAORI the colorer.
+I did a bunch of drawing, but this time I did the girls
+(Sill, Feliss, Alicia, Cynthia, Replica) and
+Younashi-sama and helped out with the guys.
+And I did the original art for the Bug!!
+Now, a choice.
+Wanna see a CG?
+Well then, see you.
+Good-bye.
+This is Minya, who wants to play all the time lately.
+The other day, she went to a field to play and came back
+all covered in mud.
+The old guy (at the farm) didnÅft care...
+IÅfm gonna go home soon.
+Well then, see ya.
+Buh-bye.
+Umm, I always worry about what to write in my AliceÅfs
+Mansion message and write random stuff, but this time, I
+have something I want to write about.
+But first, to F. Ryuze-san who sent me the pocket edition
+of [The Tokyo Zodiac Murders], thank you very much.
+So this was a pocket edition...
+I was only looking for the paperback and hardcover.
+It is a pretty old book, so there wouldnÅft be new
+paperbacks or hardcovers, huh?
+The descriptions in this book of the Kami-Shinjo Station
+and around there on the return train from Tokyo to Osaka
+made me happy.
+And I got to the Kami-Shinjo Station part in the book
+right when I was standing on the platform, so I was
+smiling to myself.
+(I mainly read mystery novels on the train)
+Well, moving on to the main topic. WeÅfve been getting a
+lot of inquiries lately saying things like [I want to
+make a figure of your character and sell it at an event
+so please give me permission] so IÅfd like to respond to
+them here (after consulting with the head of the sales
+department).
+Creation and sales of garage kits for our companyÅfs
+characters (at events) is pretty much free.
+So you have tacit consent from us to sell them without
+asking permission.
+But this is purely a fan activity, so you should be
+making and selling maybe 30 at best. IÅfll leave this sort
+of thing to your own sense of morality.
+And please donÅft use this to release something like
+[Alicesoft Approved] or [Alicesoft Supervised].
+Someone might buy it and send an angry message to us,
+so...
+Please especially leave off the [supervised] bit.
+And if youÅfd like us to supervise something, we can.
+However, we will review it with a certain level of
+severity, so there are times when we wonÅft give
+supervision permission.
+In these cases, not giving our supervision doesnÅft mean
+weÅfre not permitting you to sell them.
+As I said earlier, it wonÅft be a problem unless you label
+them as [Alice Supervised].
+Giving an example based on the above,
+first, ask the event about AlicesoftÅfs character
+copyrights.
+I believe the event will tell you [please arrange to
+receive permission on your own] (I believe this is what
+JAF-CON did),
+so if they say that, feel free to display something.
+If you comply with the conditions I mentioned earlier,
+you donÅft need to receive permission from us.
+If the event strongly requests [Proof of Approval] from
+you, please contact us. We will create a proof of
+approval form and send it to you.
+I wrote a lot, but this is merely for personal projects
+(regardless of pro/amateur), so if professionals would
+like to make official sales, please go through us first.
+Lastly, if you read this and thought [if I make something
+and reproduce it, copyright stuff will be annoying...],
+please donÅft worry.
+ItÅfd be nice if youÅfd send one or two samples of your
+work... (Mixing business with pleasure?)
+Of course [reproduction] only refers to [reproduction]
+for the sake of selling, so if itÅfs not for that, thereÅfs
+no problem.
+                The end  K
+IÅfm YOK, a CG artist. IÅfm all pumped.
+This time I mainly did the main characters (Kanami,
+Maria, Io, Merim, Sanakia, Mai).
+But Sanakia started out as Chiibou-senpaiÅfs and then
+switched to me partway through.
+I also did backgrounds of course.
+(There were a bunch with my characters I guess)
+Changing subjects, this CG right here has nothing to do
+with my writing or the game... (Well, whatever)
+WeÅfre in the middle of debugging Rance IV while I write
+this, but when weÅfre done, IÅfm gonna switch right over to
+CGs for our next game. (IÅfm excited.)
+Then please enjoy Rance IV.
+And please look forward to our next game.
+Rance IV, right? IÅfm happy.
+After all, the Rance series is what pretty much got
+Pukapii into AliceÅô
+But IÅfm actually not debugging this time.
+I wonder what kind of game itÅfs become...
+...Oh, but I did a little word debug. I laughed a lot at
+what everybody wrote. (Teehee)
+If itÅfs got pictures with it, I think itÅfll be more
+interesting. Yeah, yeahÅÉÅ|Probably nodding.
+So please enjoy the super perverted super brute
+Rance-kun.
+This was Pukapii.
+Hello. ItÅfs AliceÅfs Pochi, otherwise known as Mutsumi
+Masato.
+This time I did all the shadow checking and was in charge
+of Gal Monsters.
+Question 1ÅF I was in charge of which girls?
+AnswerÅF The Seafood and Mountainfood (lol)
+I was actually in charge of about 10 girls total, but in
+the middle, I switched to development of one of our new
+spring titles, so unfortunately, it ended up being only
+these two (cry).
+IÅfd like for them to come back in Rance 5...
+Also, the Rance IV User ClubÅfs mail order product is a
+catalogue-style collection of original art.
+Amazingly, itÅfs full color, and you can see all of the
+specifications from us that you canÅft see anywhere else.
+WeÅfll keep attaching wonderful extras like these, so join
+the User Club as soon as possible!
+Hello, itÅfs Chomoyama.
+I drew the Frog Girl (Mage Version).
+I actually wanted to tell some interesting stories about
+the development, but itÅfs at times like these when you
+canÅft think of anything, huh? ItÅfs tough being stupid.
+But well, please play Rance IV until you become stupid.
+ThatÅfs fine.
+Hey, itÅfs Gencha.
+Rance IVÅfs long development is over and we now begin to
+strive toward perfecting our new game.
+But man, CGs sure are hard.
+IÅfve gotten a little used to them, but IÅfll continue
+studying.
+Full speed ahead! (What am I saying...)
+So please keep cheering us on!!
+Hi, itÅfs Nakajii.
+I painted the backgrounds. This time was really tough!
+Especially the Ylapu way at the end. I had to get
+Chiibou-sanÅfs help to finally finish it. IÅfm still
+inexperienced.
+I also painted (on a TOWNS for my first time) the
+background in the package art.
+256 colors is really nice.
+IÅfm happy when I have a lot of colors.
+Oh, this is something I drew all nervous, Åfcause I donÅft
+usually paint characters.
+But the background is kinda flat.
+But itÅfs fine if the character looks nice.
+A personal thing.
+IÅfve been interested in antique accessories and Zippo
+lighters from the Vietnam War lately. I want to collect
+them, but theyÅfre expensive, so IÅfm happy just looking.
+Thinking stuff like Åfcowboy buckles are cool too,Åf I look
+at those kinds of books and drool about them.
+If you have something, send it to meÅö     Nakajii.
+ItÅfs YAS.
+In any case, my first job has safely (?) concluded...
+Woohoo!!
+Eh? The next job already?!
+Then letÅfs meet in our next game.
+Tori
+   Or, the old lady living in poverty because of her
+   love of fine clothes and food
+ItÅfs Tori.
+This time I evolved from a Dummy Imam to a Dummy TADA.
+Man, pretending to be someone else to write scripts is
+one kind of masochistic pleasure.
+T.. TADA-kun (and Big Papa Imam) wouldnÅft write something
+like this here..
+...What should I do...
+...Okay.. just write it.. *crack* *crack*...
+..Well, itÅfs something like this.
+And...
+If somebody gets mad at TADA-kun (or Big Papa Imam)
+because of something I wrote...
+All I can do is laugh in the corner of the bathroom,
+laugh...
+....If I write something like this, theyÅfll get back at
+me at some point.
+IÅfll have to sleep with one eye open.
+Well then everyone, enjoy the game!
+Bye-byyyyyye!
+EhÅ`? ItÅfs Imam, who was mostly quietly doing other
+things than Rance IV this time.
+          Uhyo.
+No, thereÅfs no deep meaning.........
+          Uhyo.
+No, no, no matter how many times you ask....
+         Uhyo, uhyo, uhyo.
+Yep, this time I only debugged and wrote a few scenes,
+but......
+          Uhyo
+(I have a pretty annoying personality too, donÅft I...)
+Because of that, I donÅft have any regrets.
+        Founder of the Kanami-chan Faith, Imam
+Uhyo, uhyo, uhyo, uhyo, uhyo, uhyo, uhyo
+uhyo, uhyo, uhyo, uhyo, uhyo, uhyo, uhyo
+uhyo, uhyo, uhyo, uhyo, uhyo, uhyo, uhyo
+uhyo, uhyo, uhyo, uhyo, uhyo, uhyo, uhyo
+      .uoy teem ot desaelP
+  .tfosecilA denioj tsuj I
+   .ÅhnaM anuT erraziBÅh mÅfI
+.emit siht gniggubed did I
+!yrots gniliob-doolb a ,sGC lufituaeB
+                     .ti yojne esaelP
+ naM anuT erraziB  morF
+IÅfm Musha.
+Rance IV hasnÅft been finished at the time that IÅfm
+writing this, but thatÅfs because of its grandness.
+Well, if youÅfre looking at this now, have you already
+played it?
+If you havenÅft yet, IÅfd suggest doing so immediately.
+And please donÅft hesitate to send us your thoughts.
+WeÅfre all waiting for them.
+Well then, letÅfs meet again somewhere.
+Please enjoy yourself to your heartÅfs content.
+My name is Orion (Arthur Orion).
+This time, I colored monsters and handled the originals
+of two of them.
+My art might seem strange, but please stick with me in
+the future.
+Now, itÅfs time for my age to begin (just kidding).
+ÅöIÅfm Akino Koorogi, and I did line revision. This was my
+ first project.Åô
+ I drew some original CGs too, so if youÅfd like, go ahead
+ and look at themÅô
+ TheyÅfre up on ALICE-NET and various BBSesÅ`Åô
+ Even if it was part time, IÅfm happy I got to work with
+ AlicesoftÅ`ÅiÅOÇèÅOÅj
+Ich bin Arbeiter.
+Mein Name ist Taira Kunitsukami.
+Etwas ist besser ais nichts.
+Phew, in about ten more sheets, IÅfll be done with the
+first stage of this job.
+IÅfll have finally accomplished the first game I was in
+charge of original art for, Rance VR-XII, with its
+amazing count of over 5,000 pieces of art.
+ItÅfs almost like a dream.
+          ........It was a dream.
+                  -Kirishima Senya
+ I caught a cold the other day.
+This year I keep getting fevers and IÅfm not able to work
+as much as I want at all.
+Please be careful not to catch cold too, everyone.
+              Bassun
+ IÅfm ÅhChimiroimuÅh and I did line revision. IÅfm still a
+big, smelly.. I mean, a college student, so managing my
+time was difficult (I had a school festival too), but
+IÅfve got time now, so IÅfm gonna work hard!
+Hello, itÅfs Sanjuushi, who helped out for the first time.
+I did line revision, but participating was both fun and
+painful...
+IÅfm glad I got to have a lot of experiences here.

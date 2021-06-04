@@ -1,0 +1,815 @@
+        Camp Mode
+I have 
+ items total.
+Check which item?
+............
+[
+]  
+(Staff)
+(Shortsword)
+(Gun)
+(Sword)
+ Attack (
+)  STA needed (
+)
+ Range (
+)  Attribute  (
+Phys
+Fire
+Ice
+Elec
+Light
+Dark
+)
+[
+]  
+(Clothes)
+(Armor)
+(Heavy Armor)
+ Defense (
+)  Attribute (
+Phys
+Fire
+Ice
+Elec
+Light
+Dark
+)
+[
+]  (Shield)
+ Defense (
+)  Attribute (
+Phys
+Fire
+Ice
+Elec
+Light
+Dark
+)
+[
+]
+ A key IÅfm sure we can use somewhere.
+[
+]
+A simple transport device that will transport me back to
+town at any time. ItÅfs sturdy, so it can be used multiple
+times. Apparently super valuable.
+A letter of introduction for Rance written by Freoncoise
+of the diner to Kiseda of the Youth League.
+ÅFRance here is a warrior skilled enoughÅF
+ÅFto defeat me. HeÅfs going to accomplishÅF
+ÅFwhat you canÅft, so show him respect.  ÅF
+A bell made of bronze.
+ItÅfs broken, so the only noises it makes sound creepy.
+An empty can with [Important Empty Can] written on it.
+ItÅfs unknown who bought it and drank its contents.
+ A special item that creates a warm space.
+ With this, youÅfre sure to be fine even in cold places.
+I received this from Yocchan at the item shop.
+I donÅft really know why, but I guess IÅfve gotta deliver
+it to some Happy Fukuda or someone.
+A debug fighter the imperial army uses to scout out maps.
+With this, the map can be explored freely. (Equipped with
+two 20mm cannons.)
+A pink ball about 10cm in diameter I found in a research
+room. ÅhThis is an Antidote Ball. Any idiot can use it to
+instantly cure poison.Åh is written on it.
+Holy water I received from Cynthia.
+Apparently squeezed juice from Younashi is inside....
+A piece of the mirror KanamiÅfs trapped in.
+A piece of the mirror LeilaÅfs trapped in.
+A piece of Mirror A. A girl is trapped inside.
+A piece of Mirror B. A girl is trapped inside.
+A piece of Mirror C. A girl is trapped inside.
+A piece of Mirror D. A girl is trapped inside.
+Juice I tricked Willis into letting me squeeze out.
+It has the fragrant scent of an Angel.
+Juice I squeezed out of Feliss when I raped her.
+A little of my sperm is mixed in so it stinks like squid.
+A convenient spray that will increase the protection of
+armor if used on it.
+A convenient spray that will increase the attack power of
+a weapon if used on it.
+A suspicious aphrodisiac that will put a girl in a dirty
+mood. I should have some fun and use it on Sill.
+A drug the suspicious PTTP Sect made.
+Apparently it makes any girl silky smooth and deliciously
+flat....
+A special mirror Merim got from Willis.
+ItÅfs a special item with healing power.
+ItÅfs valuable, so I should sell it after this adventure.
+[
+]
+ An item that can be used in battle.
+ If used, health will recover by 
+1/10
+.
+ If used, stamina will recover by 
+1/10
+.
+ Attack will rise by 
+ during battle.
+ Magic will rise by 
+ during battle.
+ Health and stamina will completely recover.
+[
+]
+ Mysterious paper that displays my current location.
+ The underlying principle is unknown.
+ Gloves made of rubber. Apparently useful when doing
+ laundry, but since I donÅft do laundry, I dunno.
+ A small bag with a string attached.
+ Some kinda rock is inside.
+ A picture a perverted mouse took of Sill.
+ ItÅfs pretty good.
+ A piece by the famous artist TADA.
+ Its title is apparently [Sneaking Morning Sun].
+ Frankly, I could do a better job.
+ .....ItÅfs poop.
+ I should throw it away soon. IÅfm not even sure why I
+ have it.. Yeah, letÅfs get rid of this.
+ A stone that shines green.
+ A picture a perverted mouse took of Julia.
+ SheÅfs not sexy, but itÅfs a dirty picture.
+ ItÅfs a Younashi doll and thatÅfs all it is.
+ I feel like I wasted some money.
+ An indulgence that can forgive sins.
+ ItÅfs not something I need.
+ ....Hmmm, why did I buy this thing?
+ I wasted money on a pointless, useless thing.
+ I canÅft believe I got tricked into buying this!!
+ A fast-working sleeping drug thatÅfs supposed to be able
+ to even knock out a Dekant. I guess people with insomnia
+ usually use it, but I can think of a better use for it.
+ A bag with a weird mystery powder in it.
+ I think this is what Reagan wanted.
+ An antidote for people infected with an Okayu FeverÅfs
+ poison.
+ A sparkling white stone.
+ A soft, jelly-like thing.
+ I donÅft know where the heck to use it.
+ A random pebble that shines gold.
+ A stone that shines red.
+ A piece by the famous lolicon artist YAS.
+ Its title is [WhoÅfre you].
+ ......IÅfd say itÅfs worth about 1 gold.
+ A piece by the famous artist Chiibou.
+ Its title is [Material Deficiency].
+ I donÅft really get it.
+ A piece by the well-known illustrator KAORI.
+ Its title is [After School].
+ It looks like itÅfs from a shoujo manga.
+ A piece by the famous artist K.
+ Its title is [The Girl Who Sells Nikuman].
+ I like it. Those are nice boobs.
+ A piece by the unknown artist Chomoyama.
+ Its title is [Yamada-san].
+ .........I-I see.
+ A piece by the missing artist Nakajii.
+ Its title is [A Monkey Who Likes Udon Stew].
+ ThatÅfs a monkey..? Hihihihihi.. monkey.
+ A piece by the famous artist YUKIMI. Its title is
+ [Immunization Against Huge-Breasted Grade Schoolers].
+ Those are huge boobs for a grade schooler.. ThatÅfs nice.
+ A piece by the erotic novelist Tori.
+ Its title is [Occasionally Decent].
+ ItÅfs not erotic at all.. Rejected.
+ A piece by the unknown artist Gencha.
+ Its title is [Wierdness Caused by Similarity?].
+ I donÅft get it at all.
+ A piece by the talented artist Saru.
+ Its title is [Super Snail on Day of Revival].
+ Hmm... Snail, huh? Okay.
+ A piece by the slave artist YOK.
+ Its title is [Armored Girl 1].
+ ItÅfs a really decent picture.
+Use which item?
+That item cannot be used.
+ItÅfs no time to use this item and stroll the fuck back to
+town.
+ItÅfs no time to use that.
+We canÅft leave Julia here.
+We canÅft leave Rick here.
+I held the Return Bonsai in both of my hands.
+I carefully spun it 2, 3 times.
+Then finally a light shone out from the center of the
+Return Bonsai.
+ÅEÅEÅEÅEÅEÅEÅE(Return!!)ÅEÅEÅEÅEÅEÅEÅEÅE.
+When I realized it, we had returned to the Tulip #4.
+I held the Return Bonsai in both hands.
+I carefully spun it 2, 3 times.
+Then finally a light shone out from the center of the
+Return Bonsai.
+ÅEÅEÅEÅEÅEÅEÅE(Return!!)ÅEÅEÅEÅEÅEÅEÅEÅE.
+When I realized it, I had returned to town.
+I havenÅft collected all of the parts yet, so I canÅft save
+her.
+I havenÅft collected all of the parts yet, so I canÅft save
+her.
+I havenÅft collected all of the parts yet, so I canÅft save
+her.
+I havenÅft collected all of the parts yet, so I canÅft save
+her.
+Looks like I canÅft use that here.
+ÅhRance-sama, we canÅft use the 
+ here.Åh
+ÅhWhy? ThatÅfs unfair.
+ I wanna use it and IÅfm important.Åh
+ÅhBut.. I canÅft do anything about it.Åh
+ÅhHmph, then IÅfll do this.Åh
+I embraced Sill and fondled her breasts over her clothes
+from behind.
+(Fondle fondle fondle fondle)
+ÅhOh.. Rance-sama, why are you doing this?Åh
+(Fondle fondle fondle fondle)
+(Grip)ÅÉÅ|Twist.
+ÅhKyan!Åh
+ÅhWell, IÅfll give up on trying to use the 
+ with this.Åh
+Åh..........Åh
+ÅhRance-sama, weÅfve collected all of the A mirror
+ fragments, so IÅfll put them together now.Åh
+ÅhAlright, do it.Åh
+The four fragments clinked as Sill put them together.
+Rukira ÅhThank you very much.
+        IÅfm Rukira from the bank.Åh
+Rukira ÅhPlease accept 2,000 gold as thanks for saving
+        me.Åh
+Received 2,000 gold.
+Rukira ÅhWell then, goodbye.Åh
+ÅhRance-sama, weÅfve collected all of the B mirror
+ fragments, so IÅfll put them together now.Åh
+ÅhAlright, do it.Åh
+The four fragments clinked as Sill put them together.
+Ella ÅhIÅfm saved! IÅfm Ella from the weapon shop.
+      I got caught by Atlanta!Åh
+Åh........Heheh.Åh
+Ella ÅhHey, stop looking like that.
+      IÅfm embarrassed enough as it is.Åh
+Ella ÅhAnyway, as thanks for saving me, IÅfll give you this
+      Lightweight Bow.Åh
+Received Lightweight Bow.
+Ella ÅhWell then, see you.Åh
+ÅhRance-sama, weÅfve collected all of the C mirror
+ fragments, so IÅfll put them together now.Åh
+ÅhAlright, do it.Åh
+The four fragments clinked as Sill put them together.
+... Åh....Oh, IÅfm saved.
+     Damn that Atlanta.Åh
+Gezona ÅhIÅfm Gezona, a mage.
+        DonÅft make fun of my weird name.Åh
+Gezona ÅhAnyway, as thanks for saving me, IÅfll give you
+        this high quality armor, the Lionet.
+        Think of it as me and use it carefully.Åh
+Received Lionet.
+ÅhRance-sama, weÅfve collected all of the D mirror
+ fragments, so IÅfll put them together now.Åh
+ÅhAlright, do it.Åh
+The four fragments clinked as Sill put them together.
+Oichi ÅhThank you.Åh
+Oichi ÅhThanks to you, IÅfm finally free from AtlantaÅfs
+       curse."
+ÅhYup.Åh
+Oichi ÅhAs thanks, IÅfll give you this Strength Spray.Åh
+Received Strength Spray.
+Oichi ÅhWell then, see you.Åh
+Seems like I canÅft use that here.
+ÅhRance-sama, we canÅft use the 
+ here.Åh
+Equip which character?
+Did not change equipment.
+ÅhAthena canÅft change her Åfquipment.
+ Oh noes.Åh
+ÅhIÅfm happy with my current equipment.
+ Prioritize the young folk for upgrade.Åh
+ÅhI donÅft need it, Rance.Åh
+ÅhWhat was that!?Åh
+Åfs Equipment
+Weapon [
+Ån
+Armor [
+]
+Shield [
+]
+ used Tough Spray on equipped 
+.
+Åfs protection went from 
+Å|ÅÑ
+.
+ used Strength Spray on equipped 
+.
+Åfs attack went from 
+Å|ÅÑ
+.
+Equip which weapon?
+ cannot equip shields.
+Equip which shield?
+Equip which armor?
+ÅhThe Tulip #1 is my special weapon, so I donÅft want to
+ get rid of it.Åh
+You have too many items, so your arms may not be
+unequipped.
+ÅhRance-sama, we have too many items, so we need to throw
+ one away before unequipping anything.Åh
+LetÅfs not throw anything away.
+ cannot be discarded.
+ cannot be discarded.
+ cannot be discarded.
+ was discarded.
+The (Waste Ghost) appeared from nowhere and disappeared
+carrying the 
+ like it was the most
+precious thing in the world.
+Check whose status?
+LetÅfs not look at anyoneÅfs status right now.
+Hmph, I have a perfect grasp on the condition of my
+subordinates at all times.
+ThereÅfs absolutely no need to confirm them at this time.
+Processing error, bug.
+.............
+(No weapon equipped)
+[
+] AtkÅF 
+  StaminaÅF 
+(No shield equipped)
+[
+] DefÅF 
+(No armor equipped)
+[
+] DefÅF 
+ Attack AttributeÅF 
+(Phys)
+(Fire)
+(Ice)
+(Elec)
+(Light)
+(Dark)
+    Defense AttributeÅF 
+(Fire)
+(Ice)
+(Elec)
+(Light)
+(Dark)
+(Fire)
+(Ice)
+(Elec)
+(Light)
+(Dark)
+(Phys)
+ Armor LevelÅF 
+ Equippable arms (
+Staves
+Staves, shortswords
+Staves, shortswords, swords
+)
+ Equippable armor (
+Clothes
+Clothes, armor
+Clothes, armor, heavy armor
+, shields
+)
+ Has reached level cap.
+ 
+ EXP needed for next level.
+I donÅft really need to think about anything right now.
+The world moves according to my will whether or not I
+think about it, so IÅfm sure everything will work out in
+the end.
+I AM the main character, and a hero after all!
+My fateÅfs different than the average person who doesnÅft
+know whatÅfll happen to them next.
+Gahahahahahahaha!
+First of all, IÅfve gotta kill that cocky hag (though IÅfm
+not sure if Death will even take a bitch like her) and
+take back Sill.
+IÅfll do anything to accomplish that.
+A hero such as myself shouldnÅft have to resort to acting
+like a wannabe adventurer and bullying low-level monsters
+for experience.. but.. IÅfve got no choice.
+IÅfm gonna kill some small fry monsters and get some
+experience points.
+IÅfve come up with a goal for the time being.
+Fucking that Mai girl.
+This is a good goal.
+IÅfm more motivated to accomplish a goal like fucking a
+girl than a regular one like defeating evil monsters for
+the sake of justice or sealing a terrible, destructive
+Demon King. Yup.
+Right, in order to fuck Mai, IÅfve gotta defeat the Okayu
+Fever whoÅfs demanding sacrifices. Alright, letÅfs go.
+Well, IÅfve exterminated the evil Okayu Fever demanding
+beautiful girl sacrifices.
+All thatÅfs left is...
+Heehee.. fucking Mai.
+IÅfve decided on my next goal.
+IÅfll check out this Toushin Toshi thing and return to the
+surface.
+And IÅfll accomplish this by... Well, I dunno.
+But IÅfm sure IÅfll find something if I investigate the
+underground labyrinths.
+ÅÉÅÉÅÉ LV1ÅF
+ ÅÑÅÑÅÑ
+The ghost girl Naturi who was in the dungeon.
+IÅfve gotta save her and find the E Key...
+ÅhSill.Åh
+ÅhYes, Rance-sama?
+ What is it?Åh
+(Grab.. Fondle fondle)
+I suddenly grabbed SillÅfs breasts and fondled them.
+ÅhAhn...!Åh
+ÅhYup, they still feel good.Åh
+ÅhRance-sama, what was that for??Åh
+ÅhI just did it Åfcause I wanted to.
+ ThereÅfs no other reason.Åh
+ÅhYour only reason for existing is to be there when I want
+ some boobs to grab.
+ ItÅfs just like having a lighter for when you want fire.Åh
+Åh....Okay.Åh
+IÅfve gotta obtain that key for Io.
+I feel like I could do anything for her for some reason.
+Io wants me to find four keys.
+Well, thereÅfs nothing a genius adventurer like me
+couldnÅft find.
+I can see IoÅfs grateful face already!
+.............
+Åh.............Åh
+ÅhIs something wrong, Rance-sama?Åh
+(Pick pick)
+IÅfm not really in the mood for thinking so I stuck a
+finger in my nose and started picking it.
+Åh....??Åh
+I got a big fingerful of snot, so I quickly stuck my
+finger into SillÅfs fluffy hair and wiped it off.
+ÅhKyan!Åh
+ÅhGahahahaha, my nose feels great!Åh
+Well, IÅfve found the key to the research room, so I
+should use it and thoroughly search the room.
+I might find something, after all.
+ÅhWeÅfre thoroughly searching the research room.
+ Got it, Sill?Åh
+ÅhYes.Åh
+ÅhThere might be something in the back room where that
+ Tousho was after all.Åh
+.....Well, the ghost is resting in peace and IÅfve done a
+good deed. IÅfm a shoo-in for heaven now.
+Ah, there must be beauties waiting for me in heaven.
+But... I canÅft die yet.
+...Women women women women women.
+ÅhRance-sama, are you thinking about what we should do
+ next?Åh
+ÅhOf course.Åh
+Seems like the weird scientist Moganda has made a secret
+research lab underground....
+I bet heÅfs doing sexy research.
+Capturing young girls... Ooh..!
+ÅhWhat is it, Rance-sama?
+ Is something the matter?Åh
+ÅhShut up, donÅft interrupt my thoughts.Åh
+(Smack, hit, kick)
+Åh*So...b*Åh
+LetÅfs find the E Key.
+It should be somewhere around here.
+LetÅfs just find fuckinÅf Moganda and kill Åfim.
+ThatÅfs enough for now.
+First of all, weÅfve got to explore Ylapu.
+IÅfm sure Rance and Sill-chan are somewhere here.
+LetÅfs do our best and search for them.
+What a strange dungeon. ItÅfs full of fields.
+I wonder if Rance and Sill-chan are really here?
+And the Helman Army that just attacked us..
+This bugs me. What could their objective be..?
+Oh.. If the Helman Army is here, then I wonder if theyÅfve
+also invented a flying machine? WhatÅfll I do if it works
+better than my Tulip?
+IÅfm surprised that Rick-san changes so much just from
+losing his helmet.
+I bet this is a Åhsplit personalityÅh thing.
+Anyway, weÅfre gonna have a lot of problems if we donÅft
+find his helmet and get him back to the strong Rick-san.
+We donÅft know when the Helman Army will attack again.
+The helmet probably fell somewhere in that aqueduct.
+We should be able to find it if we look there.
+ItÅfs good that we found his helmet and Rick-san is back
+to his reliable self.
+Looks like it would be good to explore the dungeon more
+to find Rance.
+....I wonder if Rance is really here.
+IÅfm starting to worry...
+The Helman ArmyÅfs probably gonna attack again..
+Hmmmmm.
+Rick and Julia from Leazas have joined my party.
+Kanami, Leila, Maria, and Shizuka should also be here
+somewhere.
+First, letÅfs save them and claim, oh, 5 rounds or so of
+sex as our reward.
+They were lost in the Supply Core. Now, letÅfs go save
+Åfem.
+ÅhKanami, I went through all this trouble to save you, so
+ you better be grateful forever, okay?Åh
+Åh....Well, I guess I am a little...Åh
+ÅhA little!? What the heckÅfs Åfa littleÅf to the man who
+ saved your life!?
+ Why donÅft you say something like ÅfIÅfll serve you for the
+ rest of my life with my body!Åf?Åh
+ÅhWhy on earth would I say something like that, loser?Åh
+ÅhYou ungrateful bitch.Åh
+Merim, the Helman soldier, has suddenly become an ally.
+I donÅft even have to make an effort and girls just flock
+to my beauty. Must be my natural talent.
+Anyway, this Merim girl could be useful at some point, so
+I should probably have her join the party.
+Those Helman bastards have added a pretty powerful
+comrade to their ranks.
+What fuckinÅf cheaters.
+I want a powerful subordinate whoÅfll do anything I say.
+A beautiful, glamorous one of course...
+SillÅfs weak, so I donÅft need Åfer.
+Anyway, itÅfd be dangerous to fight that Dio Tousho.
+We should think of another way to proceed.
+.........Hmmm.
+I canÅft think of anything.
+WeÅfve beaten the Octomen, so it looks like weÅfve got
+quite a shortcut now.
+The Helman losers are still held up there, so I should
+take this opportunity to grab the keys.
+Looks like the dragon on the lowest floor of the Defense
+Core has the key. IÅfm sure itÅfd be easy to kill it and
+take the key, but a dragon might be a little dangerous.
+Well, IÅfve gotta find the DragonÅfs Cold Medicine he
+requested if I want to proceed. Tch, this is pissing me
+off. I canÅft believe I have to stoop to this....
+Anyway, the Cold Medicine should be in the biggest tower,
+the ÅhBuoyancy Staff.Åh
+I guess IÅfll go there.
+IÅfve obtained the DragonÅfs Cold Medicine.
+Now all IÅfve gotta do is get back to the dragon.
+ÅÉÅÉÅÉ LV 4ÅF
+ÅÑÅÑÅÑ
+IÅfve obtained the S Key.
+The last key is the N Key in the Tousho Core.
+IÅfll definitely find it.
+But the warp point to the Tousho Core is broken and
+doesnÅft work.. This is a problem.
+ÅhSill.Åh
+ÅhYes, Rance-sama?Åh
+ÅhI will specially accept any proposals you have as to our
+ next course of action, so spill.Åh
+ÅhWell, out of the four keys required to move this Toushin
+ Toshi, Rance-sama has the S Key and the Helman Army has
+ the W Key and the E Key.Åh
+ÅhI think we should prioritize obtaining the final N Key.Åh
+ÅhWell, of course, but to get to the Tousho Core....Åh
+ÅhYes, we canÅft get there because the warp device is
+ broken.
+ I think weÅfll have to look for another passageway.Åh
+ÅhIÅfm not sure, but maybe we should start by investigating
+ the passageway going down from the power room?Åh
+ÅhDown, huh.....?Åh
+ÅhYes, we might be able to get through there.Åh
+ÅhHmmm.Åh
+First I should collect all of these mirror fragments.
+What troublesome women.
+If they were dudes I woulda given up on Åfem waaaay
+earlier.
+ÅhRance-sama, what if I got stuck in a mirror?Åh
+ÅhWhat do you mean Åfwhat ifÅf?Åh
+ÅhWould you try to find me?Åh
+Åh........Åh
+ÅhNope.
+ IÅfd abandon you.Åh
+Åh*Sob* *sob*.Åh
+IÅfve collected Leila and KanamiÅfs mirror fragments.
+Geez, that was annoying.
+Well, should I go see Chao now?
+Chao said Atlants would be on the fifth underground
+floor.
+IÅfll go crush her.
+IÅfve defeated Atlanta.
+LetÅfs go see Chao for now. Fufufufufu.
+So Chao and Atlanta were the same person..
+I canÅft forgive her for deceiving my pure heart.
+SheÅfs getting sexy punishment.
+Hmmmmmmm.
+IÅfm just not in the mood to think.
+ÅÉÅÉÅÉ LV 5ÅF
+ÅÑÅÑÅÑ
+Seems like the Helman losers used the keys they stole(??)
+from me to start moving the Toushin Toshi. I dunno what
+the hell theyÅfre up to, but I donÅft like it.
+They should be in the control room, so this time for
+sure, IÅfll perform their last rites and make the Toushin
+Toshi mine.
+Heh heh heh, when I obtain this Toushin Toshi, IÅfll be
+able to rule the world, and the day when all the beauties
+in the world are mine will be close.. What a wonderful
+thing. LetÅfs get going.
+That Upsilon bastardÅfs unbelievably strong.
+Shit, what the hell am I supposed to do?
+Hmmmm, well, IÅfve defeated countless powerful enemies up
+until now, so IÅfm sure itÅfll be fine this time too.
+IÅfm sure IÅfll find a way to defeat it.
+....Hmmm, hmmm, hmmm.
+ÅhRance-sama, does your stomach hurt??Åh
+ÅhHeh?Åh
+ÅhYouÅfve been going Åfhmmm, hmmmÅf for a while now....
+ Umm.. are you alright??Åh
+ÅhI donÅft have a fucking stomach ache!
+ IÅfm thinking!!Åh
+ÅhEh, ah.. IÅfm sorry.
+ But IÅfm glad youÅfre alright.Åh
+Tch, I was just about to come up with a brilliant plan to
+kill Upsilon, but Sill interrupted me, so I lost my train
+of thought... Shit.
+ÅhUmm....Åh
+ÅhWhat is it?Åh
+ÅhMaybe we should search the Research Core or Supply
+ Core...Åh
+ÅhWhy?Åh
+ÅhWell.. Hubert-san and Dens-san could be there..?Åh
+ÅhThose Helman guys, huh.Åh
+ÅhTheir commander Bitch is dead now, so if we talk to
+ them, IÅfm sure theyÅfll join us.
+ TheyÅfre good people.Åh
+Åh......I donÅft want any dudes on my team.Åh
+Åh..........Åh
+Freak and Hubert, two Helman men, have joined my party.
+I didnÅft want to team up with filthy men, but IÅfm sure
+theyÅfve got some use as meat shields.
+IÅfll make them take UpsilonÅfs attacks, and while itÅfs
+busy with them, IÅfll defeat it with a Rance Attack.
+Fufufufufu, what a perfect plan.
+ÅhGahahahahahaha, IÅfm great, IÅfm invincible!!
+ Everyone, follow me, weÅfre gonna go beat Upsilon!!Åh
+ÅhRance-dono.Åh
+ÅhWhat, Mecha Geezer. You want something?Åh
+ÅhYou understand that destroying the Magic Columns must be
+ prioritized before defeating Upsilon, yes?Åh
+Åh.....Oh, right.
+ Right, right, the Magic Columns, weÅfre destroying
+ those.Åh
+Åh.........Åh
+ÅhAre we really gonna be alright leaving this to him,
+ Grandpa?Åh
+Åh.....I must admit I am a bit worried.Åh
+Phew, taking out those Magic Columns was tiring, even for
+me.
+WeÅfll fight Upsilon after resting a bit.
+I canÅft belive Cynthia got abducted by monsters.. Shit,
+it was a mistake to leave protecting the town to Shizuka
+and those incompetents.
+Anyway, weÅfre fighting Upsilon.
+And itÅfs the final battle, so I wonÅft be able to win
+using auto battle. IÅfve gotta direct everyone, yup.
+ÅhGahahahahahahahahahahaha..!Åh
+Åh......Åh
+This is bad, weÅfve gotta escape!
+ÅhRance-sama, the Landing Crafts are in the Tousho Core.Åh
+ÅhI know.
+ LetÅfs hurry.Åh
+ÅÉÅÉÅÉ LV 6ÅF
+ÅÑÅÑÅÑ
+Call what (whom)?
+I wonÅft call anyone.
+I changed my mind, I donÅft wanna call anyone.
+....I donÅft need to call her now.
+Alright, letÅfs squeeze some DevilÅfs Nectar out of Feliss.
+ÅhCome out, Feliss.Åh
+ÅhOh, yes.. Maste... kya!Åh
+I pushed Feliss over as soon as she appeared.
+ÅhWh.. what are you..?Åh
+ÅhI need the love juice that comes out of your pussy!
+ IÅfm gonna squeeze out a bunch, okay?Åh
+I stuck two fingers into FelissÅf pussy and stirred them
+around.
+ÅhCÅfmon, youÅfre not getting wet at all.
+ Put some effort into this.Åh
+ÅhOw.. well.. if youÅfre so violent.. of course I canÅft..!Åh
+ÅhStop nitpicking!
+ This is an order from your master, so hurry up and get
+ excited and wet!!Åh
+ÅhThatÅfs impossible!Åh
+ÅhI donÅft fuckinÅf care.
+ Fine, then IÅfll squeeze it outta you this way!Åh
+I held FelissÅf ass in place and stuck my hyper weapon
+deep into her vagina.
+(Ram)
+Feliss Åh*Ga..sp*....!Åh
+Then, with a firm grasp on her breasts, I began raging,
+hot, intense piston movement.
+(Ram ram ram)
+Feliss Åh*Gasp*.. *gasp*.. *gasp*..!Åh
+(Ram ram ram ram ramramramramramram!)
+Feliss ÅhAh.. ah.. ah.. ahi..!Åh
+Before the attacks of my hyper weapon, FelissÅf pussy
+slowly became hotter and wetter.
+Rance ÅhThere, youÅfre wet now!
+       There are no girls who wonÅft get wet from my
+       *beeeeep*!
+       Gahahahahahahahahaha!Åh
+Feliss ÅhOoh.. *gasp*.. *gasp*.. *gasp*..!Åh
+The nectar is finally flowing freely now.
+My hyper weapon finally discharges due to that nectar as
+well as the cool, refreshing feeling of FelissÅf pussy.
+Rance ÅhOoh.. shit.. ooh!Åh
+(Spuuuuurt, gush gush)
+I unleashed the hot fluid of justice into the devil.
+Rance ÅhTch, damn.
+       I meant to just get the nectar.Åh
+I collected the nectar from FelissÅf twitching pussy.
+Obtained Kind of Fishy-smelling DevilÅfs Nectar.
+ÅhAlright, well, itÅfs probably fine.
+ You can go home now, Feliss.Åh
+ÅhOoh.. why is it always.. this..!?Åh
+Feliss returned to the Devil Realm.
+Alright, IÅfm calling Feliss the devil.
+ÅhCome out, Feliss.Åh
+An area of space seemed to vibrate for a second, and then
+Feliss appeared.
+Åh...Do you need something, Master?Åh
+ÅhOf course I need something, thatÅfs why I called you.Åh
+ÅhWell, the weather is very nice today.Åh
+Åh........Åh
+ÅhAnd IÅfm feeling very good too.
+ Actually I feel a little too good, itÅfs kind of
+ upsetting.Åh
+Åh........Åh
+ÅhSo I thought maybe IÅfd share some of my wonderful power
+ with my subordinate Miss Feliss.Åh
+Åh......Agaaain..?Åh
+ÅhAargh, shut up!
+ Hurry up and strip!!Åh
+I pushed Feliss down and tore off her clothes.
+ÅhKyaaaa!Åh
+ÅhGahahahahahahahahahahahahaha!!
+ Even though youÅfre a devil, IÅfll send you straight to
+ heaven!Åh
+I thrust my destructive weapon, towering with the spirit
+of passion, into FelissÅf meat sandwich.
+(Ramramram.. ram!)
+Feliss ÅhHaaaaah... ahn..!Åh
+FelissÅf vagina, a little colder than a human one, felt
+cool and pleasant.
+When I stirred around and started thrusting, Feliss
+started shaking her hips and struggling.
+Feliss ÅhAaaaah... ahn...!Åh
+ÅhHowÅfs that.. Gahahahahahaha!
+ You want me to thrust more, right?Åh
+(Ram ram ram)
+Feliss ÅhAaaah.. ahn....!Åh
+(Spuuuurt)
+ÅhMmm, IÅfm satisfied.Åh
+Åh.....Umm, Master..?
+ What was it you called me for??Åh
+ÅhYouÅfve done it.
+ You can go home now.Åh
+Åh..........Åh
+ÅhIÅfll call you when I wanna fuck again, so keep yourself
+ clean and ready for me, alright?
+ Well, see ya.Åh
+Åh.....Yes, sir.Åh
+(Poof)
+The air quivered for a second and Ferris returned to the
+Devil Realm.
+I just rested.
+WhoÅfd be stupid enough to rest twice in a row?
+ÅhRance-sama, we just rested.
+ Our health and stamina are full.Åh
+ÅhSo?Åh
+ÅhSo.. well...Åh
+ÅhWhat is it? Speak clearly.Åh
+ÅhWell.. I mean, resting again would just be a waste of
+ time.. or something...Åh
+ÅhShut up, IÅfll be the one to decide whether or not itÅfs a
+ waste. DonÅft talk back to me.Åh
+ÅhAh.. yes.
+ Then are we resting again?Åh
+ÅhNo, thatÅfd be pointless.Åh
+Alright, IÅfm taking a break.
+I took a break and spaaaaced out.
+ *Spaaaaaace*.
+    *Spaaaaaace*.
+          *Spaaaaace.*
+ *Spaaaaace*.
+Health and stamina recovered.
+ÅhAlright, weÅfre taking a short break.Åh
+ÅhYes, Rance-sama.Åh
+We took a one-hour break.
+Our health and stamina fully recovered because we rested.
+We just rested a little while ago.
+ÅhLetÅfs take a little break.Åh
+ÅhYes, letÅfs do that.Åh
+ÅhYaaay, a break, a break!Åh
+We took an hour-long break.
+Our health and stamina fully recovered because we rested.
+Camp will close.
+IÅfm going to fly a Type 100 Spy Plane.
+Takeoff.... *Whiiiir*.
+Scouting mission complete, now returning.
+Io asks Rance, ÅhI want to.. tease your devil. Can I?Åh
+Sure.
+Io ties Feliss up and sprinkles holy water onto her.
+The holy water releases intense steam, burning FelissÅf
+skin.
+Rance intervenes as itÅfs just too cruel.
+ThatÅfs enough. Quit it.
+Feliss, you can go home now.

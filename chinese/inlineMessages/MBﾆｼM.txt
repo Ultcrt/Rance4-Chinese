@@ -1,0 +1,447 @@
+  [
+] (
+)
+...A monster attacked.
+Leave the room?
+hWork hard today too.h
+hWe are Magic Farmers.
+ We live to work.h
+A weird-looking (not human, right?) person was holding a
+hoe and doing farmwork.
+What the heck is this thing?
+Well, letfs try talking to it.
+hHello.h
+hHello.
+ Work.h
+hUmm.. what are you doing?h
+hPlowing field.
+ Heave ho.h
+hThis thingfs a Magic Farmer.
+ Ifve never seen one before.h
+hMagic Farmer?
+ You know what it is, Shizuka?h
+hYeah, I read about them in a grimoire a long time ago.h
+hTheyfre scarecrows powered by magic who do farmwork
+ forever.h
+hThey canft produce anything that requires complex
+ knowledge or experience, but they can produce simple
+ things.h
+hThatfs amazing.
+ If you had a bunch of them, couldnft you eliminate
+ hunger and poverty?h
+hBut Julia has a question. Wouldnft farmers all lose
+ their jobs then? Rick-chanfs papafs a farmer, right?
+ So hefd be in trouble!h
+hYou donft need to worry about that. Itfs difficult to
+ make these Magic Farmers. Itfs impossible for anyone
+ without considerable magic power.h
+hCould you make one, Shizuka-chan?h
+hI think I could, but I donft know the spell.
+ I only study combat ones, so.h
+hHmmm. But that means theyfre not alive, right?
+ Theyfre just scarecrows growing food for humans?h
+hYeah.h
+hThen that must mean therefs someone on this continent
+ somewhere making them work....h
+hI see. That sounds reasonable.h
+hIt couldnft be Rance, could it?h
+hThatfs impossible.
+ Therefs no way he could ever do anything productive.h
+hAll he can do is destroy and loot everything in his
+ path.
+ If it were him, hefd be doing slash-and-burn farming.h
+hThen who are they producing these crops for?h
+hWork, work.h
+hHey, Mr. Magic Farmer?
+ Whofs your master?h
+hWork, work.
+ Order is farmwork.h
+hDoesnft look like therefs any point in asking.h
+hLooks like the path appears when someone steps on this.h
+hSo if somebody stands on this, the rest of us can get
+ across.h
+hWefll have to have someone stay behind then.
+ Who should..h
+hWell then, I...h
+hJuliafll stay!h
+hWill you be okay, Julia?h
+hIfll be fine!
+ Ifm tired of walking, so Ifll wait over here.h
+hOkay. Then wefll leave it to you, Julia-chan.h
+hYeah!h
+hDonft move from there, okay?
+ Do you get it, Julia?h
+hYeah, Julia wonft move!h
+hRance-sama, itfs a treasure chest.
+ What should I do?h
+hI feel like itfll explode if you open it.
+ Leave it alone.h
+hYes.h
+hAlright, open it.h
+hUnderstood.h
+hHurry up and open it.
+ Quickly now. Eliminate all unnecessary time spent and
+ shorten the process.h
+hItfs open, Rance-sama!h
+hRance-sama, I foundF 
+ inside.h
+hIfll hold onto it.h
+hOh, Hirara Alloy!h
+hHirara Alloy? What the heckfs that??
+ Is it food??h
+hNo, itfs not food.
+ This is a special metal filled with energy.h
+hThis Tulip #1 and its ammunition are made with it.h
+hHmmmm?h
+hIfd like to take some, but Ifll hold back for now.
+ Ifll come back later when I need some.h
+hHow long are you gonna be looking at those pebbles,
+ Maria?h
+hSorry. Letfs go.h
+Therefs a mountain of little yellow rocks.
+It sure doesnft look very valuable.
+hYeah, that Hirara Alloy.h
+hHirara??? Harara??h
+hIf I have this, I can power up the Tulip #1.
+ Letfs take some.h
+Maria started happily gathering up the worthless-looking
+rocks.
+Obtained Hirara Alloy.
+hTherefs something written on this sign.h
+hRance-sama, therefs something written on this sign.
+ Umm...h
+F Planet Kurupiston Destruction Button     F
+FThis button is a firing device to launch  F
+Fnuclear missiles at the Planet Kurupiston,F
+Fmany thousands of light years away. If youF
+Fhave any common sense, you wonft push it. F
+h.......Nuclear missles??
+ What the heckfre those?h
+hI wonder...
+ I donft know what Planet Kurupiston is either...h
+hTherefs a bunch of words I donft understand, so I donft
+ really get it, but if you tell me not to push it if I
+ have common sense, Ifm really gonna want to push it.
+ Fufufufufufufu.h
+hI wonder what this button is?h
+hWhy donft you push it if youfre curious?h
+h....Hmm, I donft think so.h
+Therefs a large button.
+Push it?
+hAlright, Ifm pushing it.h
+(Push)
+I pushed the button in with my thumb.
+h..........h
+h..............h
+h..........h
+hNothingfs happening, Rance-sama.h
+hYeah, how boring.h
+Rance and Sill knew nothing about it, but at that
+time.....
+Planet Kurupiston was annihilated by a nuclear missile
+that appeared out of nowhere.
+The planet died along with its billions of Kurupiston
+residents, but this was a trivial event having nothing to
+do with this story.
+hRance-sama, Mariafs inside that giant Puryo!h
+Maria Custard is trapped inside the Puryo.
+hLetfs save her, Rance-sama.h
+hGeez, what a troublesome woman.h
+I raised the Puryo Slayer and slashed at the giant Puryo.
+(Slash slash slash)
+The giant Puryo tore like a balloon before my wonderful,
+flowing strikes.
+hGahahahahahahahahahaha!
+ Easy win!h
+hRance-sama, Maria-san...!h
+hYep.h
+I approached Maria, who stood silently where the giant
+Puryo disappeared.
+hHey, Maria.
+ I came to save you.h
+h.......h
+hHey, whatfs up?h
+hRance-sama, somethingfs wrong.h
+hHey, Maria.h
+hWhat the fuckfs wrong with her?h
+hRance-sama, Maria-san...h
+hWhat is it?h
+hMaybe she was stuck inside the Puryo for too long, and
+ her body was possessed by them?h
+hWhat? Can that happen?h
+hYes.
+ The Puryofs appetite can take over a personfs body and
+ make them eat until they die.h
+hSeriously? Okay, letfs look for Maria.h
+hYes.h
+But no matter how much I cut, the giant Puryo kept
+regenerating, so I couldnft save her.
+h...........h
+hRance-sama.h
+hFarewell, Maria.
+ Ifll keep an image of your plump body in my memory
+ forever.h
+hRance-samaaa, are you abandoning Maria-san?
+ You canft do that, I wonft let you!h
+hWhat the hell do you want me to do? Itfs impossible!h
+....But I canft really abandon her. Thatfd be too sad.
+Letfs think of a way to save her.
+Shefs one of my precious women after all, yep.
+hRance-sama, itfs Leila-san!h
+Leila-san is trapped inside a giant Puryo.
+hAlright, Ifm gonna save her.h
+I raised the Puryo Slayer and slashed at the giant Puryo.
+hUryayayayayayayayaya!!h
+(Slash slash slash slash)
+The Puryo Slayer, which normally has almost no worth in
+combat, displayed wonderful cutting ability here.
+hUryaaaa, die, die, diiie!!h
+The Puryo burst open and disappeared.
+hGahahahahahahahahahahahahahaha!
+ Ifm invincible!h
+hAmazing, Rance-sama!
+ *Clap* *clap* *clap*!h
+hOh, Leila-san.
+ Rescue, rescue.h
+I approached Leila-san with grabby hands.
+When I got close to her to embrace her, Leila-san woke uo
+on her own.
+hUgh.. phew.
+ You saved me.h
+hRick....h
+hIfm glad youfre safe, Leila-dono.h
+hYeah, you too, Rick...h
+hLeila-san!h
+hSill-chan! Rance-kun must be here too then!
+ Thatfs great. We found you.h
+hI saved you, you know.
+ You better thank me.h
+hThanks, Rance-kun.h
+hHrm. I expect a different kind of thanks than words, but
+ for now, get on back to town.h
+hUnderstood.
+ Then Ifll see you later.h
+I sent Leila-san back to town with a Return Wood.
+hRance-sama, Ifm glad Leila-sanfs okay.h
+hYeah.h
+(Thwack thwack thwack)
+hShit, no matter how much I cut, it keeps regenerating!h
+hRance-sama, I donft think a giant Puryo can be defeated
+ with regular methods.h
+hThen what kinda irregular method do we need?h
+h....Maybe we have to defeat it using a mysterious drug,
+ or a mysterious item, or a mysterious weapon?h
+hArgh, what a pathetic idea! Relying on a random item?
+ Ifm gonna do this until I think of something better!h
+I pushed Sill down right there and suddenly thrusted into
+her from behind.
+hAh...!h
+hPunishment, punishment, punishment!h
+(Ram thrust ram thrust thrust thrust thrust)
+hAh..!h
+hAhn... *gasp*..!h
+............
+hHow are we going to save Leila-san then, Rance-sama?h
+hWell, letfs look for some kinda special item.
+ We probably need something like that to defeat the giant
+ Puryo.h
+h........
+ ...Thatfs exactly what I just...h
+hHm? fD you say something?h
+hNo. Of course, Rance-sama.
+ What a brilliant idea.h
+hYep, gahahahahahahahahahahahaha!h
+hRance-sama, itfs Kanami-san!h
+hTake that, and that!h
+Kentou Kanami is getting pushed back to the wall,
+resisting to the end.
+hAnd that, and that, haah....h
+hI canft... go on...h
+hRance-sama, Kanami-sanfs...!h
+hI know.
+ Letfs go!!h
+Therefs a button on the slate.
+Push it?
+(Push)
+I pushed the button.
+There are fresh Baked Potatoes in the field.
+hOh, Baked Potatoes.
+ They look good.h
+hYou like them too, Leila-san?
+ I love them.h
+hJulia likes fem too!h
+hMm, delicious.h
+hYeah, you canft stop eating even if you know theyfll
+ make you gain weight.h
+hThat just sounds mean coming from you, Shizuka. Youfre
+ so thin. You know my weight bothers me.h
+hYoufre cuter chubby, Maria.h
+...No waaay...
+hHey, dfyou want some too, Rick-san?h
+hNo, Ifm on a mission now, so Ifll pass.h
+hOh, donft be so stiff. Theyfre good, you know.h
+hActually, I donft really like Baked Potatoes....h
+hBut theyfre so good.. how strange.h
+hJuliafs gonna eat another one!h
+There are a bunch of delicious-looking Onigiri growing in
+the field.
+hWow, look at all the Onigiri!
+ The ones on these pink branches must have plums in
+ them.h
+hThese green branches are salmon-filled.h
+hJulia wants a yogurt-filled one!
+ I donft see any.. awww.h
+There are cute girl-shaped plants growing in this field.
+hWhatfs this weird plant?h
+hI wonder if this is a Mandrako?h
+hDo you know what it is, Leila-san?h
+hYes, I read about them in a book about monster plants
+ when I was a child.
+ Theyfre plants that are used for magic, and when you
+ pull them out, they let out terrible screams.h
+hIf a human pulls out a Mandrako and hears its scream
+ directly, theyfll die.
+ Thatfs why humans use other creatures to pull them out.h
+hTheyfre such cute plants, but I guess theyfre pretty
+ dangerous, huh?
+ We probably shouldnft get too close.h
+hJulia wants one fcause theyfre cute!h
+hNo way. Donft touch them if you donft want to die.h
+hBooooo.h
+There are Baked Potatoes sprouting in the field.
+Take one?
+There are fresh, warm Baked Potatoes sprouting in the
+field.
+hCan Julia eat one more?h
+hNope.h
+hMeanie, youfre mean, Captain Leila!h
+We already have one 
+,
+so we donft need another one.
+We donft need more than one stupid 
+.
+I took one Baked Potato.
+There are Onigiri sprouting in the field.
+Take one?
+There are a bunch of different kinds of Onigiri sprouting
+in the field.
+hThere arenft any yogurt-filled ones even though theyfre
+ Juliafs favorite.. boohoo.h
+We already have one 
+,
+so we donft need another one.
+We donft need more than one stupid 
+.
+I took one Onigiri.
+There are Mandrako sprouting in the field.
+Take one?
+The dangerous plants, Mandrako, are sprouting in the
+field.
+hWhat are those Magic Farmers thinking growing such
+ dangerous plants?h
+hThey probably arenft.h
+We already have one 
+,
+so we donft need another one.
+We donft need more than one stupid 
+.
+h........h
+hWait a second, Maria. Isnft that dangerous?h
+hYeah, but....
+ We need to bring one to the Magic Farmer...h
+hYou should just ignore them!
+ We donft really need to do their stupid errands.h
+The Mandrako swayed back and forth, smiling.
+hWe could just get one of the Magic Farmers around here
+ to pull it out for us....h
+(Pop..... Kyaaiin)
+Julia casually pulled out a Mandrako.
+hJulia, you idiot.. What have you..?
+ Youfll die!h
+h....Ifm fine!
+ See?h
+Mysteriously, Julia did appear to be fine.
+And we didnft hear the terrible scream Leila-san
+described when she pulled it out...
+hHuh, I guess it was just superstition.
+ It was definitely in Miyazaza Publishingfs fMonster
+ Plant Dictionaryf though.h
+hMiyazaza Publishing, eh? Therefs your problem.h
+hYoufve heard of them, Shizuka?h
+hYeah, theyfre famous for writing nothing but lies.
+ You were tricked, Leila-san.h
+hSo it was a lie that youfll die if you pull out a
+ Mandrako, huh? Ifm kinda mad, but I guess all that
+ matters is that Juliafs okay.h
+Obtained Mandrako.
+(Pop.... kyaaiin)
+I took a Mandrako.
+hLooks like somethingfs stuck.h
+I stuck my hand in the aqueduct and felt around.
+(Fish fish fish)
+hOh.....h
+hDonft be so reckless, Maria!h
+hItfs fine. Nnnnh.h
+hAha, there it is!h
+I pulled a red helmet out of the aqueduct.
+hOh, my fmet!h
+hSo this was stuck in there.h
+Rick-san took his helmet and quickly put it on.
+hI am terribly sorry for causing you trouble.
+ I will do everything I can to make it up to you.h
+hJulia likes the cute Rick-chan better though.h
+hWell, wefve got Rick-san back now, so letfs get going on
+ our search for Rance-kun again.h
+hI suppose so.
+ But maybe we should take care of those Helman guys
+ first.h
+hAnyway, letfs keep working hard.h
+Itfs an aqueduct.
+The Magic Farmers are working really hard to make these,
+so we shouldnft take any.
+Theyfre just in the way. I donft want any produce covered
+in dirt in my inventory.
+... h!!h
+hOh, how cute.h
+... hHello, ladies!
+     Play with me!h
+h*Giggle*, hefs kind of cute.h
+hCfmere, cfmere, come play with Julia!h
+But when Julia tried to beckon it over, Leila-san stopped
+her.
+hStop, Julia.
+ Donft get near it.h
+... h.............h
+hBut why? Itfs so cute.
+ You play with us too, Captain Leila.h
+hYeah. Wefre supposed to be looking for Rance, but itfs
+ fine to take a little break, right?h
+hDo you want to die?h
+hEh?h
+hItfs got a cute face, but thatfs a monster called a Lady
+ Killer.h
+Lady Killer h.....Tch.h
+hItfs his fault there was a male barrier on this hallway.
+ He was trying to lure in girls.h
+hEh? Eh? Eh? Are you serious?h
+h.....h
+Lady Killer hPlay with me, ladies!
+             Ifll tear your skin off nice and clean!h
+hWhoa, what a freak!h
+Lady Killer hNow, letfs play!!h
+The Lady Killer attacked.
+hThis isnft working! None of our attacks affect it!h
+hI hate this thing!
+ Hefs worse than Rance!h
+hIt looks like attacks from women donft affect it at all.
+ Wefve gotta run.h
+Lady Killer hWait, where are you going??
+             Play with me!h
+hNo way!h
+Lady Killer hWait.. Cfmon, cfmon!h
+hHe doesnft know when to give up.h
+hWhatfs the matter, everyone?h
+hAh, Rick-san!
+ Please defeat that Lady Killer!h
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

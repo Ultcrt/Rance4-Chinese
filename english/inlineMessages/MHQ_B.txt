@@ -1,0 +1,512 @@
+   [
+Passageway
+Room
+Control Room
+]
+(Room-Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+Doesnft look like therefs any reason to search thoroughly
+here.
+hBiiiiiiiitch, I know youfre hiding.. Huh, hefs not
+ here?h
+hWho are.. you...?h
+hKya.. Rance-sama, look!h
+Bitchfs corpse, smashed against the wall, was in the
+direction Sill pointed.
+hKyaaaaaaa!!h
+hWhat the... What the hell happened here?h
+Upsilon hHumans, my enemies.
+         I will obey my orders and kill you.h
+hWhat the heckfs this thing..?
+ Did you kill Bitch?h
+Upsilon hMy name is Upsilon.
+         The Holy Magic Sectfs 20th Toushin, Upsilon.h
+hWow, a legendary Toushin!
+ I canft believe Ifm actually seeing one!h
+h.........h
+hToushin Upsilon my ass.
+ What are you planning?h
+Upsilon hMy mission is the eradication of humanity and
+         the Dark Lords.h
+hRidiculous....h
+Upsilon hI will destroy all of humanity.
+         As M. M. Rune-sama has ordered.h
+hShit, is he serious?
+ That Tousho, Dio, was strong too, but this guy is
+ clearly gonna be a bigger problem.h
+hYes, hefs amazingly strong.h
+hMerim, do you know anything about him?h
+hY-yes, but for a Toushin to still be functioning... itfs
+ like a dream.h
+hToushin Upsilon is the center, no, you could say hefs
+ the entirety of this Toushin Toshi.
+ The Tousho are merely guards of the Toushin.h
+hThat Dio was just a guard...?h
+hYes, the Holy Magic Sectfs trump card against the Dark
+ Lords was the Toushin, the invincible giant who could
+ fight on equal ground with a Dark Lord.h
+hRance-sama, we canft win against that!h
+hThe word fcanftf doesnft exist in my dictionary!
+ But... for now, letfs retreat.h
+h......h
+hHero Rance-dono, maybe we should wait just a bit
+ longer.h
+hWhy?h
+hWefve destroyed all of Upsilonfs energy supply, but he
+ has internal reserves, so he still has some energy.h
+hHrm.h
+hTherefs no need to rush.
+ Letfs wait a bit longer.h
+hI guess so.h
+Well.. I guess we can wait a little longer.
+Hefs a pretty strong enemy. Itfll be easier to beat him
+after weakening him a bit more.
+Wefll go back to town and rest a bit first.
+Before fighting the final enemy, I should do some fun
+stuff and get recharged.
+hRance-sama, Toushin Upsilon is in here.h
+h..........h
+hRance-sama, we should retreat for now....h
+hWell, I donft have any issues with fighting him, but if
+ Sillfs scared, I guess wefll have to call it off.
+ Youfd better be grateful.h
+hOh, yes.h
+hAlright, letfs take care of some business.h
+hYes, Rance-sama.h
+(Ring ring riiing)
+Suddenly Level God Willis and Apprentice Mikan appeared.
+Willis hItfs time for the final battle, isnft it,
+        Rance-san?h
+Mikan hDo your best!h
+hSo whatfs up?
+ Here to give me a powerful item?h
+Willis hWe came to warn you.
+        Therefs no turning back after this point.h
+Willis hIf youfd like to level up or have anything you
+        still wanted to do, you should probably save
+        here.h
+Mikan hThen do your beeest!h
+Willis disappeared.
+hRance-sama, are we really going in?
+ Donft you think we should camp for a bit first??h
+hThere she is! Itfs Cynthia!h
+hRance-dono, hefs taking energy from Cynthia-dono through
+ that sphere.h
+hHmph, how underhanded.
+ Wefll kick his ass with my glorious Rance Army!h
+hYes, letfs do our best!h
+h.....Who the hellfs Rancefs Army?h
+Rance hAlright, Feliss!!
+       Hurry up and come out!h
+Feliss hOh, yes?
+        Master, do you need something?h
+Rance hOf course I do! Why would I call you if I didnft
+       need you for something!?
+       Okay, listen closely.h
+Rance hYoufre going to save that girl, Cynthia, and then
+       fly away somewhere. Yeah, like back to town.h
+Feliss h...Is that it?h
+Rance hYeah, hurry up and do it.h
+Feliss hYes, sir.h
+Feliss backed away from me and then teleported over to
+Cynthia.
+Feliss hThis girl, right?
+        Geez, you give me the strangest orders.h
+Feliss destroyed the sphere trapping Cynthia.
+Cynthia fell, limp, into Felissf arms.
+Feliss hOh, shefs pretty cute.h
+Upsilon h...What!!?h
+Rance hAlright, good job, Feliss!
+       Get back to town!h
+Feliss hYes, sir.h
+Feliss disappeared, still holding Cynthia.
+Rance hGahahahahahahahahahahahahaha!
+       I bet youfre feeling a little low on energy now!h
+Upsilon h........h
+hWhy donft you just starve to death from energy
+ shortage!h
+hWefll be back when youfre weak to put an end to you!h
+Upsilon h......h
+Upsilon glared at me, but I ignored him and took out a
+Return Bonsai, preparing to retreat.
+hWell then, see you.h
+Upsilon hWait, I wonft let you get away!h
+hIfm not gonna wait, you loser!h
+I spun the Return Bonsai around and the scenery around me
+started to blur. The transfer is starting.
+Upsilon hSuper Tiger!h
+hGahahahahaha, too late!h
+The moment the magic hit, we teleported.
+............
+............
+One girl remained after Rancefs party teleported away.
+Sill hRance-samaaa!! ..Donft leave me..!h
+Upsilon h.........h
+hPhew, looks like we made it back to town.
+ Sill, Ifm tired, so gimme a foot rub.h
+h.............h
+hHey Sill, what are you doing? I gave you an order.
+ Sill... Hm..?h
+I looked all around me and realized that Sill was gone.
+hHey, Kanami?
+ You seen Sill?h
+hWasnft she with us...?
+ Eh? Shefs not here??h
+h...........h
+hRance, where is she??h
+hShefs not here... It couldnft be.....h
+hIt looks like it could..
+ That last attack from Upsilon...h
+hShit, Sill...!
+ Wefre going back!h
+hRance-dono, please calm down!h
+hShut up. Sillfs mine.
+ I wonft give her to that mechanical bastard!h
+hAnyway, wefre taking Sill back!
+ He should be weaker now!h
+hThatfs not necessarily the case, Rance-dono.
+ Sill-dono is a mage. She may have become Upsilonfs new
+ energy source just like Cynthia-dono.h
+hAgain? This is so annoying!h
+hTh- that bastaaard!
+ Every drop of Sillfs energy is mine!h
+hAnyway, wefre leaving.h
+When I started heading toward the dungeon, Maria appeared
+in front of me.
+hWhat do you want, Maria?
+ Ifm in a hurry. Ifve got no time to fuck you.h
+hThatfs not what I want, idiot.
+ Youfre going to save Sill-chan, right?h
+h...Ifm just going to take back whatfs mine.h
+h.....Itfs the same thing, isnft it?
+ Anyway, Ifm going with you.h
+hHmph, do whatever you want.h
+hIf everyonefs going, Juliafs going too!
+ Ifm gonna work hard!h
+Maria and Julia joined the party.
+We entered the dungeon again.
+This time, wefll settle things for good.
+(Beeeep beeeep beeeep)
+System hHello, Rance-san.h
+hWhat do you want? Ifm busy.h
+System hHeading to the final battle, I see.
+        Please just save to be careful, okay?h
+hTch, donft worry about me...h
+System hWell then, Ifll restore your HP as a special
+        service.
+        Goodbye.h
+hHere we go.h
+hAlways so busy.h
+hWefre using the transport device.h
+(Vwiiiin)
+(Vwiiiin)
+hToo slow, way too fucking slow!!
+ Hurry it up!h
+hAlright, wefre almost there.h
+hHuff, huff, Juliafs tired from all the running!h
+hRance, someonefs there!h
+hHeh heh heh, looks like youfre all here.
+ What a perfect opportunity to get rid of you all at
+ once.h
+hDio, huh...?h
+Tch, wefre in a hurry and herefs a huge problem!
+Wefve got no time to fight this guy!
+hShit, wefre in a hurry here.....!h
+hRance-dono, please leave this to me.h
+hIfve got some business to settle with Dio, so Ifll take
+ care of him.
+ Please go on ahead, Rance-dono...h
+hI see, youfre pretty thoughtful, mecha geezer.
+ Ifll leave the small fry to you then.h
+We left Freak behind and kept running.
+hHeh heh, running away, eh?
+ All they ever do is run.
+ Do they really think they can escape me?h
+hWait, Dio Calmis.
+ I will be your opponent.h
+h...A senile old fool, eh?
+ You really want to die that bad?h
+hI do not, but.. I must take revenge for Misly.h
+hOh, that female Tousho? You knew her?
+ Then Ifll send you two down to the same hell together!h
+hTwo? What...?h
+hGrandpa, Ifll fight too.h
+hYou didnft go with Rance-dono, son of Toma!?
+ Why are you here..?h
+hI donft want to be anywhere near that idiot.h
+h.........h
+hYou canft win alone, Grandpa.
+ Ifll help you out.h
+hYou fool, youfll die.. Get away!!h
+hIfm telling you not to push yourself so hard, old man.h
+hYou two done talking?
+ I think itfs about time you died.h
+hYoufre the one whofs gonna die!h
+–––––––––––––––––––––––––––––––––––––––––––––
+–   Rancefs group, at that time             –
+–––––––––––––––––––––––––––––––––––––––––––––
+hAlright, just a bit more.
+ Just wait, Upsilon!h
+hRance, enemies!h
+(Rustle rustle rustle rustle)
+Monsters shuffled out into the passageway loud enough
+that I could sense them without Kanamifs help.
+hTch.h
+hThere are a lot of them! How many are there!?h
+hTheyfre everywhere!!
+ Ifm in a fucking hurry here!h
+hRance-kun, leave this to us.h
+hHurry and go to Sill-san, Rance-dono...
+ Wefll hold back the small fry here.h
+hAlright, donft let fem get near me until I beat the shit
+ out of Upsilon.h
+hIf Captain Leilafs staying, then Juliafs staying too!
+ Bye-bye!h
+hThen Rance... Ifll stay here too.
+ Go.. save Sill-chan.h
+hHmph.h
+I left the small fry to Rick and them and hurried on.
+hOkay, youfre not getting past here!h
+hAlright, wefre goinf in!h
+hYeah.h
+h...I donft want to die.h
+hOh, God....h
+hRance, letfs do our best and save Sill-chan!h
+hOf course!
+ Donft you guys die now. I donft wanna deal with it.h
+............
+h.....There she is!!h
+I discovered Upsilon and Sill, who was trapped in the
+same kind of sphere Cynthia was, behind him.
+hSill!!h
+h..Ra.. Rance-samaaaa!!h
+hHefs recovering by using Sill-chan as his energy
+ source!h
+hYou bastard, how dare you use one of my women!?h
+Upsilon h.......h
+hYou listening? Ifm gonna crush you into such fine powder
+ that a scrap metal shop wouldnft even look at you.h
+hRance, donft get too excited and lose your composure for
+ this fight.h
+hShut up! Ifm always composed!
+ Now letfs go!!h
+––––––––––––––––––––––––––––––––
+–  Freak and Hubert            –
+–        fighting Dio          –
+––––––––––––––––––––––––––––––––
+hR-ridiculous... None of my magic affects him....h
+hHeheheh, to think youfd challenge me with that level of
+ skill..
+ Youfre just trash who doesnft know its limits.h
+h........h
+hPull yourself together, Hubert!
+ Tomafs laughing on the other side!h
+"Youfre the one whofs so beat up he can barely move,
+ Grandpa!h
+hActing tough in the face of death, huh...?
+ Heheheh, killingfs the best. Therefs nothing better than
+ this, heheheheh!h
+hShit, you monster...!h
+hWhoops, if I take it too slow here, I wonft be able to
+ go kill the others..
+ Itfs about time for you pieces of trash to die.h
+h..Grrr....h
+h..................
+ Sorry.. Patton... Ifm gonna have to go before you..
+ Dens is.. waiting for me, too....h
+hDie!h
+hWh-what...?h
+Hunty hThat ainft like you.. Werenft you all about never
+       giving up all the way to the end, Hu?h
+hH-Hunty...?h
+hWhy are you here...?h
+Hunty hWhat do you mean fwhy?f You were the one who left
+       the letter to me on the desk in my room, werenft
+       you, Freak!?h
+hI guess I did do that. Gahahaha.h
+hYoufre pretty well prepared, Grandpa.
+ I think a little better of you now.h
+Hunty hNowfs not the time to take it easy like this!
+       You guys woulda been toast if I hadnft shown up.h
+hKuh, what is this ridiculous...?h
+Hunty h! ....h
+h..A Kalar, huh..? I might be able to have some fun, but,
+ heheheh, youfre no match for me...
+ The situation hasnft changed at all. My collection has
+ just grown.h
+hHunty, magic doesnft work on him.
+ Just take Hubert and run.h
+hI canft leave without you, dumbass!h
+hHere we go, Kalar girl. Resist as best as you can, eh?h
+h....................h
+hHu, Ifm borrowing your Shiranui.h
+hHunty, itfs too reckless!h
+h.................
+ Watch closely.. Hu.h
+hThis ainft something youfll see.. often..
+ ..................
+ NNAAAAaaaah!!! ......h
+h! ...The true form.. of the Kalar.. eh...?h
+hHeheheh, hahahahah, amazing, youfre great!
+ What an unsightly power up, girl, hahahahah!h
+Hunty h............h
+hU...g...UG.......h
+hUUG..GUGOGOOOOOOOONh
+hWhat is that? ..Whose voice is it?h
+hWha-! Shiranui... My Shiranui is howling? ...
+ The Demon Katana is satisfied with Huntyfs power,
+ huh..?h
+h.................h
+Hunty hDio.. Taste the fear of death one more time...h
+–––––––––––––––––––––––––––––––––––––––
+– Underground Control Room            –
+–––––––––––––––––––––––––––––––––––––––
+Sill h...AAAAAaaaah....!h
+Upsilon drained energy from Sill and recovered 2,000 HP.
+Rance hShit...!h
+Upsilon hItfs no use.
+         Humans cannot defeat me.h
+Rance h........h
+Rance hShut up, shut up, shut up, shut up!!h
+Upsilon h......h
+Rance hI canft lose!!
+       Die!!h
+Sill hRance-sama...!h
+Sill hRance-sama canft win while Ifm being used as
+      Upsilonfs energy...h
+Sill hAt this rate, Rance-sama will be killed...h
+Sill h......As long as Ifm here.....h
+Sill h...Rance-sama...h
+Sill appears to be trying to do something within the
+sphere.
+Rance hHey, Sill!
+       What are you doing!!?h
+Sill hRance-samaaa......!!h
+Sill hFire Laser!!h
+Sillfs magic exploded inside the sphere, and Sill
+collapsed with the explosion.
+Rance hSill!!h
+Upsilon hGuh... Impossible.. What did you.. No!h
+Rance hSill, Sill, idiot!!
+       Whatfd you do that for!!?h
+Upsilon hGuh.. my power.. you..!h
+Rance hSill.... Shit, Upsilon, Ifm gonna kill you!h
+h.......Sill.h
+hYou idiot.. Without my permission...h
+hRance....h
+hSill-chan.. This canft be...h
+(Sway sway sway)
+The Toushin Toshi began to shake wildly.
+hRance, itfs.. dangerous here.
+ We have to run or itfll collpase.h
+h.......h
+hRance-dono....h
+h........h
+h????h
+(Sway sway sway)
+The Toushin Toshifs shaking grew even stronger.
+hRance-san, we have to escape...
+ Since Upsilon was defeated, the Toushin Toshi has begun
+ to collapse.h
+hIs that true, Merim-san?h
+hYes, since Upsilon was the entirety of the Toushin
+ Toshi.
+ The whole thing will break and fall to the surface.h
+hThen, wefre.. gonna die here...h
+hNo, no, Julia doesnft wanna die!h
+hNo, we should be able to use the Landing Crafts in the
+ Tousho Core.
+ Since Upsilon isnft controlling them anymore, we should
+ be able to manually control them.h
+hThere were a lot of Landing Crafts, so I think we can
+ save everyone in Cassado too.
+ Anyway, letfs hurry.h
+hThatfs good, then letfs do that!
+ Then Rance.. Hey, Rance!h
+hYeah, do whatever you want.h
+hDo what we want, Rance..? What are you going to do?h
+hIfm gonna stay here a little longer.h
+hA little longer? Therefs no time!
+ If we donft hurry, the Toushin Toshifs going to fall!h
+hWhatever, just go! Go back to town and get everyone in
+ those Landing Crafts or whatever! Go!h
+hRance....h
+hRance, the Landing Crafts are on the 5th floor of the
+ Tousho Core.
+ Youfd better show up.h
+hYeah...h
+Leaving me behind, everyone headed off to prepare to
+escape.
+(Sway sway sway)
+With another big shake, some of the walls around me
+started crumbling.
+hSill... You fucking idiot..!h
+I embraced Sill, who wasnft moving anymore.
+Rance hWhat the hellfs a slave doing dying before her master?
+       Organizing her masterfs funeral is a slavefs job too, you
+       know!h
+Rance hYou stupid, stupid, stupid.....!h
+Rance h.................h
+Sillfs body gradually got less and less warm...
+Hm..? But shefs not getting cold.
+Wait a second...
+I put my ear to Sillfs chest.
+(Thump  thump)
+Rance hHeh...? Shefs alive??h
+I try checking her heartbeat one more time.
+(Thump thump)
+I could definitely hear the sound of her heart beating.
+Rance h.........h
+Rance hHey, Sill.. Sill...!h
+I shook her roughly and her eyelids, which I thought would be closed
+forever, slowly began to open.
+Sill hUhn.... ah.. Rance-sama?h
+Rance hWhat do you mean fRance-samaf.. Youfre alive!
+       Are you okay??h
+Sill hYes, I guess I was unconscious for a little while...
+      Umm, what happened to Upsilon...?h
+hYou stupid idiot!!h
+hKyan!h
+hPretending to be dead!!
+ I was worried about you!h
+hRance-sama..?h
+hWhat is it?h
+hUmm.. Did you cry for me...?h
+hTherefs no way Ifd ever cry!
+ Who the hell would cry for you!!?
+ Slaves are disposable!h
+h.........h
+(Sway sway sway sway)
+The ground began shaking even more.
+h...We canft stay here.
+ Wefre running. The Toushin Toshifs falling.h
+hEhhh?h
+hUm, everyone.. Where is everyone..??h
+hThey left me here and ran!
+ Ifll never forgive them!h
+hAnyway, wefre heading to those Landing Crafts!h
+hYes, Rance-sama.h
+[Underground Control Area]
+    Adventure
+Day 
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢

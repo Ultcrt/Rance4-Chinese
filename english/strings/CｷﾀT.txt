@@ -1,0 +1,10 @@
+Tower
+Door
+Monologue
+Kanami
+Camp
+Look
+Talk
+Enter tower
+Brute
+Move to Meadow

@@ -1,0 +1,506 @@
+    [
+Passageway
+Room
+Tousho Room
+Magic Unit Storehouse
+Landing Craft Room
+First Elevator
+Second Elevator
+]
+(Room Mode)
+ There are stairs leading up.
+ There are stairs leading down.
+ Therefs a transport device.
+ Therefs a sign.
+Alright, Ifm gonna look for monsters.
+(Look look look)
+Unfortunately, I couldnft find any monsters.
+Unfortunately, I couldnft find any monsters.
+The door is locked (and requires the Sharp Key).
+Used the Sharp Key to open the door.
+The door cannot be opened.
+The door is locked (and requires the Epson Key).
+Used the Epson Key to open the door.
+The door cannot be opened.
+The door wonft open.
+The door is locked (and requires the Fujitsu Key).
+Used the Fujitsu Key to open the door.
+The door cannot be opened.
+The door is locked (and requires the NEC Key).
+Used the NEC Key to open the door.
+The door cannot be opened.
+The door wonft open.
+The door wonft open.
+The door wonft open.
+hRance-sama, we already know there isnft a Landing Craft
+ in here anymore.h
+(Sway sway sway)
+The Toushin Toshi shook violently again.
+hShit! How dare they all leave me behind and run!!h
+hAaagh, therefs no Landing Craft!h
+hIt looks like itfs already been used to escape,
+ Rance-sama.h
+hDonft be so calm about this! Wefre in trouble!
+ Letfs check another one!h
+hYes.h
+Therefs a thing that Merim called a Landing Craft here.
+h.........h
+hWhat is it, Rance-sama?h
+hNah, itfs nothing.
+ No point in sticking around here.
+ Letfs go.h
+We left the room.
+hWhat the heck is this??
+ A mysterious room with weird stuff lying around in
+ it!!?h
+hSome kind of ruins or magic devices, maybe?h
+hUmm....h
+Merim called out to us, timid as always.
+hHm..? Merim?
+ You researched this Toushin Toshi thing, right? So you
+ know what these are?h
+hOh, yes.h
+hI think these are the Toushin Toshifs Landing Crafts.h
+hLanding Crafts?
+ What the heck are those?????h
+hA Landing Craft is a kind of flying boat.h
+hEh? They fly?
+ I thought my Tulip #4 was humanityfs first flying
+ vehicle...h
+hIfm kind of disappointed.h
+hThey fly, huh...? I see.h
+hI think these Landing Crafts were used to send Tousho
+ down to the surface to fight.
+ Itfs amazing, isnft it?h
+With that, Merim wandered deeper into the room and
+started putting her hands all over the pillars and
+things.
+hWow, wow!
+ Merimfs so happy!h
+hRance-sama, could we use these to return to the
+ surface?h
+hUse.... these??h
+For a split second, an image surfaced in my mind of me
+using these Landing Crafts to hop right back to the
+surface and being greeted by a million girls.
+hI see, that is a good idea.
+ Merim, get these Landing Crafts working.h
+hOkay. I donft know if Ifll be able to do it, but Ifll
+ check them out.h
+Merim wandered around the Landing Crafts, taking notes
+and looking like she was busy investigating.
+h........Hmmm.h
+h.......Oh, I see!h
+hThen this part, umm...h
+hOh!h
+hWhat is it?h
+hYes, I think they can be activated, but they seem to be
+ receiving some kind of standby signal from somewhere...h
+hSo they wonft work now.h
+hYes, unfortunately.. but..h
+hWe should be able to get them working if we can stop
+ that standby signal.h
+hStandby signal, huh? So whofs the one sending it?h
+hProbably, the heart of the Toushin Toshi.. The Toushin.h
+hSo where the heckfs this Toushin thing?h
+hI donft know.h
+hAnyway, for the meantime, we canft use these things to
+ return to the surface, right?h
+hItfs too bad, Rance-sama.
+ But there must be another way.
+ Letfs keep looking.h
+hYou look by yourself.
+ Shit.h
+h.......h
+h.....??h
+hWhatfs this, Sill?h
+h.....I donft know.
+ Merim-san might, but.. I...h
+hTch, incompetent, trash, loser.
+ Ifm gonna abandon you, you useless piece of crap.
+ Study more.h
+hYes, I understand.h
+hIfll study, so please buy me some books.h
+hNo way, thatfd have to come out of my porn-buying money.
+ Go read in the store.h
+h......h
+We left the room with the mysterious things.
+(Roll roll roll)
+hHm.....?h
+hRance-sama, whatfs that noise?h
+(Roll roll roll)
+h.....Owah!!h
+(Roll roll roll roll roll)
+The ball rolled by us at an incredible speed.
+hPhew, wefre safe.h
+hI bet itfs because we had this Ballcat Charm,
+ Rance-sama.h
+(Roll roll roll roll roll roll)
+Rance hUgyaaaaa....!h
+........
+........
+hRance-sama, therefs a sign.
+ Somethingfs written on it.h
+hLetfs see here.h
+F             Warning                 F
+FA [Ballcat Charm] is absolutely      F
+Fnecessary to proceed past this point.F
+FYou will 100% die without one.       F
+hRance-sama, the Landing Crafts are in the Tousho Core.
+ Not here.h
+hRight, wefve gotta hurry!!h
+hTherefs a transport device, Rance-sama.
+ Should we use it?h
+hLetfs see??h
+hAlright, letfs go!h
+hYes.h
+We stood in the center of the magic circle on the ground.
+Ascend stairs?
+Ascending to higher floor.
+Descend stairs?
+Descending to lower floor.
+... hPlease speak the activation code.h
+A creepy, emotionless voice echoed from somewhere.
+hActivation code?
+ Whatfs that?h
+... hPlease speak the activation code.h
+Looks like Ifve gotta answer it.
+What should I say?
+... h*Beeeeep*.h
+hSounds like that wasnft it, Rance-sama.h
+hHmmmmmmmmm.h
+hHey, what about fOpen Sesamef?
+ Isnft fOpen Sesamef the go-to password?h
+h.......h
+hSeriously, try it, come on!h
+hAlright, fine.h
+I stood in front of the elevator once again and shouted.
+hOpen Sesame!!!!h
+... h..........h
+... h*Beeeeeeep*.h
+hTch, I didnft think itfd work.
+ I was stupid to take something Julia said seriously.h
+hBooooooo.h
+hCharge.h
+... hThank you for using our services.
+     Please state the floor you would like.h
+... hWe are currently on floor 
+.
+     Which floor would you like?h
+... hPlease speak the activation code.h
+A creepy, emotionless voice echoed from somewhere.
+hActivation code??h
+... hPlease speak the activation code.h
+hIt looks like we have to answer it, Rance-sama.h
+hAlright.h
+So what should I say?
+hSirius.h
+... h*Ding-dong*.
+     Correct.h
+We boarded the elevator.
+... hWe are currently on floor 
+.
+     Which floor would you like?h
+hLexington.h
+... h*Ding-dong*.
+     Correct.h
+We boarded the elevator.
+Move to which floor?
+(Screeeeeeeeeeeeeeech)
+(Screeeeeeeech)
+(Clank)
+... hYou have arrived at your destination.
+     Please make sure you have all of your belongings.h
+... hPlease make use of our services again.h
+Doesnft look like therefs any reason to search thoroughly
+here.
+hRance-sama.. therefs something...
+ Kya!h
+Something appeared as if bubbling up from the ground.
+Itfs a naked woman.
+h...An enemy.h
+hA naked lady... I get the feeling you go for the rough
+ stuff with that grey skin.h
+hWhat are you saying, Rance-sama?
+ It looks like shefs our enemy.h
+Atlanta hMy name is Atlanta.
+         I have appeared to bring you misfortune.h
+hMisfortune.. Deheheheheh.
+ Ifm happy just seeing your body like this.h
+hItfs a naked lady!
+ Are you an exhibitionist, lady?h
+Atlanta hDo you recognize whatfs in these mirrors?h
+Atlanta took out two mirrors and showed them to me.
+Ifm more interested in her body, but I guess Ifll look at
+fem.
+hWhat!!?h
+hItfs Kanami-san and Leila-san, Rance-sama!
+ Why!!?h
+Kanami and Leila were inside the two mirrors.
+Atlanta hThatfs the deal. Get it?h
+hWait a second, Kanami was here...
+ Hey, Kanami.. Kanami.. Hey!
+ Wherefd she go?h
+hRance-sama, Kanami-sanfs gone!h
+hKanami should be waiting for us back in town.h
+Atlanta hI see. Then could the girl in this mirror be
+         someone else??h
+... hOpen this thing.. Let me out!!h
+Someone like Kanami is shouting inside the mirror.
+Itfs the voice of Kanami herself, very familiar to me.
+hRance-sama, it must actually be Kanami-san trapped in
+ that mirror!h
+hShit!h
+hThen Rance-sama, the other one...h
+hBut Leila-san was in my party, right...... not here.h
+Leila-san, who was right here a second ago, is gone.
+hLeila-san should be... in town, but...
+ How could this..?h
+Atlanta hThatfs the deal.
+         Two of your companions are trapped in these
+         mirrors.h
+hWhat the hell do you think youfre doing!?
+ What do you want, naked lady!?h
+hPlease return Kanami-san and Leila-san to normal!h
+Atlanta hItfs not that I want anything in particular.
+         Ifm doing it fcause itfs fun.h
+h........h
+Atlanta hOh my, that troubled face youfre making..
+         Itfs very nice.h
+Atlanta hWhy donft you get even more troubled for me?h
+hArgh, wefll take fem back by force!
+ Stupid naked lady!h
+But just when I jumped on her, Atlanta sunk back into the
+ground the way she came.
+hShit! Wherefd you run off to!?h
+.. hI split the mirrors those two are in and hid the
+    pieces of them somewhere in this dungeon.h
+I can hear Atlantafs voice from somewhere...
+But no matter where I look, I canft see her.
+hShit, get out here!
+ You coward!h
+.. hGood luck finding those mirrors.
+    If you donft find them soon, those girl might never
+    be able to get out.. Hohohoho.h
+hWhat was that, naked lady!?
+ Ifm gonna open your legs up 180 degrees and shove a
+ fucking baseball bat in you!h
+hRance-sama....h
+h..........h
+hRance-sama.. The mirror fragments....h
+hI got it.
+ Wefve gotta look for fem.h
+hThat was scary!
+ But Ifm glad it wasnft Julia getting stuck inside a
+ mirror. Yeah.h
+The Green Slime remains in front of us, blocking our
+path.
+hItfs a Green Slime, Rance-sama.h
+hAll ugly things must die.h
+hLeave it to me!h
+hMy Tulip #1 can blow apart something soft like this!h
+Maria aimed her Tulip #1 at the Green Slime and fired.
+(Whiiiiiiiiiiiistle)
+   (Booooom)
+Slime hUhya... Ifm a goner`.h
+The Green Slime disappeared.
+hA-hem!h
+hYoufre amazing, Maria-san!
+ *Clap* *clap*.h
+hHmph, that was unnecessary.....
+ I coulda destroyed that thing with my Lightning Flash
+ Kick.. Well, whatever.h
+The Green Slime disintigrated and we were able to
+advance.
+hAttack, Sill.h
+hYes, Rance-sama.h
+hFire Arrow!h
+Sillfs magic had absolutely no effect.
+hIce Arrow!h
+Sillfs magic had absolutely no effect.
+hThunderstrike!!h
+Sillfs magic had absolutely no effect.
+h*Pant*.. *pant*.. *pant*.. Rance-sama..
+ I canft do it.
+ I think Maria-san could do something with her Tulip
+ though...h
+hIncompetent. Useless.h
+h*Sob* *sob*.h
+A translucent wall blocked our way through the
+passageway.
+hWhat the heckfs this??h
+hItfs a Magic Wall, Rance-sama.
+ A wall made with magic.h
+hAlright, destroy it.h
+hMe?h
+hIfm not strong enough.
+ Could you please do it, Shizuka-san?h
+hSure thing. Ifll try.h
+Shizuka faced the Magic Wall and put her hands together.
+hHm..... Hmmmm, hm...!h
+h...........h
+(Snap)
+With one last burst of power from Shizuka, the Magic Wall
+was smashed to pieces.
+hI knew you could do it, Shizuka-san! Youfre amazing!h
+hPhew, well, we can get through now.h
+hHrm, good work.
+ You did well, Shizuka. Ifll praise you.h
+hI didnft do it for you, Rance.h
+Sill faced the Magic Wall and put her hands together.
+h....Hmmm, yah!h
+h.......h
+Nothing happened to the Magic Wall.
+hRance-sama... Ifm sorry.
+ It looks like Ifm not strong enough.h
+hWhat!?h
+hMagic Walls should break if you put more magic into them
+ than they were created with, but...h
+hI couldnft do it, but.. I bet Shizuka-san could.h
+hShut it! Itfs your fault since you canft do it!h
+(Hit hit hit hit)
+h...Ifm sorry.h
+We gave up on getting past the Magic Wall.
+When we approached Chaofs room, we heard someone talking.
+hIt looks like someonefs in there, Rance-sama.h
+hYeah, letfs check it out.h
+We hid in a corner of the passageway and peered into the
+room.
+hItfs those Helman Army guys. But why...?h
+hI donft know.
+ Letfs listen to their conversation.h
+hYeah. Be quiet.h
+..................
+hWoman.
+ I shall eliminate this Atlanta, so tell me where she
+ is.h
+hThere are many good things that could come of helping a
+ Helman Councilman like myself.
+ Kehya, kehya, kehya!h
+Chao hBut Atlantafs so strong and dangerous!
+      For your sake, Bitch-san, I donft think I can tell
+      you where she is.h
+Chao hAnd..
+      One of your companions is trapped inside Atlantafs
+      Mirror, right, Bitch-san?h
+hYou mean Io?
+ I donft care about that useless mage.h
+Chao hPlease come back after youfve found this Io-san.
+      If you do that, Ifll acknowledge your strength and
+      tell you where Atlanta is.h
+hVery well.
+ We only need one more piece of Iofs mirror, anyway.
+ Ifll show you what Ifm capable of.h
+Chao hIfll be waiting for you, Bitch-san.h
+hKehya, kehya, kehya, kehya!
+ Letfs go, Dio.h
+hI suppose you can come as well, Hubert, Dens.h
+hTheyfre coming, Rance-sama!h
+hOh shit, itfd be annoying to have to deal with those
+ guys right now.
+ Letfs hide.h
+We backed up and hid in the shadows of the passageway so
+that Bitchfs group wouldnft see us.
+Bitch and his blockheads quickly passed us by.
+hIt looks like the Helman Army group has the same kind of
+ promise with Chao-san as us, Rance-sama.h
+hYeah...h
+hTherefs something weird about that Chao girl.
+ Shefs dangerous.h
+hWell, no matter what happens, shefs still a woman.
+ If anything happens, I can just push her down and rape
+ her. Then everythingfll be fine.
+ Therefs probably nothing to worry about.h
+hYou have some awful thoughts, you know.h
+When we approached Chaofs room, we heard someone talking.
+hIt looks like someonefs in there, Rance-sama.
+ I wonder if itfs the Helman group again?h
+hHmm. Well, letfs hide and check it out again.h
+hYes.h
+We hid in a corner of the passageway and peered into the
+room.
+hThe Helman Army again, just like I thought...
+ Chaofs mine, you know!h
+hHey, shut up! Theyfll hear us!h
+...........
+hWoman!
+ We cannot find Atlanta anywhere!
+ You better not have given us false information!h
+Chao hIt wasnft a lie!
+      Atlanta is definitely here!h
+hAre you telling the truth? I hope you know what will
+ happen if you lie to me.
+ Kehya, kehya, kehya!h
+Chao hAtlanta is definitely hiding somewhere in this
+      dungeon. Thatfs the truth. Please defeat her with
+      your power, Bitch-sama.h
+hI suppose Ifve got no choice. Very well.
+ But youfd better not forget about the N Key.h
+Chao hOf course. I understand.h
+hKehya, kehya, kehya!
+ Letfs go, Dio.h
+Bitch and the rest of fem quickly left the room again.
+We hid in the passageway and waited for Bitch and the
+rest of them to pass by, then returned to Chaofs room.
+hRance-sama, the Helman Army is looking for Atlanta
+ too...h
+hWell, they can look all they want.
+ But since I beat her already, they wonft find her.h
+... hHohohohohohoho.....h
+hThis voice is...h
+hItfs coming from the room, Rance-sama.
+ Chao-san shouldnft be in there though...h
+We looked into the room one more time.
+Chao hHohohohohohohoho, fools.h
+Chao hGo ahead and fight my doubles as much as youfd
+      like.h
+hRance-sama....h
+hChaofs Atlanta..
+ What the heckfs going on?h
+Chao hBut itfs probably impossible for that man.
+      Hefs too far from the ideal Ifm looking for.h
+Chao hIfd like to see at least one other person than that
+      Rance man with the power to defeat my doubles.h
+Chao hMy master wishes for the body of a strong man after
+      all.h
+h...Rance-sama!h
+hLooks like she tricked us.
+ How ridiculous.h
+hWhat should we do?h
+hWhat do you think? We should jump out in front of her
+ and kill fer!h
+hBut, Rance-sama...
+ Then we might not be able to find the key.h
+h........h
+hWhy donft we pretend we donft know for a little while
+ longer and see what happens?h
+hYeah, I guess wefll pretend wefre still fooled and wait
+ for our chance.h
+–––––––––––––––––––––––––––––––––––––––––––––
+–  At that time                             –
+–    Underground Power Area  Passageway     –
+–––––––––––––––––––––––––––––––––––––––––––––
+Replica h! ..Freak-sama.. You came for me..?h
+Freak hMisly... Ifm so sorry.. If I had come sooner, this wouldnft
+       have....h
+Replica hNo... Ifm the one whofs... sorry for not being of any
+         use....h
+Freak h...Misly.... Youfve done a great job over all these years....
+       Go ahead and take a good, long rest...h
+Replica hFreak-sama, will you be alright alone? ....h
+Freak hItfs fine, Ifm not alone.. Ifll be fine.h
+Replica h...Really....? Good.......h
+Replica hFreak-sama, someonefs trying to activate Upsilon.. But.. It
+         mustnft be...h
+Freak hYes, humanity isnft ready for it yet.
+       But leave the rest to me.h
+[Tousho Core B
+F]
+    Adventure
+Day
+    Time [
+F
+0]
+Encountered a monster.
+‚¾‚ß‚¾[[[[‚w‚ª‘å‚«‚¢
+‚¾‚ß‚¾[[[[‚x‚ª‘å‚«‚¢
