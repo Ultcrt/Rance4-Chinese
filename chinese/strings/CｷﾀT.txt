@@ -1,10 +1,10 @@
-Tower
-Door
-Monologue
-Kanami
-Camp
-Look
-Talk
-Enter tower
-Brute
-Move to Meadow
+塔
+門
+自言自語
+加奈美
+営地
+観察
+対話
+進入塔
+暴力行為
+移動到草原

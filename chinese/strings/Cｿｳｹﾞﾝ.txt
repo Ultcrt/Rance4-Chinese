@@ -1,14 +1,14 @@
-Surroundings
-Sky
-Rocks
-Tower
-Cassado
-Big Tower
-North Tower
-South Tower
-West Tower
-East Tower
-Camp
-Look
-Brute
-Move
+環境
+天空
+岩石
+塔
+凱撒多鎮
+高大的塔
+北邊的塔
+南邊的塔
+西邊的塔
+東邊的塔
+営地
+観察
+暴力行為
+移動

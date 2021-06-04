@@ -1,8 +1,8 @@
-Surroundings
-Entrance
-Sky
-Camp
-Look
-Talk
-Enter Underground
-Move to Meadow
+環境
+入口
+天空
+営地
+観察
+対話
+進入地下
+移動到草原

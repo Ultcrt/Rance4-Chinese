@@ -1,9 +1,9 @@
-Tower
-Surroundings
-Tulip #4
-Underground Entrance
-Towards tower
-Camp
-Look
-Talk
-Move
+塔
+環境
+郁金香4号
+地下入口
+前往塔底
+営地
+観察
+対話
+移動
