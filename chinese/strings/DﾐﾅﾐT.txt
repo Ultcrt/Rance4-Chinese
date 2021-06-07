@@ -1,7 +1,7 @@
-Camp
-Look
-Talk
-Enter tower
-Move
-Enter tower
-Move
+営地
+観察
+対話
+進入塔内
+移動
+進入塔内
+移動
