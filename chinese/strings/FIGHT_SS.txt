@@ -1,96 +1,96 @@
-Individual settings
-All manual
-All auto (full auto)
-Battle wait
-CG display
-End
-Super Fast
-Fast
-Normal
-Slow
-Super Slow
-On
-Off
-Rance
-Sill
-Io
-Merim
-Rick
-Leila
-Julia
-Kanami
-Maria
-Shizuka
-Athena 2.0
-Hubert
-Freak
-No one
-Manual
-Auto
-Special auto
-Action 1 
-Action 2 
-Action 3 
-Action 4 
-Do not change
-Weapon attack
-Rest
-Donft change
-Light Attack
-Shoot
-Rance Attack
-Brute Attack
-ByELaEWay
-Healing magic
-Angel Mirror
-Fire Arrow
-Fire Blast
-Fire Laser
-Hellfire Conflagration
-Fire Bowl Technique
-Ice Arrow
-Snow Laser
-Lightning Arrow
-Thunderstrike
-Lightning
-Electromagnetic Barrier
-Whore Surf
-Tiger
-Super Tiger
-Bismarck
-Tirpitz
-White Breaker
-Flame Particle Bullet
-Black Breaker
-MetalELine
-Absolute Zero
-(Weapon attack          )
-(Light Attack           )
-(Shoot                  )
-(Rance Attack           )
-(Brute Attack           )
-(ByELaEWay          )
-(Healing magic          )
-(Use Angel Mirror       )
-(Fire Arrow             )
-(Fire Blast             )
-(Fire Laser             )
-(Hellfire Conflagration )
-(Fire Bowl Technique    )
-(Ice Arrow              )
-(Snow Laser             )
-(Lightning Arrow        )
-(Thunderstrike          )
-(Lightning              )
-(Electromagnetic Barrier)
-(Whore Surf             )
-(Tiger                  )
-(Super Tiger            )
-(Bismarck               )
-(Tirpitz                )
-(White Breaker          )
-(Flame Particle Bullet  )
-(Black Breaker          )
-(MetalELine           )
-(Absolute Zero          )
-(Rest                   )
+˜¢lİ’u
+‘S•”è“®
+‘S•”©“®
+í“lŠÔŠu
+í“lCG
+Œ‹‘©
+Ù“G‰õ
+‰õ
+³í
+–
+Ù“G–
+ŠJ
+ŠÖ
+—–z
+Šó˜I
+ˆÉ‰œ
+”~ä»›G
+—¢
+åQf
+éä»‰ë
+‰Á“Ş”ü
+àó—˜ˆŸ
+u—¥
+‰ë“T›P2†
+‹x”Œ“Á
+•¤—¢
+•Ô‰ñ
+è“®
+©“®
+s“®İ’u
+s“® 1
+s“® 2
+s“® 3
+s“® 4
+“Pç÷C‰ü
+•ŠíUŒ‚
+‹x‘§
+“Pç÷C‰ü
+ŒyUŒ‚
+ËŒ‚
+—–za
+‹S’{a
+`EfEˆĞ
+¡–ú–‚–@
+“Vg”V‹¾
+‰Š”V–î
+‰Î”š”j
+‰Î‰ŠËü
+‹Æ‰Î‰Š”j
+‰Î˜¥”Vp
+™u”V–î
+Š¦™uËü
+—‹”V–î
+—‹Œ‚
+—‹è»èÆèÌ
+“d¥Œ‹ŠE
+•—‘›˜Q“ 
+–ÒŒÕ
+’´‹‰–ÒŒÕ
+˜êz”
+’ñ¢”çˆï
+”’F”jš­Œõü
+‰Î‰‹—±q’e
+•F”jš­Œõü
+‹à‘®a’f
+â‘Î—ë“x
+(•ŠíUŒ‚          )
+(ŒyUŒ‚           )
+(ËŒ‚                  )
+(—–za           )
+(‹S’{a           )
+(`EfEˆĞ          )
+(¡–ú–‚–@          )
+(“Vg”V‹¾       )
+(‰Š”V–î             )
+(‰Î”š”j             )
+(‰Î‰ŠËü             )
+(‹Æ‰Î‰Š”j )
+(‰Î˜¥”Vp    )
+(™u”V–î              )
+(Š¦™uËü             )
+(—‹”V–î        )
+(—‹Œ‚          )
+(—‹è»èÆèÌ             )
+(“d¥Œ‹ŠE)
+(•—‘›˜Q“              )
+(–ÒŒÕ                  )
+(’´‹‰–ÒŒÕ            )
+(˜êz”               )
+(’ñ¢”çˆï                )
+(”’F”jš­Œõü          )
+(‰Î‰‹—±q’e  )
+(•F”jš­Œõü          )
+(‹à‘®a’f           )
+(â‘Î—ë“x          )
+(‹x‘§                   )
