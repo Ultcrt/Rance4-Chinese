@@ -1,47 +1,47 @@
-Cannot be selected
-Left click to select this
-Right click to give mass orders
-End turn
-Strategic retreat
-Battle settings
-Move
-Act.
-Item
-Rest
-Assault
-Light Attack
-Shoot
-Observe
-Use Devil
-Rance Attack
-Brute Attack
-ByELaEWay
-Healing magic
-Angel Mirror
-Fire Arrow
-Fire Blast
-Fire Laser
-Hellfire Conflagration
-Fire Bowl Technique
-Ice Arrow
-Snow Laser
-Lightning Arrow
-Thunderstrike
-Lightning
-Electromagnetic Barrier
-Whore Surf
-Tiger
-Super Tiger
-Bismarck
-Tirpitz
-White Breaker
-Flame Particle Bullet
-Black Breaker
-MetalELine
-Absolute Zero
-Weapon Attack
-Cancel
-End
+Ù–@‘I’†
+¶Œ®‘I’†
+‰EŒ®is®‘Ìİ’u
+‰ñ‡Œ‹‘©
+íp“P‘Ş
+í“lİ’u
+ˆÚ“®
+s“®
+“¹‹ï
+‹x‘§
+PŒ‚
+ŒyUŒ‚
+ËŒ‚
+’ã@
+¢Š«ˆ«–‚
+—–za
+‹S’{a
+`EfEˆĞ
+‰ñ•œ–‚–@
+“Vg”V‹¾
+‰Š”V–î
+‰Î”š”j
+‰Î‰ŠËü
+‹Æ‰Î‰Š”j
+‰Î˜¥”Vp
+™u”V–î
+™uáËü
+—‹”V–î
+—‹Œ‚
+—‹è»èÆèÌ
+“d¥Œ‹ŠE
+ˆú‹Æ”g
+ŒÕ®íÔ
+’´‹‰ŒÕ®íÔ
+˜êz”íŠÍ
+’ñ¢”çˆïíŠÍ
+”’F”jš­Œõü
+‰Î‰Š—°Î’e
+•F”jš­Œõü
+‹à‘®EŠEü
+â‘Î—ë“x
+•ŠíUŒ‚
+æÁ
+Œ‹‘©
 ‡@
 ‡A
 ‡B
@@ -51,56 +51,56 @@ End
 ‡F
 ‡G
 ‡H
-Heal
-Fire Arrow
-Fire Blast
-Fire Laser
-Hellfire Conflagration
-Flame Particle Bullet
-Fire Bowl Technique
-Ice Arrow
-Snow Laser
-Absolute Zero
-Lightning Arrow
-Thunderstrike
-Lightning
-Electromagnetic Barrier
-MetalELine
-Whore Surf
-Tiger
-Super Tiger
-Bismarck
-Tirpitz
-White Breaker
-Black Breaker
-Lightning Sword
-Seirogan 2
-Undazzle Dress
-Rock-hard Poop
-Bebetar Costume
-Cake
-Belief Key
-Betrayal Key
-Strength Spray
-NEC Key
-Epson Key
-Sharp Key
-Fujitsu Key
-Chernen Powder
-Fever Breaker
-Mirror Fragment D4
-Mirror Fragment D3
-Mirror Fragment D2
-Mirror Fragment D1
-Famous Picture 8
-Famous Picture 9
-Famous Picture 10
-Famous Picture 11
-Magefs Whip
-Rusted Sword
-Ninja Blade
-Death Surcoat
-Coarse Armor
-Nay Shield
-T33-type Round Shield
-Muramasa
+‰ñ•œ
+‰Š”V–î
+‰Î”š”j
+‰Î‰ŠËü
+‹Æ‰Î‰Š”j
+‰Î‰Š—°Î’e
+‰Î˜¥”Vp
+™u”V–î
+™uáËü
+â‘Î—ë“x
+—‹”V–î
+—‹Œ‚
+—‹è»èÆèÌ
+“d¥Œ‹ŠE
+‹à‘®EŠEü
+ˆú‹Æ”g
+ŒÕ®íÔ
+’´‹‰ŒÕ®íÔ
+˜êz”íŠÍ
+’ñ¢”çˆïíŠÍ
+”’F”jš­Œõü
+•F”jš­Œõü
+‘M“dŒ•
+¢FŠà 2
+ˆÃ’W—m•
+åßŠï“I•Ö•Ö
+ŠLŠL“ƒ‹Y•
+’`ã´
+M‹Âèoú
+”w”¾èoú
+—Í—Ê•¬–¶
+“ú“dèoú
+ˆ¤•¶èoú
+‰Ä•èoú
+•xm’Êèoú
+Ø¢›c•²––
+‘ŞÄ–ò
+‹¾”Váê•Ğ D4
+‹¾”Váê•Ğ D3
+‹¾”Váê•Ğ D2
+‹¾”Váê•Ğ D1
+–¼‰æ 8
+–¼‰æ 9
+–¼‰æ 10
+–¼‰æ 11
+–@t’·•Ú
+¶çö“SŒ•
+”E“
+€_“lâÉ
+—ò¿ŠZb
+”Û™r‚
+T33Œ^š¢‚
+‘º³
