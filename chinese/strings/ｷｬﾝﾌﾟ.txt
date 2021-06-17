@@ -1,72 +1,72 @@
-Check
-Use
-Equipment
-Toss
-Mirror Fragment A1
-Mirror Fragment A2
-Mirror Fragment A3
-Mirror Fragment A4
-Mirror Fragment B1
-Mirror Fragment B2
-Mirror Fragment B3
-Mirror Fragment B4
-Mirror Fragment C1
-Mirror Fragment C2
-Mirror Fragment C3
-Mirror Fragment C4
-Mirror Fragment D1
-Mirror Fragment D2
-Mirror Fragment D3
-Mirror Fragment D4
-Mirror Fragment A1
-Mirror Fragment A2
-Mirror Fragment A3
-Mirror Fragment A4
-Mirror Fragment B1
-Mirror Fragment B2
-Mirror Fragment B3
-Mirror Fragment B4
-Lightweight Bow
-Mirror Fragment C1
-Mirror Fragment C2
-Mirror Fragment C3
-Mirror Fragment C4
-Lionet
-Mirror Fragment D1
-Mirror Fragment D2
-Mirror Fragment D3
-Mirror Fragment D4
-Strength Spray
-Rance
-Sill
-Io
-Merim
-Rick
-Leila
-Julia
-Kanami
-Maria
-Shizuka
-Athena 2.0
-Hubert
-Freak
-No one
-Tough Spray
-Strength Spray
-Weapon
-Remove weapon
-Armor
-Remove armor
-Shield
-Remove shield
-(Tough Spray)
-(Strength Spray)
-Quit
-Tough Spray
-Strength Spray
- 
- 
- 
+Έ
+g—p
+‘•”υ
+‹P
+‹Ύ”Vακ•Π A1
+‹Ύ”Vακ•Π A2
+‹Ύ”Vακ•Π A3
+‹Ύ”Vακ•Π A4
+‹Ύ”Vακ•Π B1
+‹Ύ”Vακ•Π B2
+‹Ύ”Vακ•Π B3
+‹Ύ”Vακ•Π B4
+‹Ύ”Vακ•Π C1
+‹Ύ”Vακ•Π C2
+‹Ύ”Vακ•Π C3
+‹Ύ”Vακ•Π C4
+‹Ύ”Vακ•Π D1
+‹Ύ”Vακ•Π D2
+‹Ύ”Vακ•Π D3
+‹Ύ”Vακ•Π D4
+‹Ύ”Vακ•Π A1
+‹Ύ”Vακ•Π A2
+‹Ύ”Vακ•Π A3
+‹Ύ”Vακ•Π A4
+‹Ύ”Vακ•Π B1
+‹Ύ”Vακ•Π B2
+‹Ύ”Vακ•Π B3
+‹Ύ”Vακ•Π B4
+y‹|
+‹Ύ”Vακ•Π C1
+‹Ύ”Vακ•Π C2
+‹Ύ”Vακ•Π C3
+‹Ύ”Vακ•Π C4
+¬‚q
+‹Ύ”Vακ•Π D1
+‹Ύ”Vακ•Π D2
+‹Ύ”Vακ•Π D3
+‹Ύ”Vακ•Π D4
+—Ν—Κ•¬–¶
+—–z
+σI
+Ι‰
+”~δ»›G
+—Ά
+εQf
+ιδ»‰λ
+‰Α“ή”ό
+ΰσ—
+u—¥
+‰λ“T›P2†
+‹x”“Α
+•¤—Ά
+ζΑ
+–hδ•¬–¶
+—Ν—Κ•¬–¶
+‘•”υ•ν
+‰µ‰Ί•ν
+‘•”υ–h‹ο
+‰µ‰Ί–h‹ο
+‘•”υμ‚
+‰µ‰Ίμ‚
+(–hδ•¬–¶)
+(—Ν—Κ•¬–¶)
+‘ήo
+–hδ•¬–¶
+—Ν—Κ•¬–¶
+
+
+
 Rance
 Sill
 Io

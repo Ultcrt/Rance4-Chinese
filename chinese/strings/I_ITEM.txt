@@ -1,54 +1,54 @@
- 
- 
-None
- 
-Return Bonsai
-Freonfs Letter
-Bronze Bell
-Empty Can
-Cold-resistant Circuit
-Pintel 486
-Type 100 Spy Plane
-Antidote Ball
-Holy Water
-Kanami Mirror 1
-Kanami Mirror 2
-Kanami Mirror 3
-Kanami Mirror 4
-Leila Mirror 1
-Leila Mirror 2
-Leila Mirror 3
-Leila Mirror 4
-Dragonfs Cold Medicine
-Angelfs Nectar
-Devilfs Nectar
-Mirror Fragment A1
-Mirror Fragment A2
-Mirror Fragment A3
-Mirror Fragment A4
-Tough Spray
-Strength Spray
-Mirror Fragment B1
-Mirror Fragment B2
-Mirror Fragment B3
-Mirror Fragment B4
-Mirror Fragment C1
-Mirror Fragment C2
-Mirror Fragment C3
-Mirror Fragment C4
-Mirror Fragment D1
-Mirror Fragment D2
-Mirror Fragment D3
-Mirror Fragment D4
-Aphrodisiac
-PTTP Drug
-Angel Mirror
-Seirogan
-Ryuukakusan
-Baked Potato
-Onigiri
-Mandrako
-Giltan V
+
+˜¢
+•s‘I¢
+
+•Ô‰ñ–~Í
+•¤—˜V“I‰îĞM
+Â“º—éèe
+‹óã£q
+‘ÏŠ¦“d˜H
+‰åp™Ê486
+•S®w—ß’ã@Š÷
+‰ğ“Å‹Ê
+¹…
+‰Á“Ş”ü”V‹¾ 1
+‰Á“Ş”ü”V‹¾ 2
+‰Á“Ş”ü”V‹¾ 3
+‰Á“Ş”ü”V‹¾ 4
+åQf”V‹¾ 1
+åQf”V‹¾ 2
+åQf”V‹¾ 3
+åQf”V‹¾ 4
+—³‘°Š´–`–ò
+“Vg–¨`
+ˆ«–‚–¨`
+‹¾”Váê•Ğ A1
+‹¾”Váê•Ğ A2
+‹¾”Váê•Ğ A3
+‹¾”Váê•Ğ A4
+–hŒä•¬–¶
+—Í—Ê•¬–¶
+‹¾”Váê•Ğ B1
+‹¾”Váê•Ğ B2
+‹¾”Váê•Ğ B3
+‹¾”Váê•Ğ B4
+‹¾”Váê•Ğ C1
+‹¾”Váê•Ğ C2
+‹¾”Váê•Ğ C3
+‹¾”Váê•Ğ C4
+‹¾”Váê•Ğ D1
+‹¾”Váê•Ğ D2
+‹¾”Váê•Ğ D3
+‹¾”Váê•Ğ D4
+›Z–ò
+PTTP–ò
+“Vg”V‹¾
+¢FŠà
+—³ŠpU
+Î”ÂÄ“y“¤
+”Ñ’c
+™Ö“¿f‘
+‹g¢’R V
 z
 z
 z
@@ -56,62 +56,62 @@ z
 z
 z
 z
-Seirogan 2
-Power Potato Chip
-Magic Parsley
-Potato
-High Quality Mattake
-Hirara Lemon
-Cake
-Okayu Key
-West Tower Key
-Research Key
-N Key
-S Key
-W Key
-E Key
-Storehouse Key
-Love Key
-Belief Key
-Betrayal Key
-Illusion Key
-NEC Key
-Epson Key
-Sharp Key
-Fujitsu Key
-Iron Hanny Key
-Mysterious Paper
-Rubber Gloves
+¢FŠà 2
+—Í—Ê’•Ğ
+–‚–@‹ÚØ
+“y“¤
+‚‹‰¼‘ù
+ŠóffŸEŸG
+’`ã´
+‹H”Ñèoú
+¼”V“ƒèoú
+Œ¤‹†ºèoú
+–k•”èoú
+“ì•”èoú
+¼•”èoú
+“Œ•”èoú
+–×•¨ºèoú
+ˆ¤”Vèoú
+M‹Âèoú
+”w”¾èoú
+Œ¶‘zèoú
+“ú“dèoú
+ˆ¤•¶èoú
+‰Ä•èoú
+•xm’Êèoú
+“S™û“òèoú
+•s‰Âv‹c“I†
+“ÉäPè“…
 Ballcat Charm
-Dirty Picture 1
-Famous Picture 1
-Rock-hard Poop
-Emerald
-Dirty Picture 2
-Younashi Doll
-Indulgence
-Younashi Seed
-Sakura Jar
-Sleeping Drug
-Chernen Powder
-Fever Breaker
-Diamond
-Heated Glass
-Hirara Alloy
-Ruby
-Famous Picture 2
-Famous Picture 3
-Famous Picture 4
-Famous Picture 5
-Famous Picture 6
-Famous Picture 7
-Famous Picture 8
-Famous Picture 9
-Famous Picture 10
-Famous Picture 11
-Famous Picture 12
-Stick
-Magefs Staff
+H} 1
+–¼‰æ 1
+Œ˜d“I‘å•Ö
+—Î•óÎ
+H} 2
+—m—œl‹ô
+–Æß•„
+—m—œíq
+÷‰Ô’Ù
+ˆÀ–°–ò
+Ø¢›c•²––
+‘ŞÄ–ò
+èsÎ
+‰Á”M“IàŞ—
+Šóff‡‹à
+g•óÎ
+–¼‰æ 2
+–¼‰æ 3
+–¼‰æ 4
+–¼‰æ 5
+–¼‰æ 6
+–¼‰æ 7
+–¼‰æ 8
+–¼‰æ 9
+–¼‰æ 10
+–¼‰æ 11
+–¼‰æ 12
+–Ø
+–@ñ
 Kapallafs Dagger
 Flame Staff
 Surprise Hammer
@@ -194,4 +194,4 @@ Nay Shield
 T33-type Round Shield
 T34D Trial Shield
 Full Shield
-Tulip #1
+ˆè‹à1†

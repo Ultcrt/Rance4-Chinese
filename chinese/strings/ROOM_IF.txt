@@ -1,9 +1,9 @@
-Cannot move here
-Left click to move here
-Right click for options
-Camp
-Search
-Leave room
-Search front of Rance
-Left click to search
-Right click to exit search
+无法移動到那里
+左鍵移動到指定位置
+右鍵弾出選項菜単
+営地
+調査
+離開房間
+調査蘭斯正対的地方
+左鍵調査
+右鍵退出調査
