@@ -17,5 +17,5 @@ Map
 Camp
 Search
 Look
-Left click to move
-Right click for options
+左鍵移動到指定位置
+右鍵弾出選項菜単

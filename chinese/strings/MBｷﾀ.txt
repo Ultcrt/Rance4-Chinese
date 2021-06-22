@@ -1,54 +1,54 @@
-Sharp Key
-Epson Key
-Fujitsu Key
-NEC Key
-Ballcat Charm
-Yes
-No
-Yes
-No
-Yes
-No
-Sex
-Mountain
-Rage98
-Alicesoft
-Men
-Women
-Charge
-B1F
-B2F
-B3F
-B4F
-B5F
-Hanny King
-Japan New Party
-Tears at sunset
-Refreshing love
-Sirius
-Lexington
-B1F
-B2F
-B3F
-B4F
-B5F
-B1F
-B2F
-B3F
-B4F
-B5F
-B6F
-Tousho Core B1F
-Tousho Core B2F
-Tousho Core B3F
-Tousho Core B4F
-Tousho Core B5F
-Tousho Core B6F
-Room
-Mysterious Paper
-Map
-Camp
-Search
-Look
-Left click to move
-Right click for options
+夏普鑰匙
+愛普生鑰匙
+富士通鑰匙
+日電鑰匙
+猫玉護身符
+是
+否
+是
+否
+是
+否
+做愛
+山
+凌亂98
+AliceSoft
+男性
+女性
+冲鋒
+地下1F
+地下2F
+地下3F
+地下4F
+地下5F
+哈尼王
+日本新党
+赤紅夕陽之泪
+清爽的做愛
+天狼星
+列克星敦
+地下1F
+地下2F
+地下3F
+地下4F
+地下5F
+地下1F
+地下2F
+地下3F
+地下4F
+地下5F
+地下6F
+斗将内核地下1F
+斗将内核地下2F
+斗将内核地下3F
+斗将内核地下4F
+斗将内核地下5F
+斗将内核地下6F
+房間
+不可思議的紙
+地図
+営地
+搜索
+観察
+左鍵移動到指定位置
+右鍵弾出選項菜単

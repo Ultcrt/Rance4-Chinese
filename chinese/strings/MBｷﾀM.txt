@@ -1,67 +1,67 @@
-Yes
-No
-Shop
-Talk
-Ballcat Charm
-Super Sword
-Toukichiroufs Bow
-Full Shield
-Giltan V
-Power Potato Chip
-Magic Parsley
-Power Potato Chip
-Magic Parsley
-Giltan V
-Ballcat Charm
-Dirty Picture
-Super Sword
-Toukichiroufs Bow
-Full Shield
-Buy
-Donft
-Take money
-Destroy
-Check
-Put 1,000 G in
-Put 500 G in
-Put 1 G in
-Put spit in
-Put nothing in
-Inspect jar closely
-Have someone reach in
-Sill
-Kanami
-Maria
-Feliss
-Ruby
-Yes
-No
+¥
+”Û
+w”ƒ
+‘Î˜b
+”L‹ÊŒìg•„
+’´‹‰Œ•
+“¡‹g˜Y”V‹|
+Š®®‚
+‹g¢’R V
+—Í—Ê’•Ğ
+–‚–@‹ÚØ
+—Í—Ê’•Ğ
+–‚–@‹ÚØ
+‹g¢’R V
+”L‹ÊŒìg•„
+H}
+’´‹‰Œ•
+“¡‹g˜Y”V‹|
+Š®®‚
+w”ƒ
+•s”ƒ
+”c‘K\‘–
+”jš­
+ŒŸ¸
+•ú“ü1000‹à•¼
+•ú“ü500‹à•¼
+•ú“ü1‹à•¼
+Œü—¢–Ê“fá‚
+Y›õ–ç•s•ú
+e×ŠÏ@’Ù
+”c’N“IèÇi‹
+Šó˜I
+‰Á“Ş”ü
+àó—˜ˆŸ
+äÉ—˜z
+g•óÎ
+¥
+”Û
 ???
-Leila Mirror 1
-Kanami Mirror 1
-Kanami Mirror 2
-Mirror Fragment B2
-Kanami Mirror 3
-Kanami Mirror 4
-Leila Mirror 2
-Leila Mirror 3
-Leila Mirror 4
-Sleeping Drug
-Famous Picture 2
-Famous Picture 3
-Famous Picture 4
-Insulator Armor
-Fake Magefs Clothes
-1,000 gold
-3,000 gold
-Angel Robe
-Coarse Armor 3
-T34D Trial Shield
-Kanami Mirror 1
-Kanami Mirror 2
-Kanami Mirror 3
-Kanami Mirror 4
-Leila Mirror 1
-Leila Mirror 2
-Leila Mirror 3
-Leila Mirror 4
+åQf”V‹¾ 1
+‰Á“Ş”ü”V‹¾ 1
+‰Á“Ş”ü”V‹¾ 2
+‹¾”Váê•Ğ B2
+‰Á“Ş”ü”V‹¾ 3
+‰Á“Ş”ü”V‹¾ 4
+åQf”V‹¾ 2
+åQf”V‹¾ 3
+åQf”V‹¾ 4
+ˆÀ–°–ò
+–¼‰æ 2
+–¼‰æ 3
+–¼‰æ 4
+â‰ŠZb
+–‚–@g§•i˜ïj
+1000‹à•¼
+3000‹à•¼
+“Vg‰Hˆß
+—ò¿ŠZb 3
+T34DÀŒ±Œ^‚
+‰Á“Ş”ü”V‹¾ 1
+‰Á“Ş”ü”V‹¾ 2
+‰Á“Ş”ü”V‹¾ 3
+‰Á“Ş”ü”V‹¾ 4
+åQf”V‹¾ 1
+åQf”V‹¾ 2
+åQf”V‹¾ 3
+åQf”V‹¾ 4
