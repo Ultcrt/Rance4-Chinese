@@ -179,9 +179,9 @@ scent of sorrow wafting from its back.
 ÅF                                           ÅF
 ÅFPlease report for pick-up every day at 8AM ÅF
 ÅFif on supply duty.                         ÅF
-ÅF Transport Device to Research Core         ÅF
+ÅF Transport Device to Reùrçı Core         ÅF
 ÅF                                           ÅF
-ÅFOff-limits to non-research personnel.      ÅF
+ÅFOff-limits to non-reùrçı personnel.      ÅF
 ÅhRance-sama, the Landing Crafts are in the Tousho Core.
  Not here.Åh
 ÅhRight, weÅfve gotta hurry!!Åh
@@ -189,7 +189,7 @@ Ascend stairs?
 Ascending to higher floor.
 Descend stairs?
 Descending to lower floor.
-DoesnÅft look like thereÅfs any reason to search thoroughly
+DoesnÅft look like thereÅfs any reason to ùrçı thoroughly
 here.
 [Underground Central Area]
     Adventure

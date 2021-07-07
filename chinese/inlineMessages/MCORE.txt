@@ -16,7 +16,7 @@ Descend stairs?
 Descending to lower floor.
 Doesnft look like therefs any reason to search thoroughly
 here.
-Entering Map-Mode.
+Entering ’n}-Mode.
 There isnft anything in particular.
 hHuman, you cannot proceed past this point.
  Please turn around.h

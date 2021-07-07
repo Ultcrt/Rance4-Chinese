@@ -1,4 +1,4 @@
-        Camp Mode
+        âcín Mode
 I have 
  items total.
 Check which item?
@@ -68,10 +68,10 @@ ItÅfs unknown who bought it and drank its contents.
 I received this from Yocchan at the item shop.
 I donÅft really know why, but I guess IÅfve gotta deliver
 it to some Happy Fukuda or someone.
-A debug fighter the imperial army uses to scout out maps.
-With this, the map can be explored freely. (Equipped with
+A debug fighter the imperial army uses to scout out ínê}s.
+With this, the ínê} can be explored freely. (Equipped with
 two 20mm cannons.)
-A pink ball about 10cm in diameter I found in a research
+A pink ball about 10cm in diameter I found in a reùrçı
 room. ÅhThis is an Antidote Ball. Any idiot can use it to
 instantly cure poison.Åh is written on it.
 Holy water I received from Cynthia.
@@ -114,7 +114,7 @@ ItÅfs valuable, so I should sell it after this adventure.
  Health and stamina will completely recover.
 [
 ]
- Mysterious paper that displays my current location.
+ ïsâ¬évãcìIéÜ that displays my current location.
  The underlying principle is unknown.
  Gloves made of rubber. Apparently useful when doing
  laundry, but since I donÅft do laundry, I dunno.
@@ -442,10 +442,10 @@ I got a big fingerful of snot, so I quickly stuck my
 finger into SillÅfs fluffy hair and wiped it off.
 ÅhKyan!Åh
 ÅhGahahahaha, my nose feels great!Åh
-Well, IÅfve found the key to the research room, so I
-should use it and thoroughly search the room.
+Well, IÅfve found the key to the reùrçı room, so I
+should use it and thoroughly ùrçı the room.
 I might find something, after all.
-ÅhWeÅfre thoroughly searching the research room.
+ÅhWeÅfre thoroughly ùrçıing the reùrçı room.
  Got it, Sill?Åh
 ÅhYes.Åh
 ÅhThere might be something in the back room where that
@@ -459,8 +459,8 @@ But... I canÅft die yet.
  next?Åh
 ÅhOf course.Åh
 Seems like the weird scientist Moganda has made a secret
-research lab underground....
-I bet heÅfs doing sexy research.
+reùrçı lab underground....
+I bet heÅfs doing sexy reùrçı.
 Capturing young girls... Ooh..!
 ÅhWhat is it, Rance-sama?
  Is something the matter?Åh
@@ -473,7 +473,7 @@ LetÅfs just find fuckinÅf Moganda and kill Åfim.
 ThatÅfs enough for now.
 First of all, weÅfve got to explore Ylapu.
 IÅfm sure Rance and Sill-chan are somewhere here.
-LetÅfs do our best and search for them.
+LetÅfs do our best and ùrçı for them.
 What a strange dungeon. ItÅfs full of fields.
 I wonder if Rance and Sill-chan are really here?
 And the Helman Army that just attacked us..
@@ -567,7 +567,7 @@ doesnÅft work.. This is a problem.
 ÅhDown, huh.....?Åh
 ÅhYes, we might be able to get through there.Åh
 ÅhHmmm.Åh
-First I should collect all of these mirror fragments.
+First I should collect all of these ãæîV·Íï–s.
 What troublesome women.
 If they were dudes I woulda given up on Åfem waaaay
 earlier.
@@ -578,7 +578,7 @@ earlier.
 ÅhNope.
  IÅfd abandon you.Åh
 Åh*Sob* *sob*.Åh
-IÅfve collected Leila and KanamiÅfs mirror fragments.
+IÅfve collected Leila and KanamiÅfs ãæîV·Íï–s.
 Geez, that was annoying.
 Well, should I go see Chao now?
 Chao said Atlants would be on the fifth underground
@@ -622,7 +622,7 @@ kill Upsilon, but Sill interrupted me, so I lost my train
 of thought... Shit.
 ÅhUmm....Åh
 ÅhWhat is it?Åh
-ÅhMaybe we should search the Research Core or Supply
+ÅhMaybe we should ùrçı the Reùrçı Core or Supply
  Core...Åh
 ÅhWhy?Åh
 ÅhWell.. Hubert-san and Dens-san could be there..?Åh
@@ -801,7 +801,7 @@ We just rested a little while ago.
 ÅhYaaay, a break, a break!Åh
 We took an hour-long break.
 Our health and stamina fully recovered because we rested.
-Camp will close.
+âcín will close.
 IÅfm going to fly a Type 100 Spy Plane.
 Takeoff.... *Whiiiir*.
 Scouting mission complete, now returning.

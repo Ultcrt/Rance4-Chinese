@@ -18,10 +18,10 @@ Dirty Picture 1
 Cold-resistant Circuit
 Dragon’s Cold Medicine
 S Key
-Mysterious Paper
-Map
-Camp
-Search
+不可思議的紙
+地図
+営地
+搜索
 Look
 左鍵移動到指定位置
 右鍵弾出選項菜単

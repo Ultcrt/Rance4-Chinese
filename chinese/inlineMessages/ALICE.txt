@@ -25,7 +25,7 @@ mind. So I think the operability improved a lot.
 I think Plum-kun, who was in charge of the porting
 this time, really did his best on that sort of thing.
 ------------------------------------Programmer  WAO--
-I think thereÅfs still a lot of research to be done on
+I think thereÅfs still a lot of reùrçı to be done on
 making mouse controls convenient, but I think IÅfll aim
 for improvements with every work until we perfect them.
 ------------------------------------Programmer  WAO--
@@ -65,7 +65,7 @@ ItÅfs a little disappointing that I canÅft show them
 all off in every game we develop.
 ------------------------------------Programmer  ÑYÅ¢Åù--
 It might be in magazines and stuff by the time this
-is on sale, but the ones where the map is all around
+is on sale, but the ones where the ínê} is all around
 you are pretty fun. (lol)
 ------------------------------------Programmer  ÑYÅ¢Åù--
 This is kind of related to the mouse operability
@@ -447,7 +447,7 @@ It was Rance for a whoooole year.
 Design and key frames of male characters other than
              Rance-kun and two female(?) characters
 Design, key frames, other stuff of male monsters
-MAP, CGs
+ínê}, CGs
 Unit CGs other than Gal Monsters
 Face CGs for the characters I drew
 Toushin Toshi-related setting

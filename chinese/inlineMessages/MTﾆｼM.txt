@@ -5,7 +5,7 @@
 Leave the room?
 Ascend stairs?
 Ascending to higher floor.
-F Hanny Shop For Explorers (True)  F
+F ™û“ò¤“X For Explorers (True)  F
 FWe sell good, cheap things.       F
 FPlease come shop with your friend.F
 ........
@@ -59,7 +59,7 @@ Sill works at getting the treasure chest open.
  inside.h
 hAlright, hold onto it.h
 hYes.h
-Hanny hWelcome to the Hanny Shop, your local place of
+Hanny hWelcome to the ™û“ò¤“X, your local place of
        rest!h
 Hanny hPlease buy something.h
 Hanny hItfs been a while since Ifve had any human

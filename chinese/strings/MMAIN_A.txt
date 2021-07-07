@@ -1,7 +1,7 @@
 Iron Hanny Key
 Belief Key
 Betrayal Key
-Illusion Key
+幻想鑰匙
 Naginata
 Push
 Pull
@@ -20,10 +20,10 @@ No
 Surface Central Area
 Room
 Pintel 486
-Mysterious Paper
-Map
-Camp
-Search
+不可思議的紙
+地図
+営地
+搜索
 Look
 左鍵移動到指定位置
 右鍵弾出選項菜単

@@ -6,9 +6,9 @@ Underground Control Area
 Room
 Return
 Charge in
-Mysterious Paper
-Map
-Camp
+不可思議的紙
+地図
+営地
 Search
 Look
 左鍵移動到指定位置

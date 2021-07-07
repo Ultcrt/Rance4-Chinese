@@ -1,5 +1,5 @@
-Mirror Fragment A1
-Mirror Fragment A2
+‹Ύ”Vακ•Π A1
+‹Ύ”Vακ•Π A2
 Yes
 No
 Yes
@@ -8,8 +8,8 @@ Open
 Donft
 ????
 Power Up Sword
-Mirror Fragment A1
-Mirror Fragment A2
+‹Ύ”Vακ•Π A1
+‹Ύ”Vακ•Π A2
 E Key
 Heated Glass
 Diamond
@@ -24,6 +24,6 @@ Blue button
 Black button
 Red button
 Donft push
-Research Key
+Rerυ Key
 Holy Water
 Antidote Ball

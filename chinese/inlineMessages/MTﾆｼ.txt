@@ -11,11 +11,11 @@ Alright, Ifm gonna look for monsters.
 (Look look look)
 Unfortunately, I couldnft find any monsters.
 Unfortunately, I couldnft find any monsters.
-The door is locked (and requires the West Tower Key).
-Used the West Tower Key to open the door.
+The door is locked (and requires the ¼”V“ƒ Key).
+Used the ¼”V“ƒ Key to open the door.
 The door cannot be opened.
 The door wonft open.
-Leaving the West Tower.
+Leaving the ¼”V“ƒ.
 The door wonft open.
 The door wonft open.
 The door wonft open.
@@ -63,7 +63,7 @@ Alright, letfs go to the item shop!
 When I opened the door, a KyanKyan flew into me.
 hOwah, what the hell!!?h
 KyanKyan hLetfs play, letfs play!!h
-[West Tower 
+[¼”V“ƒ
 F]
     Adventure
 Day 

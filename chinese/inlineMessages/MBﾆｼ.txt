@@ -314,7 +314,7 @@ Rick joined the party.
 Hanny hHello.
        This is my private property, so youfll have to pay
        a toll to get through.h
-Hanny hThe toll is an Onigiri or a Seirogan.
+Hanny hThe toll is an Onigiri or a ¢FŠà.
        Either will do.h
 Give him...?
 Hanny hYou donft want to pass, huh?
@@ -326,7 +326,7 @@ Handed (Onigiri) over to Hanny.
 Hanny hThank you! Go ahead, pass.h
 The Hanny let us through.
 We went down the northward path.
-Handed Seirogan over to Hanny.
+Handed ¢FŠà over to Hanny.
 Hanny hThanks, these are my favorite!h
 The Hanny let us through.
 We went down the southward path.

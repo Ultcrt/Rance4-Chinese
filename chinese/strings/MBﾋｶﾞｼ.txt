@@ -1,22 +1,22 @@
-Research Key
+Rerõ Key
 Yes
 No
 Yes
 No
 Yes
 No
-Research Core B1F
-Research Core B2F
-Research Core B3F
-Research Core B4F
-Research Core B5F
+Rerõ Core B1F
+Rerõ Core B2F
+Rerõ Core B3F
+Rerõ Core B4F
+Rerõ Core B5F
 Room
-Research Room
+Rerõ Room
 Cell
 Passageway
-Mogandafs Research Room
+Mogandafs Rerõ Room
 Mogandafs Operating Room
-Magic Metalworker Research Room
+Magic Metalworker Rerõ Room
 Magic Metalworker Operating Room
 Medicine Room
 Tuning Room
@@ -25,10 +25,10 @@ E Key Room
 Ignore warning
 Turn back
 Antidote Ball
-Mysterious Paper
-Map
-Camp
-Search
+•s‰Âv‹c“I†
+’n}
+‰c’n
+rõ
 Look
 ¶Œ®ˆÚ“®“w’èˆÊ’u
 ‰EŒ®’eo‘I€Ø’P

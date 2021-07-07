@@ -2,7 +2,7 @@ Yes
 No
 Yes
 No
-Camp
-Search
+営地
+搜索
 左鍵移動到指定位置
 右鍵弾出選項菜単

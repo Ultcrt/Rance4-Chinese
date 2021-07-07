@@ -1,15 +1,15 @@
-Yes
-No
-Yes
-No
-Underground Power Area
-Room
-Magic Column Room
-Magic Supply Room
-Mysterious Paper
-Map
-Camp
-Search
-Look
+上楼
+取消
+下楼
+取消
+下部動力区
+房間
+魔气柱室
+注魔室
+不可思議的紙
+地図
+営地
+搜索
+観察
 左鍵移動到指定位置
 右鍵弾出選項菜単

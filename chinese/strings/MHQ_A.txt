@@ -9,10 +9,10 @@ Yes
 No
 Surface Control Area
 Room
-Mysterious Paper
-Map
-Camp
-Search
+不可思議的紙
+地図
+営地
+搜索
 Look
 左鍵移動到指定位置
 右鍵弾出選項菜単

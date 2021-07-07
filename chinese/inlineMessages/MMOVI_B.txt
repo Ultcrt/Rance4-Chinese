@@ -1,8 +1,8 @@
    [
 Passageway
 Room
-Magic Column Room
-Magic Supply Room
+–‚Ÿƒ’Œº
+’–‚º
 ]
 (Room-Mode)
  There are stairs leading up.
