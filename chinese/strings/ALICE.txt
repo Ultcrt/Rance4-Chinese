@@ -1,15 +1,15 @@
-Original Staff
-Win95 Staff
-Prophecy
-BGM-Mode
-SE-Mode
-Alicesoft Commercials
-Return
-WAO (Program, System Planning)
-PLUM’F (Script Changes Planning & Production)
-Shige (Installer, etc. Planning & Production)
-Kazushi (Program, System Production)
- ---  Return  ---- 
+原版制作人員
+Win95版制作人員
+毎日預言
+BGM模式
+SE模式
+業務部門的广告
+返回
+WAO (SYSTEM程序設計)
+PLUM’F (脚本変更 設計制作)
+しげ (安装包等 設計制作)
+かずし (SYSTEM程序制作)
+ ---  返回  ----
 . 1
 . 2
 . 3
@@ -33,7 +33,7 @@ Kazushi (Program, System Production)
 .21
 .22
 .23
-Return
+返回
 . 1
 . 2
 . 3
@@ -77,56 +77,56 @@ Return
 .41
 .42
      Pro student -G-    
- Uchuu Kaitou Funny Bee 
-AMBIVALENZ -Ambivalence-
-  Ayumi-chan Monogatari 
-        User Club       
-        Internet        
-         Return         
+    宇宙快盗ファニーBee
+   AMBIVALENZ -二律背反-
+      あゆみちゃん物語
+        粉絲倶楽部
+          网絡
+          返回
 .             TADA
 .           YUKIMI
-.            Purin
-.      Kuribayashi
+.            ぷりん
+.              栗林
 .              WAO
 .           PLUM’F
-.            Shige
-.        Yoshitaka
-.          Chiibou
+.              しげ
+.           ヨシタカ
+.           ちーぼう
 .            KAORI
 .                K
 .              YOK
-.          Pukapii
-.           Mucchi
-.        Chomoyama
-.           Gencha
-.          Nakajii
+.          ぷかぴー
+.            むっち
+.          ちょも山
+.             弦茶
+.          なかじー
 .              YAS
-.             Tori
-.             Imam
-. Bizarre Tuna Man
-.            Musha
+.              とり
+.           イマーム
+.       怪奇マグロ男
+.              武者
 .            ORION
-.    Akino Koorogi
-.Taira Kunitsukami
-.  Kirishima Senya
-.           Bassun
-.       Chimiroimu
-.        Sanjuushi
-.         -Return- 
-Disneyland
-Puroland
-Harmonyland
-Oxygen’s O
-No
-Yes
-M
-F
-Yes
-No
-Yes
-No
-CG Girl
-Music
-Back
-No
-Yes
+.       秋野こおろぎ
+.            醍拉祇
+.          桐島千夜
+.           ばっすん
+.         ちみろいむ
+.            三重紙
+.         -返回-
+迪斯尼楽園
+梦幻楽園
+和諧楽園
+O元素
+不厭倦
+厭倦了
+男性
+女性
+是
+否
+是
+否
+CG女孩
+音楽故事
+返回
+否
+是

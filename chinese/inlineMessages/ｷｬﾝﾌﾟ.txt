@@ -61,7 +61,7 @@ of the diner to Kiseda of the Youth League.
 Fwhat you canft, so show him respect.  F
 A bell made of bronze.
 Itfs broken, so the only noises it makes sound creepy.
-An empty can with [Important Empty Can] written on it.
+An empty can with [Important ‹óã£q] written on it.
 Itfs unknown who bought it and drank its contents.
  A special item that creates a warm space.
  With this, youfre sure to be fine even in cold places.
@@ -72,11 +72,11 @@ A debug fighter the imperial army uses to scout out ’n}s.
 With this, the ’n} can be explored freely. (Equipped with
 two 20mm cannons.)
 A pink ball about 10cm in diameter I found in a rerõ
-room. hThis is an Antidote Ball. Any idiot can use it to
+room. hThis is an ‰ğ“Å‹Ê. Any idiot can use it to
 instantly cure poison.h is written on it.
 Holy water I received from Cynthia.
 Apparently squeezed juice from Younashi is inside....
-A piece of the mirror Kanamifs trapped in.
+A piece of the mirror ‰Á“Ş”üfs trapped in.
 A piece of the mirror Leilafs trapped in.
 A piece of Mirror A. A girl is trapped inside.
 A piece of Mirror B. A girl is trapped inside.
@@ -95,7 +95,7 @@ mood. I should have some fun and use it on Sill.
 A drug the suspicious PTTP Sect made.
 Apparently it makes any girl silky smooth and deliciously
 flat....
-A special mirror Merim got from Willis.
+A special mirror ”~ä»›G got from Willis.
 Itfs a special item with healing power.
 Itfs valuable, so I should sell it after this adventure.
 [
@@ -129,7 +129,7 @@ Itfs valuable, so I should sell it after this adventure.
  I should throw it away soon. Ifm not even sure why I
  have it.. Yeah, letfs get rid of this.
  A stone that shines green.
- A picture a perverted mouse took of Julia.
+ A picture a perverted mouse took of éä»‰ë.
  Shefs not sexy, but itfs a dirty picture.
  Itfs a Younashi doll and thatfs all it is.
  I feel like I wasted some money.
@@ -188,8 +188,8 @@ That item cannot be used.
 Itfs no time to use this item and stroll the fuck back to
 town.
 Itfs no time to use that.
-We canft leave Julia here.
-We canft leave Rick here.
+We canft leave éä»‰ë here.
+We canft leave —¢ here.
 I held the Return Bonsai in both of my hands.
 I carefully spun it 2, 3 times.
 Then finally a light shone out from the center of the
@@ -270,8 +270,8 @@ Oichi hThank you.h
 Oichi hThanks to you, Ifm finally free from Atlantafs
        curse."
 hYup.h
-Oichi hAs thanks, Ifll give you this Strength Spray.h
-Received Strength Spray.
+Oichi hAs thanks, Ifll give you this —Í—Ê•¬–¶.h
+Received —Í—Ê•¬–¶.
 Oichi hWell then, see you.h
 Seems like I canft use that here.
 hRance-sama, we canft use the 
@@ -291,12 +291,12 @@ Armor [
 ]
 Shield [
 ]
- used Tough Spray on equipped 
+ used –hŒä•¬–¶ on equipped
 .
 fs protection went from 
 |„
 .
- used Strength Spray on equipped 
+ used —Í—Ê•¬–¶ on equipped
 .
 fs attack went from 
 |„
@@ -410,7 +410,7 @@ underground labyrinths.
 ƒƒƒ LV1F
  „„„
 The ghost girl Naturi who was in the dungeon.
-Ifve gotta save her and find the E Key...
+Ifve gotta save her and find the “Œ•”èoú...
 hSill.h
 hYes, Rance-sama?
  What is it?h
@@ -425,12 +425,12 @@ I suddenly grabbed Sillfs breasts and fondled them.
  some boobs to grab.
  Itfs just like having a lighter for when you want fire.h
 h....Okay.h
-Ifve gotta obtain that key for Io.
+Ifve gotta obtain that key for ˆÉ‰œ.
 I feel like I could do anything for her for some reason.
-Io wants me to find four keys.
+ˆÉ‰œ wants me to find four keys.
 Well, therefs nothing a genius adventurer like me
 couldnft find.
-I can see Iofs grateful face already!
+I can see ˆÉ‰œfs grateful face already!
 .............
 h.............h
 hIs something wrong, Rance-sama?h
@@ -458,7 +458,7 @@ But... I canft die yet.
 hRance-sama, are you thinking about what we should do
  next?h
 hOf course.h
-Seems like the weird scientist Moganda has made a secret
+Seems like the weird scientist ”œŠ±’B has made a secret
 rerõ lab underground....
 I bet hefs doing sexy rerõ.
 Capturing young girls... Ooh..!
@@ -467,9 +467,9 @@ Capturing young girls... Ooh..!
 hShut up, donft interrupt my thoughts.h
 (Smack, hit, kick)
 h*So...b*h
-Letfs find the E Key.
+Letfs find the “Œ•”èoú.
 It should be somewhere around here.
-Letfs just find fuckinf Moganda and kill fim.
+Letfs just find fuckinf ”œŠ±’B and kill fim.
 Thatfs enough for now.
 First of all, wefve got to explore Ylapu.
 Ifm sure Rance and Sill-chan are somewhere here.
@@ -481,15 +481,15 @@ This bugs me. What could their objective be..?
 Oh.. If the Helman Army is here, then I wonder if theyfve
 also invented a flying machine? Whatfll I do if it works
 better than my Tulip?
-Ifm surprised that Rick-san changes so much just from
+Ifm surprised that —¢-san changes so much just from
 losing his helmet.
 I bet this is a hsplit personalityh thing.
 Anyway, wefre gonna have a lot of problems if we donft
-find his helmet and get him back to the strong Rick-san.
+find his helmet and get him back to the strong —¢-san.
 We donft know when the Helman Army will attack again.
 The helmet probably fell somewhere in that aqueduct.
 We should be able to find it if we look there.
-Itfs good that we found his helmet and Rick-san is back
+Itfs good that we found his helmet and —¢-san is back
 to his reliable self.
 Looks like it would be good to explore the dungeon more
 to find Rance.
@@ -497,14 +497,14 @@ to find Rance.
 Ifm starting to worry...
 The Helman Armyfs probably gonna attack again..
 Hmmmmm.
-Rick and Julia from Leazas have joined my party.
-Kanami, Leila, Maria, and Shizuka should also be here
+—¢ and éä»‰ë from Leazas have joined my party.
+‰Á“Ş”ü, Leila, àó—˜ˆŸ, and u—¥ should also be here
 somewhere.
 First, letfs save them and claim, oh, 5 rounds or so of
 sex as our reward.
 They were lost in the Supply Core. Now, letfs go save
 fem.
-hKanami, I went through all this trouble to save you, so
+h‰Á“Ş”ü, I went through all this trouble to save you, so
  you better be grateful forever, okay?h
 h....Well, I guess I am a little...h
 hA little!? What the heckfs fa littlef to the man who
@@ -513,10 +513,10 @@ They were lost in the Supply Core. Now, letfs go save
  rest of my life with my body!f?h
 hWhy on earth would I say something like that, loser?h
 hYou ungrateful bitch.h
-Merim, the Helman soldier, has suddenly become an ally.
+”~ä»›G, the Helman soldier, has suddenly become an ally.
 I donft even have to make an effort and girls just flock
 to my beauty. Must be my natural talent.
-Anyway, this Merim girl could be useful at some point, so
+Anyway, this ”~ä»›G girl could be useful at some point, so
 I should probably have her join the party.
 Those Helman bastards have added a pretty powerful
 comrade to their ranks.
@@ -535,17 +535,17 @@ take this opportunity to grab the keys.
 Looks like the dragon on the lowest floor of the Defense
 Core has the key. Ifm sure itfd be easy to kill it and
 take the key, but a dragon might be a little dangerous.
-Well, Ifve gotta find the Dragonfs Cold Medicine he
+Well, Ifve gotta find the —³‘°Š´–`–ò he
 requested if I want to proceed. Tch, this is pissing me
 off. I canft believe I have to stoop to this....
 Anyway, the Cold Medicine should be in the biggest tower,
 the hBuoyancy Staff.h
 I guess Ifll go there.
-Ifve obtained the Dragonfs Cold Medicine.
+Ifve obtained the —³‘°Š´–`–ò.
 Now all Ifve gotta do is get back to the dragon.
 ƒƒƒ LV 4F
 „„„
-Ifve obtained the S Key.
+Ifve obtained the “ì•”èoú.
 The last key is the N Key in the Tousho Core.
 Ifll definitely find it.
 But the warp point to the Tousho Core is broken and
@@ -555,8 +555,8 @@ doesnft work.. This is a problem.
 hI will specially accept any proposals you have as to our
  next course of action, so spill.h
 hWell, out of the four keys required to move this Toushin
- Toshi, Rance-sama has the S Key and the Helman Army has
- the W Key and the E Key.h
+ Toshi, Rance-sama has the “ì•”èoú and the Helman Army has
+ the W Key and the “Œ•”èoú.h
 hI think we should prioritize obtaining the final N Key.h
 hWell, of course, but to get to the Tousho Core....h
 hYes, we canft get there because the warp device is
@@ -578,7 +578,7 @@ earlier.
 hNope.
  Ifd abandon you.h
 h*Sob* *sob*.h
-Ifve collected Leila and Kanamifs ‹¾”Váê•Ğs.
+Ifve collected Leila and ‰Á“Ş”üfs ‹¾”Váê•Ğs.
 Geez, that was annoying.
 Well, should I go see Chao now?
 Chao said Atlants would be on the fifth underground
@@ -622,17 +622,17 @@ kill Upsilon, but Sill interrupted me, so I lost my train
 of thought... Shit.
 hUmm....h
 hWhat is it?h
-hMaybe we should rõ the Rerõ Core or Supply
+hMaybe we should rõ the Œ¤‹†ŠjS or Supply
  Core...h
 hWhy?h
-hWell.. Hubert-san and Dens-san could be there..?h
+hWell.. ‹x”Œ“Á-san and Dens-san could be there..?h
 hThose Helman guys, huh.h
 hTheir commander Bitch is dead now, so if we talk to
  them, Ifm sure theyfll join us.
  Theyfre good people.h
 h......I donft want any dudes on my team.h
 h..........h
-Freak and Hubert, two Helman men, have joined my party.
+•¤—¢ and ‹x”Œ“Á, two Helman men, have joined my party.
 I didnft want to team up with filthy men, but Ifm sure
 theyfve got some use as meat shields.
 Ifll make them take Upsilonfs attacks, and while itfs
@@ -655,7 +655,7 @@ Phew, taking out those Magic Columns was tiring, even for
 me.
 Wefll fight Upsilon after resting a bit.
 I canft belive Cynthia got abducted by monsters.. Shit,
-it was a mistake to leave protecting the town to Shizuka
+it was a mistake to leave protecting the town to u—¥
 and those incompetents.
 Anyway, wefre fighting Upsilon.
 And itfs the final battle, so I wonft be able to win
@@ -805,9 +805,9 @@ Our health and stamina fully recovered because we rested.
 Ifm going to fly a Type 100 Spy Plane.
 Takeoff.... *Whiiiir*.
 Scouting mission complete, now returning.
-Io asks Rance, hI want to.. tease your devil. Can I?h
+ˆÉ‰œ asks Rance, hI want to.. tease your devil. Can I?h
 Sure.
-Io ties Feliss up and sprinkles holy water onto her.
+ˆÉ‰œ ties Feliss up and sprinkles holy water onto her.
 The holy water releases intense steam, burning Felissf
 skin.
 Rance intervenes as itfs just too cruel.

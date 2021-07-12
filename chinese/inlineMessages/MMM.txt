@@ -1,7 +1,7 @@
    [
 Passageway
 Room
-Illusion Room
+Œ¶‰e–[ŠÔ
 Blue Passageway
 Red Passageway
 Purple Passageway
@@ -44,7 +44,7 @@ The door wonft open.
 hYes.h
 We stood in the center of the magic circle on the ground.
 Ascend stairs?
-hWhatfs wrong, Sill?
+hWhatfs wrong, Šó˜I?
  Hurry up.h
 hRance-sama, the stairs are blocked with rubble.
  We canft use them.h
@@ -68,10 +68,10 @@ I was sent flying by mysterious sound effects and some
 kind of shock wave.
 hWhat happened, Rance-sama?h
 hWhat do you mean? That huge shock wave....
- Sill, are you okay??h
+ Šó˜I, are you okay??h
 hYes, Ifm fine...h
 The shock waves were enough to send ME flying, and yet
-Sillfs standing there like everythingfs perfectly fine.
+Šó˜Ifs standing there like everythingfs perfectly fine.
 How dare she!
 hShit, what the hellfs going on?
  Stupid.. uwah!h
@@ -80,7 +80,7 @@ How dare she!
 (Beep beep boooop)
 Mysterious shock waves assaulted me again and I
 collapsed.
-And yet... Sillfs fine.
+And yet... Šó˜Ifs fine.
 hRance-sama, are you okay?h
 hShut up! Why only me..?h
 hI felt it too.h
@@ -89,11 +89,11 @@ And yet... Sillfs fine.
  Waah, waah!h
 hWhat does this mean, Rance-sama?
  Itfs only me...?h
-.. hItfs because youfre a mage, Sill-chan.h
-hShizuka-san!h
-Just then, Masou Shizuka, one of my women, appeared.
-hLooks like Ifve found Sill-chan and Rance.h
-hHey, Shizuka!
+.. hItfs because youfre a mage, Šó˜I-chan.h
+hu—¥-san!h
+Just then, Masou u—¥, one of my women, appeared.
+hLooks like Ifve found Šó˜I-chan and Rance.h
+hHey, u—¥!
  What the heck are you doing here?h
 hWhat I do is my own business, isnft it?
  Itfs got nothing to do with you.h
@@ -109,7 +109,7 @@ Just then, Masou Shizuka, one of my women, appeared.
  here.
  I donft care about Leazas and Helman anymore.h
 hWhat the hell are you talking about?h
-hUmm.. Shizuka-san, about what you were saying earlier
+hUmm.. u—¥-san, about what you were saying earlier
  about me being a mage..?h
 hOh right, that.
  Therefs a Mage Barrier on this passageway.
@@ -119,7 +119,7 @@ Just then, Masou Shizuka, one of my women, appeared.
 hNo.h
 hThatfd be a waste of precious studying time.
  Well, see you.h
-Shizuka disappeared down the passageway.
+u—¥ disappeared down the passageway.
 hWait, you bitch!!h
 (Beeeep)
 (Booooop)
@@ -140,7 +140,7 @@ I was blown away with a strange sound.
 hRance, and?h
 hYeah, Ifm Rance-sama!h
 hWell then, Ifm busy, so see you.h
-Shizuka tried to leave quickly.
+u—¥ tried to leave quickly.
 hWait a second.h
 hWhat do you want?h
 hThere should be medicine for dragons somewhere in this
@@ -162,7 +162,7 @@ Shizuka tried to leave quickly.
 hShizuka, of course.
  Shefs amazingly stupid to defy me.h
 h...I donft think thatfs true...h
-hSill, fd you say something?h
+hŠó˜I, fd you say something?h
 hNo, nothing.h
 hHmm, Shizukafs sure taking her sweet time.
  If she canft even run this simple an errand, shefs worse
@@ -175,10 +175,10 @@ Shizuka tried to leave quickly.
  favor??
  Seriously.h
 hI got it for you.
- Here, Dragonfs Cold Medicine.h
-I received Dragonfs Cold Medicine from Shizuka.
+ Here, —³‘°Š´–`–ò.h
+I received —³‘°Š´–`–ò from Shizuka.
 hThank you very much, Shizuka-san.h
-hWell then, see you, Sill-chan.
+hWell then, see you, Šó˜I-chan.
  Good luck protecting him.h
 hWhat was that!!?h
 Giggling, Shizuka disappeared into the passageway.
@@ -212,7 +212,7 @@ I was sent flying by creepy noises and a shock wave.
 hUwah, shit!
  Didnft work, huh?h
 hItfs too bad, Rance-sama.h
-hSill, I hope youfre not feeling all superior right now.h
+hŠó˜I, I hope youfre not feeling all superior right now.h
 hEh? Of course not.h
 hNo, you definitely are!
  You looked at me with a face like fI can get through
@@ -223,12 +223,12 @@ I was sent flying by creepy noises and a shock wave.
 (Hit hit hit hit)
 (Kick kick kick kick wham)
 h*Sob* *sob* *sob*.h
-I took out my anger on Sill.
+I took out my anger on Šó˜I.
 hEh...? Rance.h
 I ran right into Shizuka, who was walking through the
 passageway, carrying a book.
 hGahahahahahaha, Rance-sama appears!h
-hSill-chan appears too!h
+hŠó˜I-chan appears too!h
 hHow? Howfd you get in here, Rance?
  Only mages should be able to!h
 hNothingfs impossible for me!h
@@ -243,7 +243,7 @@ passageway, carrying a book.
  See you.h
 hIsnft that a little mean, Shizuka?
  Letfs all work together and...h
-hMaria, you were a good friend, but wefre not destined to
+hàó—˜ˆŸ, you were a good friend, but wefre not destined to
  walk the same path in life.h
 hShizuka....h
 With that, Shizuka ran off.

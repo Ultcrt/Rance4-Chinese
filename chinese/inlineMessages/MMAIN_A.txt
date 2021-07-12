@@ -18,8 +18,8 @@ The door wonft open.
 (Creeeeeeak)
 The door opened.
 hAlright, wefre goinf in.h
-The door is locked (and requires the Iron Hanny Key).
-Used the Iron Hanny Key to open the door.
+The door is locked (and requires the “S™û“òèoú).
+Used the “S™û“òèoú to open the door.
 The door cannot be opened.
 The door cannot be opened.
 hRance-sama, it looks like this transport device is
@@ -30,11 +30,11 @@ The door cannot be opened.
  else to get back, but if it comes to it, we can always
  use a Return Bonsai, so we should be okay.h
 hI guess youfre right.h
-The door is locked (and requires the Belief Key).
-Used the Belief Key to open the door.
+The door is locked (and requires the M‹Âèoú).
+Used the M‹Âèoú to open the door.
 The door cannot be opened.
-The door is locked (and requires the Betrayal Key).
-Used the Betrayal Key to open the door.
+The door is locked (and requires the ”w”¾èoú).
+Used the ”w”¾èoú to open the door.
 The door cannot be opened.
 The door is locked (and requires the Œ¶‘zèoú).
 Used the Œ¶‘zèoú to open the door.
@@ -43,9 +43,9 @@ The door wonft open.
 The door wonft open.
 hOh, somethingfs there!h
 hWhat?h
-Kanami found something like a sword in the darkness.
+‰Á“Ş”ü found something like a sword in the darkness.
 hItfs a naginata.h
-Obtained Naginata.
+Obtained “ã“.
 The door was shut tight and wouldnft open.
 It seems like itfs locked, but I donft see a keyhole.
 hRance-sama, what should we do?h
@@ -93,7 +93,7 @@ Science hLooks like an uninvited guest.
 F                                           F
 FPlease report for pick-up every day at 8AM F
 Fif on supply duty.                         F
-F Transport Device to Rerõ Core         F
+F Transport Device to Œ¤‹†ŠjS         F
 F                                           F
 FOff-limits to non-rerõ personnel.      F
 hTherefs a transport device, Rance-sama.
@@ -186,7 +186,7 @@ anything to avoid it.. Ufufufu.
 hShut up.h
 h.....h
 hThank you very much.
- My name is Io Ishtar.h
+ My name is ˆÉ‰œ Ishtar.h
 hI came to this dungeon to pick bamboo shoots, but I was
  attacked by a monster that appeared out of nowhere...h
 hI see, that must have been terrible.h
@@ -199,7 +199,7 @@ anything to avoid it.. Ufufufu.
 hRight, you understand well.
  Ifm a nice guy, so if you donft have any money....h
 hPlease allow me to thank you.h
-Io stared into my eyes.
+ˆÉ‰œ stared into my eyes.
 h.........h
 hIn thanks, Ifll give you.. everything.h
 h..........h
@@ -207,7 +207,7 @@ Io stared into my eyes.
 h....Okay.h
 hRance-san, youfll do me a favor, wonft you?h
 hY.. yeah.h
-Ifll listen to any request from my beloved Io.
+Ifll listen to any request from my beloved ˆÉ‰œ.
 hRance-sama, Rance-sama...!h
 hWhat did you do to Rance-sama!!?h
 hI didnft really do anything.h
@@ -219,7 +219,7 @@ Ifll listen to any request from my beloved Io.
  If you donft, Ifll.. Ifll defeat you!h
 hHmm..? I see.h
 hRance-saaan, that Sill girlfs being mean to me!h
-Io suddenly started crying and clung to Rance.
+ˆÉ‰œ suddenly started crying and clung to Rance.
 hWhat!? Sill is?h
 hNo, Rance-sama! Rance-sama, that girl cast a spell on
  you..!h
@@ -228,15 +228,15 @@ Io suddenly started crying and clung to Rance.
 (Hit hit hit hit)
 h.....Rance-sama!h
 hGot it, Sill?
- Donft do anything to Io anymore. Got it?h
-hIo, I scolded Sill, so please forgive her.h
+ Donft do anything to ˆÉ‰œ anymore. Got it?h
+hˆÉ‰œ, I scolded Sill, so please forgive her.h
 hThatfs fine. Thank you.
  My beloved Rance-san.h
 hGahahahahahahaha... Ifm so embarrassed!h
 hRance-sama.. no waaay..!h
 hHey, Rance-san.
  Could you please do me a favor?h
-hSure. Ifd do anything for you, Io.h
+hSure. Ifd do anything for you, ˆÉ‰œ.h
 hI want you to find a key for me.h
 hA key... A key, huh?h
 hYeah, there are four keys hidden somewhere in this
@@ -245,7 +245,7 @@ Io suddenly started crying and clung to Rance.
 hI got it. If itfs for you, Ifll look for these keys.h
 hReally, Rance-san? Thank you!
  I love you!h
-Io joined the party.
+ˆÉ‰œ joined the party.
 hAlright, letfs go.h
 hPlease do your best, Rance-san!
  But...h
@@ -253,7 +253,7 @@ Io joined the party.
 hDo your best in bed tonight, too.
  *Giggle* *giggle*.h
 hIn bed... whoa, of course.h
-hThis is it, right, Rick?h
+hThis is it, right, —¢?h
 hYes.
  We landed down this path and through the third warp
  device from the left.h
@@ -266,7 +266,7 @@ Io joined the party.
 hI guess so.
  They ARE all my women, I suppose.
  I guess I gotta take care of fem.h
-hJulia doesnft wanna go back there.
+héä»‰ë doesnft wanna go back there.
  Itfs scary.h
 hRance-san, letfs just defeat the weak monsters around
  here and play.h
@@ -320,10 +320,10 @@ Didnft the item shop girl Yocchan ask me to give
 something to this guy?
 hHey, I got something Ifm supposed to give you.
  You want this?h
-I took out the Pintel 486.
-hOh, thatfs a [Pintel 486]!!
+I took out the ‰åp™Ê486.
+hOh, thatfs a [‰åp™Ê486]!!
  Thatfs great, Ifm so lucky!h
-I handed the Pintel 486 over to Fukuda.
+I handed the ‰åp™Ê486 over to Fukuda.
 hAnyway, Ifve delivered it.
  So what is that thing??h
 hThis iiiis...h
@@ -359,7 +359,7 @@ completely forgotten my existence.
 hAlright, try it.h
 hYes.h
 hThis part... and then spin this.. umm.h
-Merimfs messing with the device.
+”~ä»›Gfs messing with the device.
 hShefs kind of amazing, Rance-sama.h
 hWell she said she was an archaeologist with the Helman
  Army, right? They brought her for this kinda shit,
@@ -373,7 +373,7 @@ Merimfs messing with the device.
  *Click*.h
 (Rumble)
 The door opened.
-hI did it! Merimfs so happy!h
+hI did it! ”~ä»›Gfs so happy!h
 hLa la la!h
 [Surface Central Area]
     Adventure

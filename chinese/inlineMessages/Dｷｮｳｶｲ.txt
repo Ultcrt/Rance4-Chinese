@@ -41,7 +41,7 @@ Cynthia hHello. Ifm the priestess of this church,
          Cynthia.
          Itfs nice to meet you.h
 hOh, yes.
- Ifm Sill Plain.
+ Ifm Šó˜I Plain.
  Ifm Rance-samafs......h
 Cynthia hHm, whatfs wrong?h
 hIfm.. Rance-samafs.. well...h
@@ -55,7 +55,7 @@ Younashi-sama hHey, hey, Ifm the great God.
 Younashi-sama hCynthia, my faithful priestess.
                I have a mission for you.h
 Cynthia hOh, thank you very much.h
-Younashi-sama hMake that pretty girl, Sill Plain, one of
+Younashi-sama hMake that pretty girl, Šó˜I Plain, one of
                my believers.h
 Younashi-sama hAll cute girls have the qualifications to
                be a believer. Got it?h
@@ -65,17 +65,17 @@ Younashi-sama hI donft care about the man.
 hRance-sama, what was that..??h
 hThis townfs god, I guess....h
 Cynthia hIfve been given a mission by Younashi-sama.
-         Sill-san, will you join the Younashi Faith?h
+         Šó˜I-san, will you join the Younashi Faith?h
 h....Ifm sorry, I canft.h
 Cynthia hIf you join now, youfll receive a wonderful
          present.h
-hSorry, but Sillfs already got a god.h
+hSorry, but Šó˜Ifs already got a god.h
 hRance-sama...h
 Cynthia hI see...
          Which god would that be...?h
 hMe.h
 Cynthia h??h
-hSill worships a great sex god.
+hŠó˜I worships a great sex god.
  The invincible supreme god Rance-sama.h
 hRance-sama....h
 I entered the church.
@@ -531,7 +531,7 @@ Cynthia hIt did say that an Okayu Fever might be holding
          onto some..h
 hGot any good information?
  Churches hear a lot of interesting rumors, right?h
-Cynthia hLately Rance-san and Sill-san have been the talk
+Cynthia hLately Rance-san and Šó˜I-san have been the talk
          of the town.
          Itfs the first time wefve ever seen anyone from
          the outside, after all.h
@@ -711,10 +711,10 @@ Cynthia hRance-san, itfs seriously dangerous.
          Donft you think you should reconsider?h
 hDonft think Ifm the same as those Youth League losers.
  Ifll exterminate all the monsters.h
-hLetfs go, Sill.h
+hLetfs go, Šó˜I.h
 hYes, Rance-sama!h
 Cynthia hIfll pray that you have Younashi-samafs
          protection, Rance-san.h
 hI donft need the protection of a stupid god like that.h
-I took Sill and headed down the stairs.
+I took Šó˜I and headed down the stairs.
 Alright, Ifm leaving the church.

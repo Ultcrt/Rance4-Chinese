@@ -3,7 +3,7 @@
 hWhat? Let me see.h
 hHere.h
 hItfs a treasure chest!h
-hCan you open it, Maria?h
+hCan you open it, àó—˜ˆŸ?h
 hItfs fine. I can do at least this much.h
 (Rustle rustle)
 I investigated the treasure chest a little bit, but it
@@ -27,7 +27,7 @@ come from.
 hKyaaaaa, kyaaaaa!h
 hKyaaaaa, kyaaaaaa!h
 hY- youfre a loud one.h
-hJulia!!h
+héä»‰ë!!h
 hThe Helman Army, huh? Cowards.h
 hKehya, kehya, kehya!h
 hOh, donft move now.
@@ -49,10 +49,10 @@ come from.
  Ifm gonna diiie, Ifm gonna diiiie!h
 This is no good, he doesnft have any openings.
 If we try to do something and screw up, hefll really kill
-Julia-chan.
+éä»‰ë-chan.
 The Helman Army is a bunch of cowards.. how could they do
 this?
-hIfll go, Maria.h
+hIfll go, àó—˜ˆŸ.h
 hYou canft, Shizuka!
  Itfs a trap!h
 hKehya, kehya, kehya!
@@ -66,17 +66,17 @@ this?
 Shizuka took the W Key in her hand and advanced slowly.
 hIfm a failure as a leader.
  I donft know what to do in a situation like this!h
-hMaria-san, nothing will come of you worrying right now.
+hàó—˜ˆŸ-san, nothing will come of you worrying right now.
  Donft give up yet, just wait.h
 Shizuka finished crossing the bridge.
 hKehya, kehya, kehya!h
 h.....What a creep.h
 hDonft get sassy with me, brat.h
-hHubert, tie this girl up.h
+h‹x”Œ“Á, tie this girl up.h
 h...Sorry.h
 hHmph, Helman dog.h
-Hubert tied Shizuka up so that she couldnft move.
-hLet go of Julia.
+‹x”Œ“Á tied Shizuka up so that she couldnft move.
+hLet go of éä»‰ë.
  You promised, didnft you?h
 hEven Helman people can keep promises, canft they?h
 hKehya, kehya, but of course.
@@ -88,7 +88,7 @@ Hubert tied Shizuka up so that she couldnft move.
 hKehya, kehya, I donft care.
  Let that girl go.h
 hKyaaaa, Ifm scared, Ifm scared!h
-When Dens released Julia, she ran back over to Leila,
+When Dens released éä»‰ë, she ran back over to åQf,
 screaming.
 hNooo, stop!h
 When Dens stepped off of the pedestal, the bridge fell.

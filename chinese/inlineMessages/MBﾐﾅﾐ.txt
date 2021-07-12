@@ -39,7 +39,7 @@ here.
 hRance, therefs something in the wall.h
 h.......h
 hIt looks like a picture.h
-Obtained (Famous Picture 7).
+Obtained (–¼‰æ 7).
 hBut I wonder why there was a picture lying around
  here??h
 hfCause itfs trash, I guess.h
@@ -49,14 +49,14 @@ A mouse jumped out onto the path in front of us.
 hWhatfs with this guy?h
 hLookinf for a good deal, mister?h
 hItfs the Pervert Mouse...h
-hYou know him, Kanami?h
+hYou know him, ‰Á“Ş”ü?h
 hYeah, he was living in Leazas Castle about a year ago.h
 hHefs a terrible mouse who steals girlsf panties and
  stuff.h
 hTsk, tsk, thatfs all in the past now, isnft it?h
 hYeah, right!
  Ifll exterminate you!h
-I held Kanami back before she could jump on the mouse.
+I held ‰Á“Ş”ü back before she could jump on the mouse.
 hWait a minute.
  He sounds kinda interesting.
  Letfs hear what he has to say.h
@@ -168,7 +168,7 @@ I decided to leave them be.
 h.......h
 hAargh, what is this!?
  This stupid door still wonft open!?h
-hHubert, hurry up and do it.
+h‹x”Œ“Á, hurry up and do it.
  Youfre such a useless man.h
 hIf youfre so great, then why donft you do it?h
 hY-yeah.h
@@ -374,7 +374,7 @@ Octoman hChop, chop!
  Helman guys.h
 hWe did it, Rance-sama!
  The Helman group is probably still trying to get through
- that door, so letfs hurry up and find the S Key while
+ that door, so letfs hurry up and find the “ì•”èoú while
  wefve got the chance!h
 hYeah.h
 hCold...!h
@@ -457,10 +457,10 @@ Cantel hOh? You guys again..?
         Whatfs your business?h
 hIs your brain frozen too, you rotten dragon?
  Here, itfs that medicine.h
-I showed the Dragonfs Cold Medicine to the dragon
+I showed the —³‘°Š´–`–ò to the dragon
 asshole.
 hI went out of my way to go and get this for you.
- So hurry up and hand over the S Key!h
+ So hurry up and hand over the “ì•”èoú!h
 Cantel hWell, it was a promise..
         I guess Ifve got no choice...h
 hWhat the hellfs with that attitude when Ifm being this
@@ -476,14 +476,14 @@ Cantel hNo, Ifm sorry about that, of course Ifm
 Cantel h...Herefs the key... You were saying something
         about four keys or whatever, so I think this must
         be the key you were looking for...h
-I handed the Dragonfs Cold Medicine over to the dragon
-and received the S Key in return.
-hIt certainly seems to be the S Key.
+I handed the —³‘°Š´–`–ò over to the dragon
+and received the “ì•”èoú in return.
+hIt certainly seems to be the “ì•”èoú.
  Alright.h
 Cantel hWhat do you plan to do with a key like that??h
 hItfs got nothing to do with you.
  Just drink the stupid medicine and take a nap already.h
-We obtained the S Key, so we decided to return to town
+We obtained the “ì•”èoú, so we decided to return to town
 for now.
 ––––––––––––––––––––––––––––––––––––––
 –   Rance IV  |Chapter 4| End        –
@@ -572,8 +572,8 @@ Cantel hI entered this city to fight the Demon Army.
 hRance-sama, maybe the key he has is one of the four
  wefre looking for.h
 hOh, right. Hey, dragon.
- Is that key you have the S Key?h
-Cantel hThe S Key... Yes, I believe it was something like
+ Is that key you have the “ì•”èoú?h
+Cantel hThe “ì•”èoú... Yes, I believe it was something like
         that.h
 hAlright.
  But we could just defeat this thing instead of running

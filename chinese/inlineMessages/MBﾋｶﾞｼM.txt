@@ -5,7 +5,7 @@
 Leave the room?
 Descend stairs?
 Descending to lower floor.
-hRance-sama, therefs a treasure chest.
+h—–z-sama, therefs a treasure chest.
  What should I do?h
 hI feel like itfll explode if you open it.
  Leave it alone.h
@@ -15,7 +15,7 @@ Descending to lower floor.
 hHurry up and open it.
  Quickly now. Eliminate all unnecessary time spent and
  shorten the process.h
-hItfs open, Rance-sama!h
+hItfs open, —–z-sama!h
 hRance-sama, I foundF 
  inside.h
 hIfll hold onto it.h
@@ -74,12 +74,12 @@ stuff in it.
 Therefs nothing particularly strange about it.
 Itfs a shelf with a bunch of medicine on it.
 There are a bunch of mysterious drugs.
-There are two large beakers, one with [Heated Glass]
+There are two large beakers, one with [‰Á”M“IàŞ—]
 written on it, the other with [Monkeytic].
-hOh, this is Heated Glass, one of the things I need for
+hOh, this is ‰Á”M“IàŞ—, one of the things I need for
  my Tulip #1fs power up.h
 hHow nice! Ifll just take this.h
-Obtained Heated Glass.
+Obtained ‰Á”M“IàŞ—.
 Itfs a bookcase packed with books.
 hKuh, they all look like complicated books that arenft
  fun at all.h
@@ -95,7 +95,7 @@ Therefs nothing particularly strange about it.
 hOh, itfs a cute girl!
  Was she auditioning for something?h
 Therefs a bottle of something or other in this cupboard.
-hSill, find anything valuable?h
+hŠó˜I, find anything valuable?h
 hHmm.. not really.
  It looks like a bunch of experimental drugs and bandages
  and things like that.h
@@ -112,7 +112,7 @@ Itfs a shabby bed.
 hMan, I get really excited when I see beds.
  I wonder why.h
 hYeah, like right around my hips here.
- Right, Sill?h
+ Right, Šó˜I?h
 hI.. I donft know.h
 Itfs a model of the human body. How creepy.
 hItfs kind of creepy, isnft it, Rance-sama?h
@@ -124,76 +124,76 @@ There was a hole that looked like it was probably there
 for a reason in the middle of the room, but when I looked
 down it, I couldnft see anything. Itfs pretty deep.
 hWait, therefs something there!h
-hYou see something, Kanami?
+hYou see something, ‰Á“Ş”ü?
  Itfs pitch black.h
 hDonft underestimate a ninjafs eyes. I train every day to
  be able to see long-distance, you know.h
-hWow, thatfs amazing, Kanami-san.h
+hWow, thatfs amazing, ‰Á“Ş”ü-san.h
 hSo what do you see?h
 hTherefs something like a gem stuck in the wall part of
  the way down this hole.h
 hWhat? Something valuable?h
 hLooks like.
  I think I can reach it.h
-Kanami hooked her legs around the railing and reached
+‰Á“Ş”ü hooked her legs around the railing and reached
 down into the hole.
 hUgh... cfmon, cfmon, just a bit more...h
-I gingerly touched Kanamifs defenseless butt.
+I gingerly touched ‰Á“Ş”üfs defenseless butt.
 h.....Kya!h
-hHowfs it going, Kanami? Did you get it?h
+hHowfs it going, ‰Á“Ş”ü? Did you get it?h
 hGeez, donft touch my butt!
  I couldfve fallen!h
 hGahahahahaha, itfs a nice, pretty butt.h
 hGeez. Here.
  I got it.h
-Kanami handed a diamond to me.
+‰Á“Ş”ü handed a diamond to me.
 Obtained Diamond.
-An expensive-looking magefs staff, the Flame Staff, is
+An expensive-looking magefs staff, the ‰Î”V–@ñ, is
 stuck in the ground.
 hOhh, itfs just sitting there like fplease take me,f
  isnft it?h
 hBut this must be a trap, Rance-sama.h
 hAlright, Ifm gonna take it.h
-I grabbed the Flame Staff and pulled.
+I grabbed the ‰Î”V–@ñ and pulled.
 (Zap) Something like electricity passed from the grip
 through my hand and into my body.
 Rancefs experience became 0.
 h....Fucking hell!!
  What a clever trap!h
 I got caught in the clever trap and lost experience.
-hSill, itfs a weapon for a mage.
+hŠó˜I, itfs a weapon for a mage.
  You pull it out.h
 hOkay.h
-Sill grabbed the Flame Stafffs handle and..
+Šó˜I grabbed the ‰Î”V–@ñfs handle and..
 hKya!h
-Sill fell onto her butt.
+Šó˜I fell onto her butt.
 A mysterious light passed from the staff through her hand
 and around her body.
-Sillfs experience became 0.
+Šó˜Ifs experience became 0.
 h*Sob* *sob*, Rance-sama!
  I lost all my experience!h
 hRance-sama, we have to undo the sealing magic on this
  staff to take it.h
-hGrab that staff, Io.h
+hGrab that staff, ˆÉ‰œ.h
 hNo way, itfs probably trapped.
- Make Sill-chan take it.h
+ Make Šó˜I-chan take it.h
 h....I guess youfre right.h
 Use which item?
 hAlright, itfs probably fine to touch it with these
  Rubber Gloves.h
 h...........h
-hYoufd better not be doubting me, Sill.
+hYoufd better not be doubting me, Šó˜I.
  My plans are perfect.h
 hOf course not.
  I think itfs a good idea.h
-hRight? This Flame Staff has some kind of weird power in
+hRight? This ‰Î”V–@ñ has some kind of weird power in
  its handle, but if you protect yourself with these
  Rubber Gloves, youfll be fine!
  Gahahahahahahaha!h
-hSo, Sill.
+hSo, Šó˜I.
  Use the Rubber Gloves and take it.h
 hYes, Rance-sama.h
-Sill put the Rubber Gloves on and grabbed the Flame Staff
+Šó˜I put the Rubber Gloves on and grabbed the ‰Î”V–@ñ
 timidly.
 h.........h
 hHuh? Nothingfs happening.
@@ -202,13 +202,13 @@ timidly.
 hGahahahahahahaha, of course! It was my idea after all!h
 hWow, Rance-sama, youfre amazing!h
 The Rubber Gloves disintigrated and became useless, but I
-managed to obtain the Flame Staff safely.
+managed to obtain the ‰Î”V–@ñ safely.
 hRance-sama, how are you going to use that
 ?h
 h......Never mind.h
 hRance-sama, do you think therefs a hidden passageway
  behind this bookcase?h
-hAlright, Sill.
+hAlright, Šó˜I.
  Try and move it.h
 hOkay, Ifll try.h
 hHeave-ho, heave-ho.h
@@ -276,7 +276,7 @@ I peered into the small hole.
 Clicking my tongue in annoyance, I gave up on looking
 through the hole.
 hShit, I couldnft see anything.
- Sill, make it so that I can see naked Ran.h
+ Šó˜I, make it so that I can see naked Ran.h
 hI canft, Rance-sama.h
 hShut up, do it, do it, do it, do it!!h
 hRance-samaaa.. I caaanft..!h
@@ -323,7 +323,7 @@ Ran hPhew... Ifm tired.h
 Ran hKathtomfs budget deficit is at its limit, huh..
      Oh.. This is terrible.h
 Looks like Ranfs doing some accounting in Kathtom.
-Ran h...Wefd be bankrupt if not for Maria and Shizuka
+Ran h...Wefd be bankrupt if not for àó—˜ˆŸ and u—¥
      earning some money in Leazas.h
 Ran hHm...? Is, is someone there...?h
 Ran glanced around as if shefd become aware of my gaze.
@@ -366,7 +366,7 @@ through her.
  What do you want to say, Ghost I Canft Fuck?h
 hAre you... not a mage?h
 hOf course not.
- Io here and my slave Sill are mages though.h
+ ˆÉ‰œ here and my slave Sill are mages though.h
 hIfm a famous warrior.h
 hOh good, so youfre not someone from the Sect?h
 hSect? I dunno what that is, so no.h
@@ -571,7 +571,7 @@ I tried to embrace Naturi, but I just went through her.
 hYes, wefll give Naturi-san a body.h
 hBut how?h
 hJust possess that girl and have sex.h
-Io pointed at Sill.
+ˆÉ‰œ pointed at Sill.
 hHeh? M.. me??h
 hYeah, itfs to help her pass on.
  You can put up with this for her, canft you?h
@@ -639,7 +639,7 @@ Mad Piston Attack.
  Now I can rest in peace.h
 hYep, no problem.h
 hHere, this is the key I promised you.h
-I received the Research Key.
+I received the Œ¤‹†ºèoú.
 hThis is the wrong key!
  We donft need this one!h
 hWhat!?h
@@ -648,11 +648,11 @@ I received the Research Key.
  Gimme a different..!h
 ...........
 hTch, shefs gone.h
-hSo this is really the wrong key, Io?h
-hYeah, I need the W Key, the E Key, the N Key, and the S
+hSo this is really the wrong key, ˆÉ‰œ?h
+hYeah, I need the W Key, the “Œ•”èoú, the N Key, and the S
  Key.h
 hShit!h
-hBut Rance-sama, with this Research Key, we can explore a
+hBut Rance-sama, with this Œ¤‹†ºèoú, we can explore a
  new place, so I think wefll be able to find them now.h
 h.........h
 hLetfs do our best, Rance-sama.h
@@ -661,7 +661,7 @@ I received the Research Key.
 I casually picked up the ball.
 It was a perfectly circular ball, 10 cm in diameter.
 I dunno what the hell itfs made of.
-hWhat do you think this ball is, Io?h
+hWhat do you think this ball is, ˆÉ‰œ?h
 hThatfs Uppii shit.
  It looks pink and pretty, but....h
 hACK, shit!!?
@@ -679,16 +679,16 @@ I tossed the ball to Sill.
 hWhat?h
 I took the ball from Sill and spun it around, looking for
 the letters, and sure enough, there they were.
-hLetfs see. It says fThis is an Antidote Ball. Any idiot
+hLetfs see. It says fThis is an ‰ğ“Å‹Ê. Any idiot
  can use it to instantly cure poisonf.h
-hHmm, an Antidote Ball, eh?
+hHmm, an ‰ğ“Å‹Ê, eh?
  Think we can use it over where that poisonous mist is?h
 hProbably. Anyway, letfs take it.h
-Obtained Antidote Ball.
+Obtained ‰ğ“Å‹Ê.
 hWhat the heckfs this??h
 hItfs a robot, Rance-sama! A robot!h
 hRobot??h
-hYes, Ifve heard about them from Maria-san.
+hYes, Ifve heard about them from àó—˜ˆŸ-san.
  Theyfre unliving things made with iron mechanisms.h
 hI donft get it at all.h
 hRance-sama, this....h
@@ -723,7 +723,7 @@ Obtained Antidote Ball.
 hWell of course! If I did it, Ifd get tired. And if I
  messed up and it attacked me, I could get hurt.h
 h.......h
-hYeah, I wouldnft want Io getting attacked and hurt.
+hYeah, I wouldnft want ˆÉ‰œ getting attacked and hurt.
  Do it, Sill.h
 hOkay...h
 Sill stood in front of the Tousho, put her hands
@@ -743,7 +743,7 @@ Borg hA human, and not even a mage at that?
       Who are you?h
 hIfm Rance-sama.h
 hMy name is Sill.h
-hThe namefs Io, Borg-chan.h
+hThe namefs ˆÉ‰œ, Borg-chan.h
 Borg hVery well.
       What is the state of the war?h
 hWar? What are you talking about?h
@@ -780,7 +780,7 @@ Borg hMy mission is the eradication of the enemies of the
 Borg hYou must be from the surface, since you canft use
       magic. You will die for your treachery.h
 hThis stupid mechanical doll.. Ifm gonna destroy it!
- Sill, Io, letfs go!h
+ Sill, ˆÉ‰œ, letfs go!h
 hYes, Rance-sama.h
 hYeah, how disappointing.
  It didnft go very well at all, did it?h
@@ -804,21 +804,21 @@ Borg hThis.. canft be.
 h...........h
 Therefs a diary on the desk.
 hThis page looks important.h
-I opened the diary to the page about Moganda.
+I opened the diary to the page about ”œŠ±’B.
 FXX Month X Day                          F
 FI sent a Spy Dragonfly into Professor   F
-FMogandafs room. I found something       F
+F”œŠ±’Bfs room. I found something       F
 Fterrible. He canft be forgiven for this.F
-FProfessor Moganda has moved to a secret F
+FProfessor ”œŠ±’B has moved to a secret F
 Funderground room behind his bookcase.   F
 FHe must have built a secret reserch roomF
 Ffor prohibited experiments.             F
 FHe must be exiled.                      F
-hLooks like this Moganda has a secret underground
+hLooks like this ”œŠ±’B has a secret underground
  research room. If wefre gonna search somewhere, it
  should be there.h
-hYes, I bet the E Key is there.
- The E Key has to be in this East Block somewhere, so it
+hYes, I bet the “Œ•”èoú is there.
+ The “Œ•”èoú has to be in this East Block somewhere, so it
  must be there.h
 Therefs a diary on the desk.
 hLooks like the diary of a researcher here.
@@ -837,22 +837,22 @@ I flipped through the diary.
 FGood food is good for your body and yourF
 Fresearch.                               F
 FXX Month XX Day                         F
-FProfessor Moganda is acting strange.    F
+FProfessor ”œŠ±’B is acting strange.    F
 FI feel like hefs secretly doing         F
 Fforbidden research on non-human Tousho. F
 FWefll have to keep an eye on him.       F
 FXX Month X Day                          F
 FI sent a Spy Dragonfly into Professor   F
-FMogandafs room. I found something       F
+F”œŠ±’Bfs room. I found something       F
 Fterrible. He canft be forgiven for this.F
-FProfessor Moganda has moved to a secret F
+FProfessor ”œŠ±’B has moved to a secret F
 Funderground room behind his bookcase.   F
 FHe must have built a secret reserch roomF
 Ffor prohibited experiments.             F
 FHe must be exiled.                      F
 FX Month X Day                           F
 FI sent a Spy Dragonfly into Professor   F
-FMogandafs secret underground lab.       F
+F”œŠ±’Bfs secret underground lab.       F
 FIt didnft come back.                    F
 FX Month X Day                           F
 FToushin Toshi Upsilon will be activated F
@@ -861,14 +861,14 @@ I flipped through the diary.
 Fthat we need to use an unfinished       F
 FToushin Toshi.                          F
 The diary was blank after that.
-hRance-sama, is fProfessor Mogandaf...?h
+hRance-sama, is fProfessor ”œŠ±’Bf...?h
 hYeah, hefs probably that weirdo.h
 hAccording to this diary, therefs a hidden passage that
- leads underground in Professor Mogandafs room, so I
+ leads underground in Professor ”œŠ±’Bfs room, so I
  think we should look for it.h
 hAlright, letfs do it.h
 hThanks, we were really in trouble there. My name is
- Freak.
+ •¤—¢.
  Who might you be?h
 hI am Rance, the hero.h
 hA hero, eh...? Youfre a funny one.h
@@ -912,7 +912,7 @@ The diary was blank after that.
 hI am willing to go to any length to stop Upsilon.h
 hF-fine.
  Ifll cooperate too.h
-Freak and Hubert joined the party as my subordinates.
+•¤—¢ and ‹x”Œ“Á joined the party as my subordinates.
 hWell, they may be weak, but with these new members, why
  donft we go fight Upsilon again?h
 hHero Rance-dono, no matter how strong you may be, a fair
@@ -953,11 +953,11 @@ Freak and Hubert joined the party as my subordinates.
 hYoufre terrible, Sill-chan.
  You tried to deceive Rance-san by lying, hm?
  Isnft she a bad girl, Rance-san?h
-hYup, she must be if you think so, Io.
+hYup, she must be if you think so, ˆÉ‰œ.
  Ifve gotta punish her I guess.h
 hIsnft that a bit much?h
 hWell, what kinda punishment should I give her?
- What do you think, Io?h
+ What do you think, ˆÉ‰œ?h
 hHmm, how about something like this?h
 hWe could doodle on her butt.
  Donft you think that would be fun?h

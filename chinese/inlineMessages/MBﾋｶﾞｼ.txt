@@ -3,14 +3,14 @@ Passageway
 Room
 Research Room
 Cell
-Mogandafs Research Room
-Mogandafs Operating Room
-Magic Metalworker Research Room
-Magic Metalworker Operating Room
+”œŠ±’Bfs Research Room
+”œŠ±’Bfs Operating Room
+–‚“S  Research Room
+–‚“S  Operating Room
 Medicine Room
 Tuning Room
 Battle Room
-E Key Room
+“Œ•”èoú Room
 ]
 (Room Mode)
  There are stairs leading up.
@@ -30,8 +30,8 @@ get past it.
 hItfs heavy.h
 hTch, what a pest.
  Letfs look around a little.h
-The door is locked (and requires the Research Key).
-Used the Research Key to open the door.
+The door is locked (and requires the Œ¤‹†ºèoú).
+Used the Œ¤‹†ºèoú to open the door.
 The door cannot be opened.
 The door wonft open.
 The door wonft open.
@@ -92,22 +92,22 @@ We turned around.
 ... hFall into deep darkness.h
 hItfs monsters, Rance-sama!h
 hKill fem all!h
-Wefre in front of Mogandafs room, but we canft get in.
+Wefre in front of ”œŠ±’Bfs room, but we canft get in.
 hRance-sama, therefs a sign in front of the door.h
 hHm...? Letfs see here.h
-F  Great Professor Mogandafs Operating Room    F
+F  Great Professor ”œŠ±’Bfs Operating Room    F
 F                                              F
 F   Surgery in Progress  No Entry Allowed      F
 hI see, so this is his true research room.
  Alright, letfs go in.h
 (Rattle rattle rattle)
 hAaaargh, the doorfs locked!h
-hOpen up, fuckinf Moganda!
+hOpen up, fuckinf ”œŠ±’B!
  Get out here, fuckhead!h
 (Bam bam bam)
-Moganda was too scared of me to come out.
+”œŠ±’B was too scared of me to come out.
 hRance-sama...h
-hThere he is! itfs Moganda!
+hThere he is! itfs ”œŠ±’B!
  What the heckfs he doing?h
 hResearch, research, research again today!
  How great am I for being so passionate about my
@@ -132,7 +132,7 @@ Moganda was too scared of me to come out.
  Tousho, but Ifm a genius, so I should be able to.h
 hA 200-year-old human, huh? Alright, Ifll take it.
  Ifll use a human for the first time in a while!h
-Laughing like an idiot, Moganda took a flask out of his
+Laughing like an idiot, ”œŠ±’B took a flask out of his
 pocket, opened it up, and and sprinkled its contents onto
 the statue.
 (Sizzle, sizzle)
@@ -143,7 +143,7 @@ Thatfs pretty creepy.
 hWhat should we do, Rance-sama?h
 hKill fim, of course.h
 hTherefs nothing wrong with killing evil mad scientists.h
-hMoganda..?h
+h”œŠ±’B..?h
 hHe ran away.
  But we know where he is this time.h
 hHis Research Room, huh?h
@@ -156,7 +156,7 @@ Thatfs pretty creepy.
  Heehee..!h
 hLa la la laaa..!h
 h*Gasp*... Therefs no time for this!h
-hI am the great scientist, Moganda!
+hI am the great scientist, ”œŠ±’B!
  I must continue my research...h
 hThere he is, found him....
  ...Hefs dancing again.h
@@ -168,7 +168,7 @@ Thatfs pretty creepy.
 hLa la la laaa..!h
 h*Gasp*... Ifm doing my Dandy Dance again!
  ....Oh my my!h
-hI am the great scientist, Moganda!
+hI am the great scientist, ”œŠ±’B!
  I must continue my research...h
 hThere he is, found him....
  ...Hefs dancing.h
@@ -222,16 +222,16 @@ I gave the door a good kick.
 .. h.......h
 .. hOkay.h
 Oh, we did it!
-.. hBut first, show me your Naginata as proof.h
-hRance-sama.. we donft have a Naginata...
+.. hBut first, show me your “ã“ as proof.h
+hRance-sama.. we donft have a “ã“...
  What should we do?h
 hHmmm, letfs use this sword.h
 I stuck my sword under the door.
 .. hNo, youfre not my Mommy!
     That was close!h
 hTch, no good, huh?h
-Alright, letfs use this Naginata.
-I stuck the Naginata under the door.
+Alright, letfs use this “ã“.
+I stuck the “ã“ under the door.
 .. hOh, Mommy! Itfs Mommyfs weapon!h
 .. hWelcome home! Ifll open the door!h
 (Click)
@@ -243,7 +243,7 @@ A strange creature appeared.
 hI am the genius scientist!!
  My brainfs the best in the world, Ifm so cool!
  Ifm super, Ifm great, Ifm efficient, Ifm the president,
- Ifm rich! My name is Genius Moganda!h
+ Ifm rich! My name is Genius ”œŠ±’B!h
 hHey, weirdo.
  Youfre in our way.
  Move.h
@@ -282,13 +282,13 @@ A strange creature appeared.
  again. You shoulda just killed him, you idiot!h
 hWait, Rance-san.
  I donft think Sill-chan meant any harm.h
-h...Well, if you say so, Io...h
-hIo-san...h
+h...Well, if you say so, ˆÉ‰œ...h
+hˆÉ‰œ-san...h
 hBut mistakes are mistakes!
  Slaves have to remember mistakes with their bodies.
  But donft you worry about it, Rance-san. Ifll punish her
  for you.h
-Io took out a black whip and beat Sill with it.
+ˆÉ‰œ took out a black whip and beat Sill with it.
 (Whoooooosh thwack)
 h*Gasp*..!h
 hItfs not over yet! Take that!h
@@ -302,7 +302,7 @@ swelled up, turning red.
 hFufufufu, how pathetic.
  Hoooohohohohohohoho!h
 hRance-sama, please come back to your senses!
- Io-san has cast a Charm spell on you, Rance-sama!h
+ ˆÉ‰œ-san has cast a Charm spell on you, Rance-sama!h
 Sill clung to me and said some weird stuff, but I kicked
 her away. Shefs got such an attitude for a slave.
 hDonft talk nonsense, Sill. Youfre just a slave.h
@@ -358,15 +358,15 @@ The Jumper attacked.
  Fuckinf poison gas! Your evil deeds end here!
  Ifm gonna erase you!h
 h*Cough*, Rance-sama.. hurry!h
-I took the Antidote Ball out and smashed it on the
+I took the ‰ğ“Å‹Ê out and smashed it on the
 ground.
 (Smaaash waft waft)
-The Antidote Ball broke into dust.
+The ‰ğ“Å‹Ê broke into dust.
 h.......h
 h.......h
 h........h
 h....Nothingfs happening!
- Fucking Antidote Ball, youfre a fucking liar!!h
+ Fucking ‰ğ“Å‹Ê, youfre a fucking liar!!h
 h..No, Rance-sama.
  Itfs gradual, but the poisonous gas is disappearing.h
 h...It really is.h
@@ -384,18 +384,18 @@ We ran from the area with the poisonous gas.
  We have to turn back!h
 h*Cough*.. I guess so.h
 We ran from the area with the poisonous gas.
-Moganda appeared with a few of his underlings in tow.
+”œŠ±’B appeared with a few of his underlings in tow.
 hI am the genius scientist!!
  My brainfs the best in the world, Ifm so cool!
  Ifm super, Ifm great, Ifm efficient, Ifm the president,
- Ifm rich! My name is Genius Moganda!h
+ Ifm rich! My name is Genius ”œŠ±’B!h
 hHe showed up again.h
-hHand over the E Key! You have it, donft you?h
+hHand over the “Œ•”èoú! You have it, donft you?h
 hAccording to last weekfs theory, I should be better, but
  according to this weekfs theory, I should be a home run!
  How very difficult.h
 hHey, crazy!
- Did you not hear us tell you to hand over the E Key?h
+ Did you not hear us tell you to hand over the “Œ•”èoú?h
 hLast monthfs research costs meant I had to cut back on
  my food budget. That wasnft good.
  I want to eat hamburger.h
@@ -409,7 +409,7 @@ Moganda appeared with a few of his underlings in tow.
  Hefs stronger than Baba and Inoki!h
 hGo! Destroy those humans!h
 Mecha Kol hNiihaao!h
-hAnd Moganda...?h
+hAnd ”œŠ±’B...?h
 hIt looks like he got away, Rance-sama.h
 hSill, you let him get away again?h
 hBut, I... I tried my best!h
@@ -418,7 +418,7 @@ Mecha Kol hNiihaao!h
  Time for some punishment!h
 hYeah, slaves should be punished when they make mistakes.
  What would be good?h
-hGot any good ideas, Io?h
+hGot any good ideas, ˆÉ‰œ?h
 hLetfs see.h
 hWhat about masturbating here?h
 hEh...?h

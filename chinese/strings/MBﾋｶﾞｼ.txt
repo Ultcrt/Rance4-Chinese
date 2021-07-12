@@ -1,34 +1,34 @@
-Rerõ Key
+Œ¤‹†èoú
 Yes
 No
 Yes
 No
 Yes
 No
-Rerõ Core B1F
-Rerõ Core B2F
-Rerõ Core B3F
-Rerõ Core B4F
-Rerõ Core B5F
-Room
-Rerõ Room
-Cell
-Passageway
-Mogandafs Rerõ Room
-Mogandafs Operating Room
-Magic Metalworker Rerõ Room
-Magic Metalworker Operating Room
-Medicine Room
-Tuning Room
-Battle Room
-E Key Room
-Ignore warning
-Turn back
-Antidote Ball
+Œ¤‹†ŠjS B1F
+Œ¤‹†ŠjS B2F
+Œ¤‹†ŠjS B3F
+Œ¤‹†ŠjS B4F
+Œ¤‹†ŠjS B5F
+–[ŠÔ
+Œ¤‹†º
+˜S–[
+’Ê“¹
+”œŠ±’B“IŒ¤‹†º
+”œŠ±’B“Ièpº
+–‚“S “IŒ¤‹†º
+–‚“S “Ièpº
+–ò–[
+T§º
+í“l‹óŠÔ
+“Œ•”èoú–[ŠÔ
+Ù‹Œx
+Ü•Ô
+‰ğ“Å‹Ê
 •s‰Âv‹c“I†
 ’n}
 ‰c’n
 rõ
-Look
+ŠÏ@
 ¶Œ®ˆÚ“®“w’èˆÊ’u
 ‰EŒ®’eo‘I€Ø’P

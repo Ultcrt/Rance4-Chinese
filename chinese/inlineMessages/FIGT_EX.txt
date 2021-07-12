@@ -1,8 +1,8 @@
-Rick hEeee, itfs a monster!
+Šó˜I hEeee, itfs a monster!
       Ifm scaaared!!h
-Maria hEh, Rick-san!?h
-Leila hOh no.....h
-Rick Addison ran from the monsters in fright.
+àó—˜ˆŸ hEh, Šó˜I-san!?h
+åQf hOh no.....h
+Šó˜I Addison ran from the monsters in fright.
 Action turn.
 Please select a character.
 [
@@ -10,10 +10,10 @@ Please select a character.
 [HPF 
 /
 ]
-Kanami hI see youfre still alive, Rance.h
-Julia hWoohoooo, Juliafs here!h
-Rick hRance-dono, please let me assist you.h
-Leila hDonft give up now, Rance-kun.h
+‰Á“Ş”ü hI see youfre still alive, Rance.h
+éä»‰ë hWoohoooo, éä»‰ëfs here!h
+Šó˜I hRance-dono, please let me assist you.h
+åQf hDonft give up now, Rance-kun.h
 [
 ]fs action
 [HPF 
@@ -25,7 +25,7 @@ Upsilon drained energy from the Toushin Toshi.
 Upsilon hSource of my power, give me strength.h
 Upsilon drained energy from Cynthia.
 Upsilon hSource of my power, give me strength.h
-Upsilon drained energy from Sill.
+Upsilon drained energy from Šó˜I.
 Recovered 
  HP.
  displayed an unsettling thing.
@@ -220,18 +220,18 @@ Self destruction caused Borg to take
  HP (
 /
 )
-Maria hAahn, we canft escape!h
-Leila hWe canft back down now.
+àó—˜ˆŸ hAahn, we canft escape!h
+åQf hWe canft back down now.
        Wefll fight to the end.h
-Rick hA knight should never show his back to the enemy.
+Šó˜I hA knight should never show his back to the enemy.
       Even if we all fall, we must fight until the end.h
-Freak hShit, we canft get away.h
-Rick hWe canft allow monsters to get close to where Rance-dono is
+•¤—¢ hShit, we canft get away.h
+Šó˜I hWe canft allow monsters to get close to where Rance-dono is
       fighting Upsilon.h
 Itfll put a stain on my reputation if I run now.
 Ifm gonna finish things now.
 Rance hAlright, wefre retreating.h
-Sill hRance-sama, thatfs a wall!!h
+Šó˜I hRance-sama, thatfs a wall!!h
 I failed to escape.
 I escaped from the battlefield.
 [
@@ -251,7 +251,7 @@ Hey Upsilon, I bet you didnft think I had a trick like this!
 Fufufufufu, I knew Ifd be the one laughing in the end.
 Alright, letfs use that trick again.
 The Feliss Strategy.
-Ifll use Feliss to get Sill back, then kill him afterward.
+Ifll use Feliss to get Šó˜I back, then kill him afterward.
 [
 ]fs action.
 [HPF 
@@ -297,7 +297,7 @@ GAME OVER
 Defeated all enemies.
 Everyone received 
  points of experience.
-Shizuka lost 
+u—¥ lost
  points of experience.
 Shizuka h.......Eh?h
 Shizuka hWait a second, whatfs going on?!
@@ -306,7 +306,7 @@ Rance hItfs because youfre not fighting seriously.
        Itfs your own damn fault, gahahahahahaha!h
 Shizuka hThatfs ridiculous, but.. why...?h
 Shizuka hIt couldnft be......h
-Sill hDo you have an idea about whatfs causing this, Shizuka-san..??h
+Šó˜I hDo you have an idea about whatfs causing this, Shizuka-san..??h
 Shizuka hCould it be that because Rance interrupted me during my
          power up spell, the spell wasnft completely cast, and..?h
 Rance hGahahahahahahahaha...!h
@@ -420,11 +420,11 @@ I assaulted
 Rance hGahahahahahaha, Ifm gonna give you some love!h
 Concentrating to use 
 ...
-Sill h..............h
+Šó˜I h..............h
 But the magic failed due to fatigue.
 Who should 
  cast magic on?
-Sill hAahn, I faiiled.h
+Šó˜I hAahn, I faiiled.h
 The magic wasnft cast properly and did nothing but consume stamina.
  hHealing!!h
 A warm healing light enveloped 
@@ -481,14 +481,14 @@ DoryayaA!
  avoided the attack.
 Concentrating to use 
 ...
-Sill hNamu namu namu namu namu...h
-Io hMumumumu mumumu...h
+Šó˜I hNamu namu namu namu namu...h
+ˆÉ‰œ hMumumumu mumumu...h
 Shizuka hNamu namu namu namu namu.h
 But the magic failed due to fatigue.
 Who should 
  cast magic on?
-Sill hAahn, I faiiled.h
-Io hWhoopsie, I screwed up.h
+Šó˜I hAahn, I faiiled.h
+ˆÉ‰œ hWhoopsie, I screwed up.h
 Shizuka h...I canft believe this.h
 The magic wasnft cast properly and did nothing but consume stamina.
  h
@@ -513,7 +513,7 @@ A pink cloud enveloped
  h
 !!h
 Intense flames enveloped all enemies.
-Flames spread out from Kanami.
+Flames spread out from ‰Á“Ş”ü.
 Powerful electromagnetic waves enveloped the enemy.
 Innumerable black arrows assaulted the enemy.
 A dark smoke enveloped the area.

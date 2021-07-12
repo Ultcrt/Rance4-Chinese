@@ -1,29 +1,29 @@
-Iron Hanny Key
-Belief Key
-Betrayal Key
+鉄哈尼鑰匙
+信仰鑰匙
+背叛鑰匙
 幻想鑰匙
-Naginata
-Push
-Pull
-Knock
-Lift
-Leave
-Leave
-Yes
-No
-Yes
-No
-Yes
-No
-Yes
-No
-Surface Central Area
-Room
-Pintel 486
+薙刀
+推
+拉
+敲門
+抬
+離開
+離開
+看
+取消
+使用
+取消
+上楼
+取消
+下楼
+取消
+上部中央区
+房間
+牙膏厂486
 不可思議的紙
 地図
 営地
 搜索
-Look
+観察
 左鍵移動到指定位置
 右鍵弾出選項菜単

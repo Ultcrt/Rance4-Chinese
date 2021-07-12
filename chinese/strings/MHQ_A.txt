@@ -1,18 +1,18 @@
-Yes
-No
+使用
+取消
 (1)
 (5)
 (10)
-Yes
-No
-Yes
-No
-Surface Control Area
-Room
+上楼
+取消
+下楼
+取消
+上部指令区
+房間
 不可思議的紙
 地図
 営地
 搜索
-Look
+観察
 左鍵移動到指定位置
 右鍵弾出選項菜単

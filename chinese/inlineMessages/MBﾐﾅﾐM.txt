@@ -121,37 +121,37 @@ Rancefs experience dropped to 0.
 ...What a haughty bitch. Ifm gonna rape her, shit.
 But if I do this carelessly, I could lose a level. Hmmmm.
 Therefs a pedestal.
-(Bronze Bell) is written in small letters on the
+(Â“º—éèe) is written in small letters on the
 pedestal.
-hRance-sama, why donft we try leaving the Bronze Bell on
+hRance-sama, why donft we try leaving the Â“º—éèe on
  this pedestal?h
-Leave the Bronze Bell?
+Leave the Â“º—éèe?
 hAlright, do it.h
 hYes.h
-Sill pulled the Bronze Bell out of her item bag and left
+Sill pulled the Â“º—éèe out of her item bag and left
 it on the pedestal.
-The (Bronze Bell) is sitting on the pedestal.
-hItfs the Bronze Bell, Rance-sama.h
+The (Â“º—éèe) is sitting on the pedestal.
+hItfs the Â“º—éèe, Rance-sama.h
 hYeah, hold onto it, since we might need it again later.h
 hYes.h
-Obtained (Bronze Bell).
+Obtained (Â“º—éèe).
 Therefs a pedestal.
-(Empty Can) is written in small letters on the pedestal.
-hRance-sama, should I leave the Empty Can on the
+(‹óã£q) is written in small letters on the pedestal.
+hRance-sama, should I leave the ‹óã£q on the
  pedestal?
  Do you think another door will open?h
-Leave the Empty Can?
+Leave the ‹óã£q?
 hVery well, I grant permission.h
 hDo it.h
 hYes.h
-Sill pulled the Empty Can out of her item bag and left it
+Sill pulled the ‹óã£q out of her item bag and left it
 on the pedestal.
-hRance-sama, this Empty Can...h
+hRance-sama, this ‹óã£q...h
 hTake it, of course.
  Itfs mine after all.h
 hYes, understood.h
-Sill took the Empty Can from the pedestal.
-Obtained (Empty Can).
+Sill took the ‹óã£q from the pedestal.
+Obtained (‹óã£q).
 (Clunk)
 We heard a door open somewhere.
 hRance-sama, that sound....h
@@ -284,14 +284,14 @@ Octoking hYes.h
  Itfs the secret to a long life.h
 hRance-sama, why donft you ask them about the key?h
 hWhy not?h
-hHey, there should be an S Key around here. Know anything
+hHey, there should be an “ì•”èoú around here. Know anything
  about it?h
 Octoking hChop, chop, chop!h
 Octoking hNope.h
 hYou better not be lying.
  Ifll kill your entire species if you are.h
 Octoking hIfm not lying, sir.
-          Ifve never heard of an S Key.h
+          Ifve never heard of an “ì•”èoú.h
 hHmmmm?h
 Octoking hAlthough it might be in the dungeon past here.h
 hAnd how do we get past here?h

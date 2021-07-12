@@ -1,5 +1,5 @@
-Yes
-No
-Blue
-Pink
-Both
+出来
+取消
+藍色
+粉色
+両種都要

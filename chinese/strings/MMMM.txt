@@ -10,13 +10,13 @@
 •xm’Κ
 –ΌΓ‰®
 —zυ’J“V–
-Kyoto
-Tokyo
-Osaka
-Nara
-Kuwait
-Hanny Building
-1,000
+‹“s
+“‹
+‘εγ
+“ή—Η
+‰ΘΠ“Α
+™ϋ“ς‘ε™Ν
+1000
 4
 5
 16
@@ -26,10 +26,10 @@ System 3.5
 System 3.1
 System X
 System Z
-Yes
-No
+‘ΕJ
+ζΑ
 ???
 ‹Ύ”Vακ•Π B4
-Emerald
-Yes
-No
+—Ξ•σΞ
+Β‰Ί
+ζΑ
