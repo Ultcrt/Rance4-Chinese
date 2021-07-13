@@ -1,84 +1,84 @@
-hWelcome to the Alice Shop!h
-hCaw, caw...h
-hPlease buy something.
- Eh? Youfre not here for shopping today?h
-hCaw!!!h
-hWell then, letfs chat.h
-hWhat would you like to talk about?h
-Strange
-hChoose the staff member youfd like to see!h
-Sorry for the long wait.
-About a year after the Japanese Win95 came out,
-Alice is finally starting to put out Win95 games.
-------------------------------------Programmer  WAO--
-I think itfs significant that Alicefs first Win95
-title will be part of the popular Rance series.
-------------------------------------Programmer  WAO--
-Especially Rance IV, whose DOS version had a lot of
-issues with operability (mouse support and the like).
-We received a lot of harsh feedback.
-------------------------------------Programmer  WAO--
-Since Win95 really improved mouse operation, we
-really focused on altering the game with that in
-mind. So I think the operability improved a lot.
-------------------------------------Programmer  WAO--
-I think Plum-kun, who was in charge of the porting
-this time, really did his best on that sort of thing.
-------------------------------------Programmer  WAO--
-I think therefs still a lot of rerõ to be done on
-making mouse controls convenient, but I think Ifll aim
-for improvements with every work until we perfect them.
-------------------------------------Programmer  WAO--
-The group of people Ifm primarily trying to target
-are those who havenft played the DOS version, but
-I think you could say itfs also aimed at those
-------------------------------------Programmer  WAO--
-users whofd like to revisit our old works.
-------------------------------------Programmer  WA--
-This game, Rance IV, is going to be Win95 exclusive,
-so it will use our SYSTEM 3.5, which is Win32 API
-exclusive.
-------------------------------------Programmer  „Y¢--
-SYSTEM 3, which was for Win16 API, was slow and
-couldnft really be called an improvement even in
-empty flattery.
-------------------------------------Programmer  „Y¢--
-This time, I think we managed to make a SYSTEM
-thatfs no longer shackled by the transfer from
-DOS and actually uses the Win95fs strong points.
-------------------------------------Programmer  „Y¢--
-The name has only increased by 0.5 from SYSTEM 3¨
-SYSTEM 3.5, so it might seem like only a little has
-changed, but itfs not about the increase.
-------------------------------------Programmer  „Y¢--
+hŠ½Œ}Œõ—Õˆ¤—íãN¤“XIh
+h™ìC™ìch
+h¿—ˆ”ƒ±“Œ¼”ëB
+ ‰­H”I•s¥—ˆ”ƒ“Œ¼“Išv?h
+h™ì!!!h
+hD”ëC“ßæ¨‰ä˜ì—ˆãÖ“V”ëh
+h”I‘z—vãÖ±Y›õæcHh
+Šï‰ö
+h¿‘I¢”I‘z—¹‰ğ“I§ìlˆõIh
+•øŸ]æ¨ŠeˆÊ“™—¹“ß›õ‹vB
+‘å–ñİ“ú•¶”ÅWin95”¯•zˆê”N@,
+AĞI˜°ŠJn§ìWin95“IŸà‹Y—¹B
+------------------------------------ŠJ”¯Ò  WAO--
+‰ä”Fˆ×’m–¼“I—–zŒn—ñìˆ×AĞñ˜¢
+”¯šS˜°Win95•½‘ä“IŸà‹Y¥\•ª—LˆÓ‹`“IB
+------------------------------------ŠJ”¯Ò  WAO--
+“Á•Ê¥DOS”Å—–zIV‘¶İ”‘½
+‘€ì«–â‘è (—á”@‘Î˜°‘l•W“Ix)B
+j‘Î”‡±–â‘èC‰ä˜ì–ç¾“—¹œk‘½“I”½é^B
+------------------------------------ŠJ”¯Ò  WAO--
+—R˜°Win95Š®‘P—¹‘Î˜°‘l•W“IxC
+‰ä˜ìê’˜°Win95ˆÚA”Å—–zIV‘l•W‘€ì“I—D‰»B
+‰ä”Fˆ×ˆÚA”Å—–zIV“I‘€ì«—Lœk‘å“I’ñ¡B
+------------------------------------ŠJ”¯Ò  WAO--
+•‰ÓˆÚAHì“Iƒvƒ‰ƒ€æ¶C
+İ‘€ì«•û–Ê—D‰»˜ô—¹œk‘½“w—ÍB
+------------------------------------ŠJ”¯Ò  WAO--
+‘l•W‘€ìˆË‘R—Lœk‘å“I—D‰»‹óŠÔCù—viˆê•à“IŒ¤‹†
+•s‰ß‰ä‘z‰ä˜ì‰ï’Ê‰ß§ìX‘½ì•i—ˆ‹zæŒoŒ±C
+˜¸§•s’f“I—D‰»ì•i“I‘€ì«B
+------------------------------------ŠJ”¯Ò  WAO--
+ˆÚA”Å—–zIV“I–Ú•W—pŒËå—v¥
+“ß±–v—LŠß‰ßDOS”Å“IlC
+•s‰ß‘Î˜°“ß±‘z—v‰ñŒÚ‹S’{‰¤”V‘Oì•i“I
+------------------------------------ŠJ”¯Ò  WAO--
+—pŒË–ç¥\•ª„ä¦“IB
+------------------------------------ŠJ”¯Ò  WA--
+”‡˜¢”Å–{“I—–zIV¥Win95“Æè“IC
+ŠˆÈ‰ä˜ìg—p—¹Šî˜°Win32 API“I
+SYSTEM 3.5is§ìB
+------------------------------------ŠJ”¯Ò  „Y¢--
+g—pWin16 API“I
+SYSTEM 3‰^s\•ªŠÉ–C
+AZ¥‹±ˆÛ–ç’k•sã¥˜¢‰õ‘¬“IŒn“B
+------------------------------------ŠJ”¯Ò  „Y¢--
+§”‡Ÿ‰ä˜ìI˜°¬Œ÷ŠJ”¯o
+•sÄ”íDOSŒ“—e«Š‘©”›A
+^³—˜—p—¹Win95“I—D“_“ISYSTEMB
+------------------------------------ŠJ”¯Ò  „Y¢--
+˜¸SYSTEM 3“SYSTEM 3.5C
+”Å–{†‘ü’ñ‚—¹0.5CˆöŸ‰Â”\ŠÅ‹N—ˆ•Ï‰»œk¬C
+’A¥ÀÛã›ó”ñ”@ŸB
+------------------------------------ŠJ”¯Ò  „Y¢--
 Everything including the fundamentals has been
 improved, so I think itfs become a pretty powerful
 system thatfs really only inherited the name.
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 Kichikuou Rance and stuff like Katsumi-chan Monogatari
 will be on this SYSTEM 3.5 too.
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 Rance IV uses most of its functions, but not all of
 them. It still has many more interesting functions.
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 Itfs a little disappointing that I canft show them
 all off in every game we develop.
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 It might be in magazines and stuff by the time this
 is on sale, but the ones where the ’n} is all around
 you are pretty fun. (lol)
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 This is kind of related to the mouse operability
 stuff I talked about earlier. If you have any related
 opinions about this sort of thing for Rance IV, or
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 for Kichikuou, which will be out in December, please
 write to me. (And if you do, addressing the letter to
 WAO will make it much more likely to be read by me.)
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 This SYSTEM has only just begun its life, but Ifd
 like to keep raising it without stopping.
-------------------------------------Programmer  „Y¢--
+------------------------------------ŠJ”¯Ò  „Y¢--
 Umyuu, hanya hanya, hoee hoeee
 Thatfs that.
 See ya!
