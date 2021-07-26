@@ -22,7 +22,7 @@ AĞI˜°ŠJn§ìWin95“IŸà‹Y—¹B
 ‰ä˜ìê’˜°Win95ˆÚA”Å—–zIV‘l•W‘€ì“I—D‰»B
 ‰ä”Fˆ×ˆÚA”Å—–zIV“I‘€ì«—Lœk‘å“I’ñ¡B
 ------------------------------------ŠJ”¯Ò  WAO--
-•‰ÓˆÚAHì“Iƒvƒ‰ƒ€æ¶C
+•‰ÓˆÚAHì“IPLUM'Fæ¶C
 İ‘€ì«•û–Ê—D‰»˜ô—¹œk‘½“w—ÍB
 ------------------------------------ŠJ”¯Ò  WAO--
 ‘l•W‘€ìˆË‘R—Lœk‘å“I—D‰»‹óŠÔCù—viˆê•à“IŒ¤‹†
@@ -79,74 +79,74 @@ SYSTEM 3.5¥ˆê˜¢˜¸ª–{ã
 SYSTEM 3.5ŠÒ¥˜¢„o¶“I‰d™XC
 ‰äŠó–]”\çê•s’f“IŠ®‘P‰üi›€B
 ------------------------------------ŠJ”¯Ò  „Y¢--
-Umyuu, hanya hanya, hoee hoeee
-Thatfs that.
-See ya!
-Voice of God
-  hWhat was that!? Whaddaya mean!? Explain yourself!
-   Ehh? Fuck with me and Ifll beat the shit outta ya!h
-Thatfs that, so thatfs that, ya know?
-Canft ya be satisfied with that?
-Voice of God
-  hAh, whatever.....
-   Like hell! Did ya really think Ifd accept that!?
-   Hurry up anf explain!h
-Fine, fine. I understand.
-Well then, letfs get started.
-So I tried to start out with an Osakan comedy skit!
-Ifm PLUMfF.
-I did most of the porting work myself this time.
-Voice of God
-  hHow lonelyyyy!h
-Itfs a Win95 exlusive game so itfs controlled by mouse.
-fNothing Not Mousef is the concept I went with when I
-made it.
-Voice of God
-  hWhy just the mouse?h
-Because the mouse is the only control device that
-definitely comes with every computer. Therefs something
-called a Microsoft Pad now too, but itfs not going to be
-used by everyone, so we donft have any support for it.
-Voice of God
-  hWhat happened to the keyboard?h
-We were working on mouse controls for so long we didnft
-have time.
-          Teehee
-Voice of God
-  hItfs fucking creepy when a guy laughs all cute like
-   that, you loser!h
-We were able to do a lot of things we relied on the
-program for in the past with the script this time with
-SYSTEM 3.5.
-Youfre so cool, Kazushi-kun. Youfre so awesome, WAO-san.
-Voice of God
-  hWhat, you didnft do any of the work?h
-Kazushi-kun and WAO-san made SYSTEM 3.5.
-Shige-kun made the installer.
-They were all wonderfully done.
-Voice of God
-  hSo whatfd you do?h
-I edited the script. Like I said earlier, a lot of stuff
+šI™Ü, ™û™Ş™û™Ş, ™áŸV™áŸV
+“ß›õA¥”‡—lB
+``I
+_“Iº‰¹
+  hY›õŠßˆÓˆ¢!? A¥œƒ—lˆ¢!? ‹‹‰ä‰ğßˆê‰º!
+   ‰¶? —v¥ŒĞ˜M‰ä“I˜bAçs”IšG!h
+eA¥”‡—lf“IˆÓv¥eA¥”‡—lf, ”I–¾”’—¹›õ?
+Œ»İ–ˆÓ—¹”ë?
+_“Iº‰¹
+  hŸV, D”ë.....
+   œƒ›õ‰Â”\ˆ¢! ”IˆÈˆ×”‡—l‰äA”\Úó—¹›õ!?
+   ‰õ“_‹‹‰ä‰ğß!h
+D—¹CD—¹B“ß‰äA‰ğßˆê‰º”ëB
+“ß›õCAæ¨‰ä˜ìŠJn”ëB
+„„‰ä’…—p‘åão—ˆ®ŠˆBi’F‘O–Ê—^_“I‘Î˜bg—p‘åãoj
+‰ä¥PLUMeFB
+‰ä“Æ©Š®¬—¹å—v“IˆÚAHìB
+_“Iº‰¹
+  h–ç‘¾â›‹—¹”ë!h
+”‡¥ˆê˜¢Win95“Æè“IŸà‹YCˆöŸ›€¥g—p‘l•WisT§“IB
+eœ—¹‘l•WˆÈŠOY›õ“s•sù—vf
+‰ä¥ˆÈ”‡í—”OisŠJ”¯“IB
+_“Iº‰¹
+  hˆ×Y›õ‘ü—p‘l•W‘€ìæc?h
+ˆöˆ×‘l•W¥–ˆ˜¢“d”]“s‰ï—L“IŠOİB
+Œ»İ–ç—Lí‹©˜ô”÷“îPad“I“Œ¼C
+•s‰ß•‹y—¦•s‚C
+ŠˆÈ‰ä˜ì•s‰ïx”‡íŠOİ“IB
+_“Iº‰¹
+  h“ß›õˆ×Y›õ•s—pŒ®”Õæc?h
+‰ä˜ìİ‘l•Wã‰Ô—¹‘¾’·ŠÔC
+Œ‹‰Ê–vŠÔ˜ôŒ®”Õ“I‘€ì—¹B
+ŸV•i’F“ßíŒo“T“IÈ“ª“fã“ª‘•™‹“®ìj
+_“Iº‰¹
+  hâœ’`I
+   ’jl”„–G–ç‘¾ˆ«S—¹Ih
+‘½åk—¹SYSTEM 3.5C
+‰ä˜ì‰ÂˆÈg—p‹r–{—ˆŠ®¬
+‰ß‹‘ü”\’Ê‰ß•Ò’ö—ˆÀŒ»“IŒ÷”\B
+‚©‚¸‚µæ¶^¥‘¾ƒ—¹BWAOæ¶–ç”ñí–_B
+_“Iº‰¹
+  hŸVHI”I–v—LQ—^›õ?h
+‚©‚¸‚µæ¶—^WAOæ¶§ì—¹SYSTEM 3.5B
+‚µ‚°æ¶‘¥ŠJ”¯—¹ˆÀ‘••ïB
+‘¼˜ì“s\•ªoF“IŠ®¬—¹HìB
+_“Iº‰¹
+  h“ß”I˜ô—¹Y›õæc?h
+‰ä•‰Ó•ÒÊ‹r–{B Like I said earlier, a lot of stuff
 that was handled by the program before is now done in the
 script, so there was a lot of specialized work I had to
 do. It was a lot of trouble..
-Voice of God
+_“Iº‰¹
   hIf itfs a lot of work why not just have the program do
    it?h
 If every game has a different program, itfd be hard to do
 maintenance stuff with them all, right?
 Thatfs why SYSTEM 3.5 was made to be all-purpose, with a
 variety of wonderful commands.
-Voice of God
+_“Iº‰¹
   hIf theyfre wonderful, arenft they easy to use?h
 They say fevery man knows his business best,f right?
 Of course a specialized programfs gonna be easier.
 But if itfs specialized then it canft be used for other
 games.
-Voice of God
+_“Iº‰¹
   hIs that how it works?h
 Thatfs how it works!
-Voice of God
+_“Iº‰¹
   hVery well! Well, we should probably wrap things up.h
 Things went a lot slower than planned this time and we
 burdened a lot of related parties, which I feel like we
