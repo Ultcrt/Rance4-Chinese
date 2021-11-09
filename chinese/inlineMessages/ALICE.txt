@@ -117,8 +117,8 @@ SYSTEM 3.5還是个剛出生的嬰儿，
    男人売萌也太悪心了！”
 多虧了SYSTEM 3.5，
 我們可以使用脚本来完成
-過去只能通過編程来実現的功能。
-かずし先生真是太帥了。WAO先生也非常棒。
+過去只能通過程序来実現的功能。
+多虧了帥气的かずし先生和厳害的WAO先生。
 神的声音
   ”欸？！祢没有参与麼?”
 かずし先生与WAO先生制作了SYSTEM 3.5。
@@ -126,28 +126,28 @@ SYSTEM 3.5還是个剛出生的嬰儿，
 他們都十分出色的完成了工作。
 神的声音
   ”那祢做了什麼訥?”
-我負責編写脚本。 Like I said earlier, a lot of stuff
-that was handled by the program before is now done in the
-script, so there was a lot of specialized work I had to
-do. It was a lot of trouble..
+把原来由程序実現的功能用脚本改写阿，
+就和剛剛説的一様，
+其中有很多的特殊処理，
+很讓人頭疼。。
 神的声音
-  ”If it’s a lot of work why not just have the program do
-   it?”
-If every game has a different program, it’d be hard to do
-maintenance stuff with them all, right?
-That’s why SYSTEM 3.5 was made to be all-purpose, with a
-variety of wonderful commands.
+  ”如果改写那麼費事的話，
+   為什麼不継続用程序訥?”
+如果毎个游戯都用不同的程序的話，
+那麼同時維護它們会非常困難，対罷？
+這就是為什麼SYSTEM 3.5擁有
+泛用且優秀的指令集。
 神的声音
-  ”If they’re wonderful, aren’t they easy to use?”
-They say ’every man knows his business best,’ right?
-Of course a specialized program’s gonna be easier.
-But if it’s specialized then it can’t be used for other
-games.
+  ”如果SYSTEM 3.5這麼優秀的話，那麼不応該用起来很簡単麼?”
+俗話説的好：‘三百六十行，行行出状元’。
+一个特化的程序当然比泛用的指令集更方便使用。
+但是，特化意味着不能在
+其他游戯中復用這个程序。
 神的声音
-  ”Is that how it works?”
-That’s how it works!
+  ”是這様的麼?”
+就是這様哦!
 神的声音
-  ”Very well! Well, we should probably wrap things up.”
+  ”唔姆！好了，那麼最后総結一下罷。”
 Things went a lot slower than planned this time and we
 burdened a lot of related parties, which I feel like we
 probably say every time, how terrible, next time we’ll do
